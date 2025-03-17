@@ -2,7 +2,7 @@
   "name": "dictionary",
   "version": "0.0.0",
   "private": true,
-  "type": "node",
+  "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
