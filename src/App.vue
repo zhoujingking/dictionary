@@ -58,10 +58,17 @@ onMounted(() => {
   }
 }
 
-@media screen and (min-width: 400px){
+@media screen and (min-width: 400px) and (max-width: 600px) {
   .container {
     font-size: 22px;
     grid-template-columns: repeat(2, 50%);
+  }
+}
+
+@media screen and (min-width: 600px) and (max-width: 1000px) {
+  .container {
+    font-size: 22px;
+    grid-template-columns: repeat(4, 25%);
   }
 }
 </style>
