@@ -14,7 +14,7 @@ export const getWordList = async (isAlpha = false) => {
   // })
   // return res.data?.itemList || [];
 
-  const path = isAlpha ? '/dict_alpha.json' : 'dict.json';
+  const path = isAlpha ? '/dictionary/dict_alpha.json' : '/dictionary/dict.json';
   const { data } = await axios.get(path);
   return data;
 }
