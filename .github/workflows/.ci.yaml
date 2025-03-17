@@ -35,8 +35,6 @@ jobs:
     steps:
       - name: upload artifacts
         uses: actions/upload-pages-artifact@v3
-        with: 
-          path: "./dist"
       - name: deploy
         id: deployment
         uses: actions/deploy-pages@v4
