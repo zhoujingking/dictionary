@@ -3,14 +3,15 @@ import { computed, onMounted, ref } from 'vue';
 import { getWordList } from './rest';
 import Word from './component/Word.vue'
 
-const wordList = ref([])
+const originalWordList = ref([])
+const interWordList = ref([])
 const searchText = ref('')
 
 const finalWordList = computed(() => {
   if (!searchText.value) {
-    return wordList.value;
+    return interWordList.value;
   }
-  return wordList.value.filter(item => {
+  return interWordList.value.filter(item => {
     const reg = new RegExp(searchText.value, 'ig');
     return reg.test(item.word) || reg.test(item.trans)
   })
@@ -18,11 +19,32 @@ const finalWordList = computed(() => {
 
 const onReset = () => {
   searchText.value = ''
+  interWordList.value = originalWordList.value;
+}
+
+function shuffleArray(array) {
+    for (let i = array.length - 1; i > 0; i--) {
+        // 生成一个 0 到 i 之间的随机索引
+        const j = Math.floor(Math.random() * (i + 1));
+        
+        // 交换元素
+        [array[i], array[j]] = [array[j], array[i]];
+    }
+    return array;
+}
+
+const onShuffle = () => {
+  interWordList.value = shuffleArray([...originalWordList.value])
+}
+
+const onSort = () => {
+  interWordList.value = [...originalWordList.value].sort((a, b) => a.word > b.word ? 1 : -1);
 }
 
 onMounted(() => {
   getWordList().then(list => {
-    wordList.value = list;
+    originalWordList.value = list;
+    interWordList.value = list;
   })
 }) 
 
@@ -30,7 +52,10 @@ onMounted(() => {
 
 <template>
   <div class="filter">
-    <input type="text" v-model="searchText"> <button @click="onReset">reset</button>
+    <input type="text" v-model="searchText"> 
+    <button @click="onReset">reset</button>
+    <button @click="onShuffle">shuffle</button>
+    <button @click="onSort">asc</button>
   </div>
   <div class="container">
     <Word v-for="(word, index) in finalWordList" :key="index" :data="word"></Word>
