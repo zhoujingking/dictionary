@@ -1,5 +1,625 @@
 [
   {
+    "itemId": "2d0feca369c236eecd6090b05cdcbf6d",
+    "word": "wrench",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.扳手，扳钳；扭伤；痛苦；歪曲；猛扭\nvt.扭伤；猛扭；曲解；折磨\nvi.扭伤；猛扭；猛绞\nn.(Wrench)人名；(英)伦奇",
+    "usphone": "rentʃ",
+    "ukphone": "rentʃ",
+    "createTime": "2025-03-25T01:42:04.188+0000"
+  },
+  {
+    "itemId": "e2b3276460f48f4a14ace43cde528a6c",
+    "word": "commando",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.突击队，突击队员",
+    "usphone": "kəˈmændoʊ",
+    "ukphone": "kəˈmɑːndəʊ",
+    "createTime": "2025-03-25T01:40:36.276+0000"
+  },
+  {
+    "itemId": "f293c5d1fb685c06e963d3a164490885",
+    "word": "molten",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.熔化的；铸造的；炽热的\nv.换毛；脱毛（molt的过去分词）\nn.(Molten)人名；(英)莫尔滕",
+    "usphone": "ˈmoʊltən",
+    "ukphone": "ˈməʊltən",
+    "createTime": "2025-03-25T01:38:01.986+0000"
+  },
+  {
+    "itemId": "a733d01842a1e0f99fe86b8d0427510b",
+    "word": "mold",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.模具；铸模；模制品；类型，个性，风格；框架；体型，模样；霉，霉菌；耕作土壤；松软沃土\nv.浇铸，塑造；用模子制作；对……影响重大；将……塑造成；使）紧贴于，吻合；轮廓相符；使发霉\nn.(Mold) （美、英、奥地利）莫尔德（人名）",
+    "usphone": "moʊld",
+    "ukphone": "məʊld",
+    "createTime": "2025-03-25T01:36:46.531+0000"
+  },
+  {
+    "itemId": "0a8a8bec5fa9e2df2309028d72d81061",
+    "word": "derange",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "vt.扰乱；使错乱；使发狂",
+    "usphone": "dɪˈreɪndʒ",
+    "ukphone": "dɪ'reɪn(d)ʒ",
+    "createTime": "2025-03-25T01:26:54.889+0000"
+  },
+  {
+    "itemId": "afa09560d924387c2cdb0ce3adc3d3bf",
+    "word": "conduct",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "v.组织，实施，进行；指挥（音乐）；带领，引导；举止，表现；传导（热或电）\nn.行为举止；管理（方式），实施（办法）；引导",
+    "usphone": "kənˈdʌkt",
+    "ukphone": "kənˈdʌkt",
+    "createTime": "2025-03-25T01:25:07.191+0000"
+  },
+  {
+    "itemId": "686279daec283065ec8fe6f1c4198a14",
+    "word": "warden",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.区长；看守人；典狱官；学监\nn.(Warden)人名；(德、瑞典)瓦尔登；(英)沃登",
+    "usphone": "ˈwɔːrdn",
+    "ukphone": "ˈwɔːdn",
+    "createTime": "2025-03-25T01:24:29.513+0000"
+  },
+  {
+    "itemId": "d02f10ffdc7d05df89388106d249b9d1",
+    "word": "chromosome",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.[遗][细胞][染料] 染色体（形容词chromosomal，副词chromosomally）",
+    "usphone": "ˈkroʊməsoʊm",
+    "ukphone": "ˈkrəʊməsəʊm",
+    "createTime": "2025-03-25T01:17:34.112+0000"
+  },
+  {
+    "itemId": "f1cb5a90dfc9d3189538ede155fe6be0",
+    "word": "foundry",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.铸造，铸造类；[机] 铸造厂",
+    "usphone": "ˈfaʊndri",
+    "ukphone": "ˈfaʊndri",
+    "createTime": "2025-03-25T01:16:40.593+0000"
+  },
+  {
+    "itemId": "1d246ce239fbac92cb49387a5d18aabe",
+    "word": "cryogenic",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.冷冻的（副词cryogenically）；低温学的；低温实验法的",
+    "usphone": "ˌkraɪəˈdʒenɪk",
+    "ukphone": "ˌkraɪəˈdʒenɪk",
+    "createTime": "2025-03-25T01:09:40.832+0000"
+  },
+  {
+    "itemId": "ca2950f170509b32c148fdb58aa2d920",
+    "word": "confinement",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.限制；监禁；分娩",
+    "usphone": "kənˈfaɪnmənt",
+    "ukphone": "kənˈfaɪnmənt",
+    "createTime": "2025-03-25T01:06:53.271+0000"
+  },
+  {
+    "itemId": "b4d28e7d94deef697fdace41014af38c",
+    "word": "eradicate",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "vt.根除，根绝；消灭",
+    "usphone": "ɪˈrædɪkeɪt",
+    "ukphone": "ɪˈrædɪkeɪt",
+    "createTime": "2025-03-25T01:04:26.875+0000"
+  },
+  {
+    "itemId": "8ede084b4c3903a1577f2018d1f4bcda",
+    "word": "condemn",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "vt.谴责；判刑，定罪；声讨",
+    "usphone": "kənˈdem",
+    "ukphone": "kənˈdem",
+    "createTime": "2025-03-25T01:02:47.991+0000"
+  },
+  {
+    "itemId": "0f400f8be7ea480dd50683a0b4564294",
+    "word": "labyrinthine",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.迷宫的；复杂的",
+    "usphone": "ˌlæbəˈrɪnθɪn,ˌlæbəˈrɪnθiːn",
+    "ukphone": "ˌlæbəˈrɪnθaɪn",
+    "createTime": "2025-03-25T01:00:39.872+0000"
+  },
+  {
+    "itemId": "25f3b766d8b7537ed36ad5b06a418a17",
+    "word": "lurk",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "vi.潜伏；潜藏；埋伏\nn.潜伏；埋伏",
+    "usphone": "lɜːrk",
+    "ukphone": "lɜːk",
+    "createTime": "2025-03-25T01:00:07.316+0000"
+  },
+  {
+    "itemId": "c8224c3000da5df8c68e0c7db3e3fcac",
+    "word": "penal",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.刑事的；刑罚的",
+    "usphone": "ˈpiːnl",
+    "ukphone": "ˈpiːnl",
+    "createTime": "2025-03-25T00:59:14.516+0000"
+  },
+  {
+    "itemId": "1a659900fa895aeeca3d0702d906c7d2",
+    "word": "treacherous",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.奸诈的，叛逆的，背叛的；危险的；不牢靠的",
+    "usphone": "ˈtretʃərəs",
+    "ukphone": "ˈtretʃərəs",
+    "createTime": "2025-03-25T00:58:39.635+0000"
+  },
+  {
+    "itemId": "e3a18268cf9bf0e4b17fe34fe1d27431",
+    "word": "unwitting",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.不知情的；不知不觉的，无意的\nv.使精神错乱；使丧失智能（unwit的ing形式）",
+    "usphone": "ʌnˈwɪtɪŋ",
+    "ukphone": "ʌnˈwɪtɪŋ",
+    "createTime": "2025-03-25T00:56:35.436+0000"
+  },
+  {
+    "itemId": "9cdc80866d2008d281f32002dfc28f2e",
+    "word": "clash",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.冲突，不协调；碰撞声，铿锵声\nvi.冲突，抵触；砰地相碰撞，发出铿锵声\nvt.使碰撞作声",
+    "usphone": "klæʃ",
+    "ukphone": "klæʃ",
+    "createTime": "2025-03-25T00:55:46.712+0000"
+  },
+  {
+    "itemId": "1701cb1e717c27116530e2967db6300e",
+    "word": "infirmary",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.医务室；医院；养老院",
+    "usphone": "ɪnˈfɜːrməri",
+    "ukphone": "ɪnˈfɜːməri",
+    "createTime": "2025-03-25T00:53:46.192+0000"
+  },
+  {
+    "itemId": "66a9b9300b5ae273203d016bcd860a72",
+    "word": "expel",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "vt.驱逐；开除",
+    "usphone": "ɪkˈspel",
+    "ukphone": "ɪkˈspel",
+    "createTime": "2025-03-24T09:04:06.459+0000"
+  },
+  {
+    "itemId": "5f934a4ed884e5dd0a0c37d4e4d290db",
+    "word": "conduit",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.[电] 导管；沟渠；导水管",
+    "usphone": "ˈkɑːnduɪt",
+    "ukphone": "ˈkɒndjuɪt",
+    "createTime": "2025-03-24T09:00:55.723+0000"
+  },
+  {
+    "itemId": "9ba4945a164ca16825d99cbf78597309",
+    "word": "barricade",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.街垒；路障；争论之处\nvt.设路障；阻碍",
+    "usphone": "ˈbærɪkeɪd",
+    "ukphone": "ˈbærɪkeɪd; ˌbærɪˈkeɪd",
+    "createTime": "2025-03-24T08:54:29.978+0000"
+  },
+  {
+    "itemId": "6a129dad03109b6b0e3c726c006501e9",
+    "word": "cocoon",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.茧；卵囊\nvt.把……紧紧包住",
+    "usphone": "kəˈkuːn",
+    "ukphone": "kəˈkuːn",
+    "createTime": "2025-03-24T08:53:26.065+0000"
+  },
+  {
+    "itemId": "fa0bf978148fa077dbdc60b36a671517",
+    "word": "ventilation",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.通风设备；空气流通",
+    "usphone": "ˌventɪˈleɪʃn",
+    "ukphone": "ˌventɪˈleɪʃn",
+    "createTime": "2025-03-24T08:52:10.060+0000"
+  },
+  {
+    "itemId": "bee4b03bef41e26e71f59eae89e2bc3c",
+    "word": "gestate",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "vt.使怀孕\nvi.孕育，创案",
+    "usphone": "ˈdʒesteɪt",
+    "ukphone": "dʒeˈsteɪt",
+    "createTime": "2025-03-24T08:40:00.304+0000"
+  },
+  {
+    "itemId": "25a2fa6f9d3e22fdb67afc1145ea9dc3",
+    "word": "debrief",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "v.盘问（某人，尤指士兵或间谍）；述职；听取报告\nn.盘问，询问",
+    "usphone": "ˌdiːˈbriːf",
+    "ukphone": "ˌdiːˈbriːf",
+    "createTime": "2025-03-24T08:38:32.782+0000"
+  },
+  {
+    "itemId": "c049e8aa4f42587373fd6d41c2032146",
+    "word": "vessel",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.船，舰；[组织] 脉管，血管；容器，器皿\nn.(Vessel)人名；(荷)费塞尔；(俄、意、捷)韦塞尔",
+    "usphone": "ˈvesl",
+    "ukphone": "ˈvesl",
+    "createTime": "2025-03-24T07:51:21.606+0000"
+  },
+  {
+    "itemId": "5cf5f2759e5eb420c87c92120c7f7ae9",
+    "word": "salvage",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.打捞；海上救助；抢救财货；救难的奖金\nvt.抢救；海上救助\nn.(Salvage)人名；(法)萨尔瓦热",
+    "usphone": "ˈsælvɪdʒ",
+    "ukphone": "ˈsælvɪdʒ",
+    "createTime": "2025-03-24T07:51:14.962+0000"
+  },
+  {
+    "itemId": "928e221e49729c0346cc9a94310afd75",
+    "word": "prowl",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "v.潜行；徘徊；搜寻\nn.徘徊，潜行；悄悄踱步；（动物）出动捕猎；四处搜寻（干某事的机会）",
+    "usphone": "praʊl",
+    "ukphone": "praʊl",
+    "createTime": "2025-03-24T07:46:57.400+0000"
+  },
+  {
+    "itemId": "e7d7b2646edf35eb728e39041f51a18a",
+    "word": "xenomorphs",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n．异形：源自电影《异形》（Alien）系列中的一种虚构的外星生物，以其独特的外观、高度智慧和致命性而著名。",
+    "usphone": null,
+    "ukphone": null,
+    "createTime": "2025-03-24T07:45:27.042+0000"
+  },
+  {
+    "itemId": "2f3f63eabbcf0ff3f3763ad6fd32a152",
+    "word": "terraform",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "v.将……地球化",
+    "usphone": null,
+    "ukphone": null,
+    "createTime": "2025-03-24T07:40:49.640+0000"
+  },
+  {
+    "itemId": "e1e2b98ad67a002ad05d5a9b346c235a",
+    "word": "offspring",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.后代，子孙；产物",
+    "usphone": "ˈɔːfsprɪŋ",
+    "ukphone": "ˈɒfsprɪŋ",
+    "createTime": "2025-03-24T07:40:24.682+0000"
+  },
+  {
+    "itemId": "74a6e851988cdddb8bfa1fe6a0f50478",
+    "word": "grapple",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "vi.抓住；格斗；抓斗机\nvt.抓住；与…格斗\nn.抓住；格斗",
+    "usphone": "ˈɡræpl",
+    "ukphone": "ˈɡræpl",
+    "createTime": "2025-03-24T03:26:58.264+0000"
+  },
+  {
+    "itemId": "851de3474e28d4c7ed3df9c892e24434",
+    "word": "incinerate",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "vi.把……烧成灰；烧弃\nvt.焚化；烧成灰",
+    "usphone": "ɪnˈsɪnəreɪt",
+    "ukphone": "ɪnˈsɪnəreɪt",
+    "createTime": "2025-03-24T03:23:13.921+0000"
+  },
+  {
+    "itemId": "1ab69bfa3df0a2561eb24c3d45cb6d35",
+    "word": "expendable",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.可消费的；排出的；不重复使用的；可牺牲的\nn.消耗品",
+    "usphone": "ɪkˈspendəbl",
+    "ukphone": "ɪkˈspendəbl",
+    "createTime": "2025-03-24T03:22:23.366+0000"
+  },
+  {
+    "itemId": "28f6f03d98721514428a0014cc12cdf7",
+    "word": "convulse",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "vt.震撼；使剧烈震动；使抽搐",
+    "usphone": "kənˈvʌls",
+    "ukphone": "kənˈvʌls",
+    "createTime": "2025-03-24T03:17:02.645+0000"
+  },
+  {
+    "itemId": "a6c0a10070d301e578611460ee7bc792",
+    "word": "incision",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.切口；雕刻，切割；切开",
+    "usphone": "ɪnˈsɪʒn",
+    "ukphone": "ɪnˈsɪʒn",
+    "createTime": "2025-03-24T03:16:11.118+0000"
+  },
+  {
+    "itemId": "42e211abbbb69caa7a339b4fc214449a",
+    "word": "drip",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "v.滴下，使滴下；（液体）滴下，漏下；充满；溢出，发出\nn.水滴；滴水声；滴注器，静脉滴注；滴水槽；（非正式）窝囊废，平庸乏味者，使人厌烦的人",
+    "usphone": "drɪp",
+    "ukphone": "drɪp",
+    "createTime": "2025-03-24T03:15:57.119+0000"
+  },
+  {
+    "itemId": "56b149dc5a9116ea84c88156970e964e",
+    "word": "trickle",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "vi.滴；细细地流；慢慢地移动\nvt.使…滴；使…淌；使…细细地流\nn.滴，淌；细流",
+    "usphone": "ˈtrɪkl",
+    "ukphone": "ˈtrɪkl",
+    "createTime": "2025-03-24T03:14:56.881+0000"
+  },
+  {
+    "itemId": "15c856120cbcabe368162c35a019c313",
+    "word": "hull",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.船体；（果实的）外壳\nvt.[粮食] 去壳\nn.(Hull)人名；(英)赫尔；(法)于尔",
+    "usphone": "hʌl",
+    "ukphone": "hʌl",
+    "createTime": "2025-03-24T03:14:00.083+0000"
+  },
+  {
+    "itemId": "3d223a849dda65fb69ada2f2dfa9a30e",
+    "word": "digits",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.[计] 数字；手指；[解剖] 足趾（digit的复数）",
+    "usphone": "ˈdɪdʒɪts",
+    "ukphone": null,
+    "createTime": "2025-03-24T03:13:17.524+0000"
+  },
+  {
+    "itemId": "7661d77cb83f1545c2c0e5b4cea6d3c2",
+    "word": "derelict",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.（尤指土地或建筑物）荒废的，被弃置的，破旧的；（人）玩忽职守的，不负责任的\nn.无家可归者；乞丐；无业游民；废弃物（尤指废弃船只）；（因水位后退）逐渐变干的土地",
+    "usphone": "ˈderəlɪkt",
+    "ukphone": "ˈderəlɪkt",
+    "createTime": "2025-03-24T03:08:51.202+0000"
+  },
+  {
+    "itemId": "9fe565dc4b3f80d9ce06996b9356ef5b",
+    "word": "debris",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.碎片，残骸\nn.(Debris)人名；(法)德布里",
+    "usphone": "dəˈbriː",
+    "ukphone": "ˈdebriː; ˈdeɪbriː",
+    "createTime": "2025-03-24T03:07:45.602+0000"
+  },
+  {
+    "itemId": "1a211f3a987268a853bcfbeec160d5a2",
+    "word": "carbon-dioxide",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "二氧化碳",
+    "usphone": null,
+    "ukphone": null,
+    "createTime": "2025-03-24T03:07:10.482+0000"
+  },
+  {
+    "itemId": "6218d69fc147f18a59e3153888285613",
+    "word": "methane",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.[有化] 甲烷；[能源] 沼气",
+    "usphone": "ˈmeθeɪn",
+    "ukphone": "ˈmiːθeɪn",
+    "createTime": "2025-03-24T03:06:46.735+0000"
+  },
+  {
+    "itemId": "3055ae8f0be14008649dc9fa32814e0d",
+    "word": "primordial",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.原始的；根本的；原生的",
+    "usphone": "praɪˈmɔːrdiəl",
+    "ukphone": "praɪˈmɔːdiəl",
+    "createTime": "2025-03-24T03:06:21.606+0000"
+  },
+  {
+    "itemId": "9107e4c39cf3509ab7a4cf00fbf8f349",
+    "word": "forfeiture",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.（财产等的）没收；（权利、名誉等的）丧失",
+    "usphone": "ˈfɔːrfɪtʃər",
+    "ukphone": "ˈfɔːfɪtʃə(r)",
+    "createTime": "2025-03-24T03:04:11.547+0000"
+  },
+  {
+    "itemId": "80dfc40eddbea7bfdb839f8373f0b3c5",
+    "word": "acoustical",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.[声] 声学的；听觉的；音响的",
+    "usphone": "əˈkuːstɪkl",
+    "ukphone": "ə'kuːstɪkəl",
+    "createTime": "2025-03-24T03:02:50.645+0000"
+  },
+  {
+    "itemId": "b67da765231c5945518e8533dd49eb19",
+    "word": "apprise",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "vt.通知；报告",
+    "usphone": "əˈpraɪz",
+    "ukphone": "əˈpraɪz",
+    "createTime": "2025-03-24T03:02:03.760+0000"
+  },
+  {
+    "itemId": "1e956d5eca4d2f90bc1afc55ed9b2827",
+    "word": "stasis",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.静止状态（或时期）；郁积；内乱\nn.(Stasis) （美）斯塔西斯（人名）",
+    "usphone": "ˈsteɪsɪs",
+    "ukphone": "ˈsteɪsɪs",
+    "createTime": "2025-03-24T03:00:58.722+0000"
+  },
+  {
+    "itemId": "0944bfe82df2d3c16b841efe2c40098d",
+    "word": "ore",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.矿；矿石\nn.(Ore)人名；(意、瑞典)奥雷；(英)奥尔",
+    "usphone": "ɔːr",
+    "ukphone": "ɔː(r)",
+    "createTime": "2025-03-24T03:00:39.039+0000"
+  },
+  {
+    "itemId": "d5dd3aa59d609a1da071bc88df1de5f3",
+    "word": "refinery",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.精炼厂；提炼厂；冶炼厂",
+    "usphone": "rɪˈfaɪnəri",
+    "ukphone": "rɪˈfaɪnəri",
+    "createTime": "2025-03-24T03:00:23.406+0000"
+  },
+  {
+    "itemId": "5013916ada1a2ccf6477842e5de4ceed",
+    "word": "dire",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.可怕的；悲惨的；极端的",
+    "usphone": "ˈdaɪər",
+    "ukphone": "ˈdaɪə(r)",
+    "createTime": "2025-03-24T02:17:59.898+0000"
+  },
+  {
+    "itemId": "ea3e13e3c90b4ff4bd49ce42283cfd69",
+    "word": "slumber",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.睡眠；麻木状态；静止状态\nvi.睡眠；蛰伏；麻木\nvt.睡眠；睡着度过",
+    "usphone": "ˈslʌmbər",
+    "ukphone": "ˈslʌmbə(r)",
+    "createTime": "2025-03-24T02:17:39.946+0000"
+  },
+  {
+    "itemId": "16c83f381bf0b591df2bfd860663c19c",
+    "word": "loom",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "v.赫然耸现，可怕地出现；显得突出，逼近；（不祥之事）似将发生；在织布机上织\nn.织布机；若隐若现的景象\nn.(Loom) （瑞典）洛姆（人名）",
+    "usphone": "luːm",
+    "ukphone": "luːm",
+    "createTime": "2025-03-24T02:14:26.060+0000"
+  },
+  {
+    "itemId": "105ec48ffee0c305155aa511481f2a92",
+    "word": "cryosleep",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.（科幻小说里的）低温休眠状态",
+    "usphone": null,
+    "ukphone": null,
+    "createTime": "2025-03-24T02:13:12.100+0000"
+  },
+  {
+    "itemId": "7b93143fcb4ca6227a49490c83b09ddf",
+    "word": "overt",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.明显的；公然的；蓄意的",
+    "usphone": "oʊˈvɜːrt,ˈoʊvɜːrt",
+    "ukphone": "əʊˈvɜːt; ˈəʊvɜːt",
+    "createTime": "2025-03-24T02:06:08.293+0000"
+  },
+  {
+    "itemId": "9ee57b8384bb8b90a5eefc347f0d3fe7",
+    "word": "intertwine",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "vi.纠缠；编结\nvt.缠绕；纠缠",
+    "usphone": "ˌɪntərˈtwaɪn",
+    "ukphone": "ˌɪntəˈtwaɪn",
+    "createTime": "2025-03-19T13:12:09.194+0000"
+  },
+  {
+    "itemId": "f0197ea05c52e723ef50a424bc024270",
+    "word": "permissible",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.可允许的；获得准许的",
+    "usphone": "pərˈmɪsəbl",
+    "ukphone": "pəˈmɪsəbl",
+    "createTime": "2025-03-19T12:49:37.298+0000"
+  },
+  {
+    "itemId": "6b890e531e148008ad9d83491a1ed199",
+    "word": "interwind",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "v.（使）互相盘绕",
+    "usphone": "ˌɪntərˈwaɪnd",
+    "ukphone": "ˌɪntə(r)ˈwaɪnd",
+    "createTime": "2025-03-19T12:46:20.113+0000"
+  },
+  {
+    "itemId": "62a03c7822092d565c536d35d4c62204",
+    "word": "skulk",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "vi.潜伏；偷偷隐躲；逃避责任；偷偷摸摸地行走\nn.躲藏者；逃避责任者；潜行的人或动物",
+    "usphone": "skʌlk",
+    "ukphone": "skʌlk",
+    "createTime": "2025-03-18T23:39:19.931+0000"
+  },
+  {
     "itemId": "2de8299bdff1c57b94eae770bd359af2",
     "word": "dwindle",
     "lanFrom": "en",
@@ -11588,16 +12208,6 @@
     "usphone": "ˈɡlɪtər",
     "ukphone": "ˈɡlɪtə(r)",
     "createTime": "2024-11-29T07:53:56.586+0000"
-  },
-  {
-    "itemId": "83c5d5f5cfaa32af514f5bd88d30cc39",
-    "word": "skulking",
-    "lanFrom": "en",
-    "lanTo": "zh-CHS",
-    "trans": "v．潜伏，悄悄行动：为了避免被发现而悄悄地行动或隐藏。",
-    "usphone": null,
-    "ukphone": null,
-    "createTime": "2024-11-29T01:16:57.954+0000"
   },
   {
     "itemId": "2dba56834ce81332df8d5505c1a2cd8c",
