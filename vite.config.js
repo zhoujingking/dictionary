@@ -5,11 +5,15 @@ import vue from '@vitejs/plugin-vue'
 import vueDevTools from 'vite-plugin-vue-devtools'
 
 // https://vite.dev/config/
+
+import { VitePWA } from 'vite-plugin-pwa'
+
 export default defineConfig({
   base: 'dictionary',
   plugins: [
     vue(),
     vueDevTools(),
+    VitePWA()
   ],
   resolve: {
     alias: {

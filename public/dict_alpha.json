@@ -530,14 +530,14 @@
     "createTime": "2025-01-16T02:33:33.028+0000"
   },
   {
-    "itemId": "2ad0205b7c81e96341349b0531d148ad",
-    "word": "allergies",
+    "itemId": "d707e48dcb3566a512a3c9578dc4c9d8",
+    "word": "allergy",
     "lanFrom": "en",
     "lanTo": "zh-CHS",
-    "trans": "n.过敏；敏感（allergy的复数）；敏感症",
-    "usphone": null,
-    "ukphone": "",
-    "createTime": "2024-10-25T00:48:26.732+0000"
+    "trans": "n.过敏反应，过敏症；厌恶，反感",
+    "usphone": "ˈælərdʒi",
+    "ukphone": "ˈælədʒi",
+    "createTime": "2025-03-31T23:41:42.318+0000"
   },
   {
     "itemId": "c7754dbfb25340293701c3be275c5578",
@@ -2398,6 +2398,16 @@
     "usphone": "ˈkæktəs",
     "ukphone": "ˈkæktəs",
     "createTime": "2024-10-29T00:11:28.217+0000"
+  },
+  {
+    "itemId": "f3fb8b786eb10f982d4a66a7d1890fc7",
+    "word": "cad",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.无赖；下流男子，卑鄙的男人；公车售票员",
+    "usphone": "kæd",
+    "ukphone": "kæd",
+    "createTime": "2025-03-31T23:59:10.819+0000"
   },
   {
     "itemId": "68a0b9e1c698936f0cb85abbf26940bf",
@@ -4840,6 +4850,16 @@
     "createTime": "2025-02-27T09:48:43.336+0000"
   },
   {
+    "itemId": "f56a4539b48d0c2ec04485772f9bb8ea",
+    "word": "decompression",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.[特医] 解压；降压",
+    "usphone": "ˌdiːkəmˈpreʃn",
+    "ukphone": "ˌdiːkəmˈpreʃn",
+    "createTime": "2025-03-25T02:36:17.583+0000"
+  },
+  {
     "itemId": "6e9a497f265d4c605d3658ff2bac6106",
     "word": "decree",
     "lanFrom": "en",
@@ -5458,6 +5478,16 @@
     "usphone": "ˈdɪsɪpeɪt",
     "ukphone": "ˈdɪsɪpeɪt",
     "createTime": "2024-12-23T11:15:15.934+0000"
+  },
+  {
+    "itemId": "d51006c695f34d98dec838694940fa23",
+    "word": "dissolve",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "vt.使溶解；使分解；使液化\nvi.溶解；解散；消失\nn.叠化画面；画面的溶暗",
+    "usphone": "dɪˈzɑːlv",
+    "ukphone": "dɪˈzɒlv",
+    "createTime": "2025-03-25T02:18:45.268+0000"
   },
   {
     "itemId": "a2528758a0237a204550543031f465c6",
@@ -6430,6 +6460,16 @@
     "createTime": "2024-12-23T11:10:27.764+0000"
   },
   {
+    "itemId": "20dc14d0cebd3d3ed2b8714f31250f9e",
+    "word": "enigma",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.谜，不可思议的东西",
+    "usphone": "ɪˈnɪɡmə",
+    "ukphone": "ɪˈnɪɡmə",
+    "createTime": "2025-03-25T02:42:00.944+0000"
+  },
+  {
     "itemId": "68fc9d56ea10a8264b84e46faf3a93fa",
     "word": "enlist",
     "lanFrom": "en",
@@ -6580,6 +6620,16 @@
     "createTime": "2024-10-24T02:50:40.743+0000"
   },
   {
+    "itemId": "172e1ddaaef577c32c9d6beeb294c643",
+    "word": "euthanize",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "vt.使安乐死；对…施无痛致死术（等于euthanatize）",
+    "usphone": "ˈjuːθənaɪz",
+    "ukphone": "ˈjuːθənaɪz",
+    "createTime": "2025-03-25T02:29:51.613+0000"
+  },
+  {
     "itemId": "16fe3e798758d96a6d78bb772ffd4e1e",
     "word": "evasion",
     "lanFrom": "en",
@@ -6598,6 +6648,16 @@
     "usphone": "ɪˈveɪsɪv",
     "ukphone": "ɪˈveɪsɪv",
     "createTime": "2025-03-06T10:20:54.390+0000"
+  },
+  {
+    "itemId": "fa2b6254b0cbfe55e5faf7a56a07ebbb",
+    "word": "eviscerate",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "vt.取出内脏；除去精华\nvi.内脏凸出\nadj.内脏被取出的",
+    "usphone": "ɪˈvɪsəreɪt",
+    "ukphone": "ɪˈvɪsəreɪt",
+    "createTime": "2025-03-25T02:36:29.820+0000"
   },
   {
     "itemId": "238893a2e02e30fbf88e182c2a929917",
@@ -7508,6 +7568,16 @@
     "usphone": null,
     "ukphone": null,
     "createTime": "2024-12-23T09:56:22.638+0000"
+  },
+  {
+    "itemId": "d68495ef3ab5af38eee40a356cf7c58d",
+    "word": "forfeit",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "v.丧失，被没收；（尤指为获得他物）主动放弃\nn.罚金，没收物\nadj.被没收的，丧失的",
+    "usphone": "ˈfɔːrfɪt",
+    "ukphone": "ˈfɔːfɪt",
+    "createTime": "2025-03-30T23:59:48.395+0000"
   },
   {
     "itemId": "9107e4c39cf3509ab7a4cf00fbf8f349",
@@ -10170,16 +10240,6 @@
     "createTime": "2025-03-19T13:12:09.194+0000"
   },
   {
-    "itemId": "6b890e531e148008ad9d83491a1ed199",
-    "word": "interwind",
-    "lanFrom": "en",
-    "lanTo": "zh-CHS",
-    "trans": "v.（使）互相盘绕",
-    "usphone": "ˌɪntərˈwaɪnd",
-    "ukphone": "ˌɪntə(r)ˈwaɪnd",
-    "createTime": "2025-03-19T12:46:20.113+0000"
-  },
-  {
     "itemId": "c50260a9ec056ec691f261efde5867d2",
     "word": "intestine",
     "lanFrom": "en",
@@ -11480,6 +11540,16 @@
     "createTime": "2024-11-11T23:50:53.337+0000"
   },
   {
+    "itemId": "d86f800743f8bf9ecd85dc1927852427",
+    "word": "mangle",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "vt.乱砍；轧布；损坏\nn.轧布机\nn.(Mangle)人名；(英)曼格尔",
+    "usphone": "ˈmæŋɡl",
+    "ukphone": "ˈmæŋɡl",
+    "createTime": "2025-03-28T06:21:31.603+0000"
+  },
+  {
     "itemId": "67192c1880bc7f057187d3e863b4443c",
     "word": "mansion",
     "lanFrom": "en",
@@ -12708,6 +12778,16 @@
     "usphone": "ˈoʊɡər",
     "ukphone": "ˈəʊɡə(r)",
     "createTime": "2024-11-20T03:13:36.256+0000"
+  },
+  {
+    "itemId": "7eb49b24e213e223d5496a8ab0700af8",
+    "word": "olfactory",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.嗅觉的；味道的\nn.嗅觉器官",
+    "usphone": "ɑːlˈfæktəri",
+    "ukphone": "ɒlˈfæktəri",
+    "createTime": "2025-03-27T13:23:10.925+0000"
   },
   {
     "itemId": "f15ec2f5ad8f3df7afb5a30f0e112a84",
@@ -14670,6 +14750,16 @@
     "createTime": "2024-11-13T09:46:03.675+0000"
   },
   {
+    "itemId": "dd20631fad2dbcf3388eed2d8daa3cda",
+    "word": "pulverize",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "vt.粉碎；使成粉末；研磨",
+    "usphone": "ˈpʌlvəraɪz",
+    "ukphone": "ˈpʌlvəraɪz",
+    "createTime": "2025-03-25T02:36:52.150+0000"
+  },
+  {
     "itemId": "6a3120a7389b47d41347223a7e0848d0",
     "word": "pummel",
     "lanFrom": "en",
@@ -15208,6 +15298,16 @@
     "usphone": "rɪˈfaɪnəri",
     "ukphone": "rɪˈfaɪnəri",
     "createTime": "2025-03-24T03:00:23.406+0000"
+  },
+  {
+    "itemId": "0291318847e763e7ffaad0890ed01e4b",
+    "word": "reflex",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.（对刺激的）本能反应；反射（作用）；反映物；反映形式；反射光\nadj.本能反应的；（角）大于180度的；（光）被反射的；反折的；反省的",
+    "usphone": "ˈriːfleks",
+    "ukphone": "ˈriːfleks",
+    "createTime": "2025-03-25T02:22:24.543+0000"
   },
   {
     "itemId": "f59eb7a01f589a3b514e969e6433a97b",
@@ -21508,6 +21608,16 @@
     "usphone": "ˈwoʊfl",
     "ukphone": "ˈwəʊfl",
     "createTime": "2024-12-30T07:06:15.899+0000"
+  },
+  {
+    "itemId": "9a508693e572cb1967bfc3549ae25ea7",
+    "word": "womb",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.[解剖] 子宫；发源地\nvt.容纳",
+    "usphone": "wuːm",
+    "ukphone": "wuːm",
+    "createTime": "2025-03-25T02:33:03.502+0000"
   },
   {
     "itemId": "82112570a20828276cc0437ed3a7608c",
