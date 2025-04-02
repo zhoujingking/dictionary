@@ -9,11 +9,16 @@ import vueDevTools from 'vite-plugin-vue-devtools'
 import { VitePWA } from 'vite-plugin-pwa'
 
 export default defineConfig({
-  base: 'dictionary',
+  base: '/dictionary',
   plugins: [
     vue(),
     vueDevTools(),
-    VitePWA()
+    VitePWA({
+      registerType: 'autoUpdate',
+      devOptions: {
+        enabled: true // make service worker work in dev mode
+      }
+    })
   ],
   resolve: {
     alias: {
