@@ -40,6 +40,16 @@
     "createTime": "2024-12-23T06:13:37.840+0000"
   },
   {
+    "itemId": "da765c19da83704c06b0b940483e75d0",
+    "word": "Isotropic",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.各向同性的，等方性的",
+    "usphone": null,
+    "ukphone": null,
+    "createTime": "2025-12-24T04:06:11.504+0000"
+  },
+  {
     "itemId": "2864e66794f05ee59a8819eaea2842ec",
     "word": "Lightsaber",
     "lanFrom": "en",
@@ -68,6 +78,16 @@
     "usphone": null,
     "ukphone": null,
     "createTime": "2025-01-02T06:18:10.495+0000"
+  },
+  {
+    "itemId": "fad60f456dabbc0d9857a05e9636ab9f",
+    "word": "Renaissance",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.文艺复兴（欧洲14至17世纪）",
+    "usphone": null,
+    "ukphone": null,
+    "createTime": "2025-12-17T00:54:01.022+0000"
   },
   {
     "itemId": "753fb27073e19d0e69650efb92a295ad",
@@ -240,6 +260,16 @@
     "createTime": "2025-03-24T03:02:50.645+0000"
   },
   {
+    "itemId": "1a28d1a02385f81321ad5f6ec996dc92",
+    "word": "acquaint",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "vt.使熟悉；使认识",
+    "usphone": "əˈkweɪnt",
+    "ukphone": "əˈkweɪnt",
+    "createTime": "2025-10-22T07:08:00.190+0000"
+  },
+  {
     "itemId": "ae7d4c0ab3bd6c3072c171e966258a90",
     "word": "acquaintance",
     "lanFrom": "en",
@@ -288,6 +318,16 @@
     "usphone": "ˌæd ˈlɪb",
     "ukphone": "ˌæd ˈlɪb",
     "createTime": "2025-03-05T08:12:58.837+0000"
+  },
+  {
+    "itemId": "671b63b5257623f8264341747580e465",
+    "word": "adage",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.格言，谚语；箴言",
+    "usphone": "ˈædɪdʒ",
+    "ukphone": "ˈædɪdʒ",
+    "createTime": "2025-08-26T02:05:28.217+0000"
   },
   {
     "itemId": "fe78b802256291a4ad85af468e987c8d",
@@ -388,6 +428,16 @@
     "usphone": "ˈerəsɑːl",
     "ukphone": "ˈeərəsɒl",
     "createTime": "2024-12-10T00:27:03.986+0000"
+  },
+  {
+    "itemId": "4b13bf30b8f4472a97196948077ae962",
+    "word": "aesthetic",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.审美的，美学的；美的，艺术的\nn.美感，审美观；美学（aesthetics）；美术理论",
+    "usphone": "esˈθetɪk",
+    "ukphone": "iːsˈθetɪk",
+    "createTime": "2026-02-07T11:54:23.677+0000"
   },
   {
     "itemId": "5cb4336805d4a4822c0f6b9e5b3ee2c5",
@@ -510,6 +560,16 @@
     "createTime": "2024-11-18T03:06:16.084+0000"
   },
   {
+    "itemId": "53d03bcf04769a9defb4b68022fe9610",
+    "word": "algebraic",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.[数] 代数的；关于代数学的",
+    "usphone": "ˌældʒɪˈbreɪɪk",
+    "ukphone": "ˌældʒɪˈbreɪɪk",
+    "createTime": "2025-12-09T07:28:48.433+0000"
+  },
+  {
     "itemId": "58dd5b39460f611377fa0ce25d6d04ae",
     "word": "allegation",
     "lanFrom": "en",
@@ -538,6 +598,16 @@
     "usphone": "ˈælərdʒi",
     "ukphone": "ˈælədʒi",
     "createTime": "2025-03-31T23:41:42.318+0000"
+  },
+  {
+    "itemId": "c650fbee24cd2e455432ff5845566ddb",
+    "word": "allude",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "vi.暗指，转弯抹角地说到；略为提及，顺便提到",
+    "usphone": "əˈluːd",
+    "ukphone": "əˈluːd",
+    "createTime": "2026-01-13T02:53:43.132+0000"
   },
   {
     "itemId": "c7754dbfb25340293701c3be275c5578",
@@ -588,6 +658,16 @@
     "usphone": "əˈmɪd",
     "ukphone": "əˈmɪd",
     "createTime": "2025-03-06T03:22:16.272+0000"
+  },
+  {
+    "itemId": "97ccfb5505e31509d4d1deb8fe65e351",
+    "word": "amnesia",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.健忘症，[内科] 记忆缺失",
+    "usphone": "æmˈniːʒə",
+    "ukphone": "æmˈniːziə",
+    "createTime": "2025-12-31T03:49:31.555+0000"
   },
   {
     "itemId": "7c9b134042937bee67791f33f7d0cd99",
@@ -650,6 +730,16 @@
     "createTime": "2024-12-13T12:21:58.383+0000"
   },
   {
+    "itemId": "520f8d236f584de94fab6a86ad6729ca",
+    "word": "anatomy",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.解剖；解剖学；剖析；骨骼",
+    "usphone": "əˈnætəmi",
+    "ukphone": "əˈnætəmi",
+    "createTime": "2025-08-20T10:01:32.612+0000"
+  },
+  {
     "itemId": "551b8acba11e67e1960ae1afe492a49a",
     "word": "anchor",
     "lanFrom": "en",
@@ -688,6 +778,16 @@
     "usphone": "əˈnaɪəleɪt",
     "ukphone": "əˈnaɪəleɪt",
     "createTime": "2025-01-16T03:24:47.884+0000"
+  },
+  {
+    "itemId": "133331b710f454070abf6ee9d814d288",
+    "word": "anomaly",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.异常；不规则；反常事物",
+    "usphone": "əˈnɑːməli",
+    "ukphone": "əˈnɒməli",
+    "createTime": "2026-01-30T02:07:35.902+0000"
   },
   {
     "itemId": "a5d36c8c1faab2c5fab12a5f592bf327",
@@ -758,6 +858,16 @@
     "usphone": "ˈæntidoʊt",
     "ukphone": "ˈæntidəʊt",
     "createTime": "2024-12-05T00:08:12.509+0000"
+  },
+  {
+    "itemId": "04ca0054faa64e2c0a944db32eb03497",
+    "word": "antipodal",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.正相反的；对跖的",
+    "usphone": "ænˈtɪpədl",
+    "ukphone": "ænˈtɪpədəl",
+    "createTime": "2026-01-26T08:28:40.035+0000"
   },
   {
     "itemId": "c91867ac8d283b1f74558bac8316ec09",
@@ -838,6 +948,16 @@
     "usphone": "əˈpiːz",
     "ukphone": "əˈpiːz",
     "createTime": "2025-01-02T09:23:50.070+0000"
+  },
+  {
+    "itemId": "ea1c1cd7483825f0f7a787511d56a391",
+    "word": "appetite",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.食欲；嗜好",
+    "usphone": "ˈæpɪtaɪt",
+    "ukphone": "ˈæpɪtaɪt",
+    "createTime": "2026-01-13T03:16:26.518+0000"
   },
   {
     "itemId": "791c28d9d8916ea9781f86280e65f725",
@@ -950,6 +1070,16 @@
     "createTime": "2024-10-28T02:56:01.400+0000"
   },
   {
+    "itemId": "8009feb41ebd9beb423890c56e9fe2d9",
+    "word": "archetype",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.原型",
+    "usphone": "ˈɑːrkitaɪp",
+    "ukphone": "ˈɑːkitaɪp",
+    "createTime": "2026-02-05T06:03:40.838+0000"
+  },
+  {
     "itemId": "937109a67261d9ca3df691340e224ccb",
     "word": "arena",
     "lanFrom": "en",
@@ -958,6 +1088,16 @@
     "usphone": "əˈriːnə",
     "ukphone": "əˈriːnə",
     "createTime": "2025-03-05T08:53:41.203+0000"
+  },
+  {
+    "itemId": "503ec009060c180a04b18e6ee7c3ced8",
+    "word": "aristocrat",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.贵族",
+    "usphone": "əˈrɪstəkræt",
+    "ukphone": "ˈærɪstəkræt",
+    "createTime": "2026-01-22T09:58:58.887+0000"
   },
   {
     "itemId": "a2769c79d78ed0da11770ebef7684a2c",
@@ -1008,6 +1148,16 @@
     "usphone": "ɑːrˈtɪkjuleɪt",
     "ukphone": "ɑːˈtɪkjuleɪt",
     "createTime": "2024-11-29T12:18:03.055+0000"
+  },
+  {
+    "itemId": "72b192b43e85f613d0a30862c5b17df8",
+    "word": "ascribe",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "vt.归因于；归咎于",
+    "usphone": "əˈskraɪb",
+    "ukphone": "əˈskraɪb",
+    "createTime": "2025-12-24T09:18:21.228+0000"
   },
   {
     "itemId": "1edbbdebfd6bfb81e2741b50927e8113",
@@ -1070,6 +1220,26 @@
     "createTime": "2024-12-30T07:21:27.057+0000"
   },
   {
+    "itemId": "b1cd30f594d6bae13a96b4349f150beb",
+    "word": "auditorium",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.礼堂，会堂；观众席",
+    "usphone": "ˌɔːdɪˈtɔːriəm",
+    "ukphone": "ˌɔːdɪˈtɔːriəm",
+    "createTime": "2025-10-28T02:13:28.985+0000"
+  },
+  {
+    "itemId": "9b699823862f693753c5739d87d01013",
+    "word": "authentic",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.真正的，真实的；可信的",
+    "usphone": "ɔːˈθentɪk",
+    "ukphone": "ɔːˈθentɪk",
+    "createTime": "2025-04-07T07:56:16.217+0000"
+  },
+  {
     "itemId": "d3e315e6bb790cadec6889c581f2bda5",
     "word": "autograph",
     "lanFrom": "en",
@@ -1130,6 +1300,16 @@
     "createTime": "2025-01-02T07:02:32.421+0000"
   },
   {
+    "itemId": "5d7db5cb8f8cc5f4426d7a9cc3bcd0c3",
+    "word": "azimuth",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.[测] 方位；[天] 方位角；偏振角",
+    "usphone": "ˈæzɪməθ",
+    "ukphone": "ˈæzɪməθ",
+    "createTime": "2025-12-29T09:00:31.012+0000"
+  },
+  {
     "itemId": "ac613739a6d36c40ddfb9afd24b15ad7",
     "word": "baboon",
     "lanFrom": "en",
@@ -1138,6 +1318,16 @@
     "usphone": "bæˈbuːn",
     "ukphone": "bəˈbuːn",
     "createTime": "2024-11-12T07:59:22.496+0000"
+  },
+  {
+    "itemId": "8722914a315885b0e7d09bd455c3eb6d",
+    "word": "backfire",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "v.产生事与愿违的不良（或危险）后果，适得其反；（发动机或车辆）回火，逆火\nn.（车辆或发动机的）回火；<北美>（为形成防火隔离带而有意点燃的）迎面火",
+    "usphone": "ˌbækˈfaɪər",
+    "ukphone": "ˌbækˈfaɪə(r)",
+    "createTime": "2025-04-21T22:52:04.107+0000"
   },
   {
     "itemId": "307870b00a5ed24322781e70c3580145",
@@ -1690,6 +1880,16 @@
     "createTime": "2024-12-30T06:14:15.907+0000"
   },
   {
+    "itemId": "19749aafab1df4a24e020eb97e95f462",
+    "word": "bilateral",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.双边的；有两边的",
+    "usphone": "ˌbaɪˈlætərəl",
+    "ukphone": "ˌbaɪˈlætərəl",
+    "createTime": "2025-10-21T08:56:14.346+0000"
+  },
+  {
     "itemId": "e8cf5107c77701d31e96e9b846b79be2",
     "word": "bilge",
     "lanFrom": "en",
@@ -1728,6 +1928,16 @@
     "usphone": "ˌbaɪˈpiːdl,ˌbaɪˈpedl",
     "ukphone": "ˌbaɪˈpiːdl",
     "createTime": "2025-02-28T07:36:39.991+0000"
+  },
+  {
+    "itemId": "5db98667e49c854c3b62f774ac1a9864",
+    "word": "bisector",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.[数] 二等分线；二等分物",
+    "usphone": "baɪˈsektər",
+    "ukphone": "baɪ'sektə",
+    "createTime": "2026-01-05T12:53:28.655+0000"
   },
   {
     "itemId": "2971756188cbe9ede26915be7d1ef72d",
@@ -2000,6 +2210,16 @@
     "createTime": "2024-12-04T12:46:09.768+0000"
   },
   {
+    "itemId": "652c41bffe4b903f802c1de7ec997d46",
+    "word": "boric",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.硼的；含硼的\nn.（Boric）人名；（罗）博里克",
+    "usphone": "ˈbɔːrɪk",
+    "ukphone": "ˈbɔːrɪk",
+    "createTime": "2025-11-18T11:58:55.788+0000"
+  },
+  {
     "itemId": "4dd19fd980086052b234007e974542b3",
     "word": "borough",
     "lanFrom": "en",
@@ -2018,6 +2238,16 @@
     "usphone": "ˈboʊldər",
     "ukphone": "ˈbəʊldə(r)",
     "createTime": "2024-11-18T06:32:59.560+0000"
+  },
+  {
+    "itemId": "b537585761457e6f26907b2f432fdc3c",
+    "word": "bout",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.回合；较量；发作；一阵\nn.(Bout)人名；(法)布特",
+    "usphone": "baʊt",
+    "ukphone": "baʊt",
+    "createTime": "2025-12-31T03:49:14.938+0000"
   },
   {
     "itemId": "2bbc56d223834675e5ba8dc0dde3061b",
@@ -2168,6 +2398,16 @@
     "usphone": "ˈbʌkl ʌp",
     "ukphone": "ˈbʌkl ʌp",
     "createTime": "2024-12-10T23:24:31.692+0000"
+  },
+  {
+    "itemId": "4d22084714e44d1e46ee8fa56f3be4bd",
+    "word": "budding",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.萌芽的；发育期的\nn.发芽",
+    "usphone": "ˈbʌdɪŋ",
+    "ukphone": "ˈbʌdɪŋ",
+    "createTime": "2025-12-09T07:15:11.233+0000"
   },
   {
     "itemId": "617d4eee00944d1853a67568a1fcc969",
@@ -2360,6 +2600,26 @@
     "createTime": "2024-10-30T12:20:58.714+0000"
   },
   {
+    "itemId": "7986ee820e537da3c56a14fb75a8bbb3",
+    "word": "by the same token",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "同样地；出于同样原因",
+    "usphone": null,
+    "ukphone": "",
+    "createTime": "2026-01-21T06:47:11.692+0000"
+  },
+  {
+    "itemId": "e0e71ef03f15c5f63668276f4a5e6c85",
+    "word": "by virtue of",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "由于，凭借",
+    "usphone": null,
+    "ukphone": "",
+    "createTime": "2026-01-21T06:43:14.150+0000"
+  },
+  {
     "itemId": "ea3bc8c6b344c99aadfb02daf104ec0b",
     "word": "cabin",
     "lanFrom": "en",
@@ -2440,6 +2700,16 @@
     "createTime": "2024-12-10T12:23:30.629+0000"
   },
   {
+    "itemId": "51fda0a3ba861469be5e24074db74644",
+    "word": "calibration",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.标定，校准；（测量器具上的）刻度",
+    "usphone": "ˌkælɪˈbreɪʃn",
+    "ukphone": "ˌkælɪˈbreɪʃn",
+    "createTime": "2026-02-10T01:37:58.377+0000"
+  },
+  {
     "itemId": "a234eb2bd9c710c1fedebf4119892a50",
     "word": "camouflage",
     "lanFrom": "en",
@@ -2448,6 +2718,16 @@
     "usphone": "ˈkæməflɑːʒ",
     "ukphone": "ˈkæməflɑːʒ",
     "createTime": "2025-03-04T07:50:38.519+0000"
+  },
+  {
+    "itemId": "fab7dd6c56f0ed0b60b5a0054c38bbe4",
+    "word": "canary",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.金丝雀；淡黄色，鲜黄色；加纳利甜酒\nn.(Canary) （美、印、英）卡纳里",
+    "usphone": "kəˈneri",
+    "ukphone": "kəˈneəri",
+    "createTime": "2025-05-29T05:55:00.337+0000"
   },
   {
     "itemId": "0af105794472d7367c152662c22cccc1",
@@ -2528,6 +2808,16 @@
     "usphone": "keɪp",
     "ukphone": "keɪp",
     "createTime": "2024-10-28T02:27:49.838+0000"
+  },
+  {
+    "itemId": "a2be492ad957cf109399e1e6e0941049",
+    "word": "capricious",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.反复无常的；任性的",
+    "usphone": "kəˈprɪʃəs",
+    "ukphone": "kəˈprɪʃəs",
+    "createTime": "2026-01-13T03:13:56.296+0000"
   },
   {
     "itemId": "b77c62e301845e786a34caa058d21ee2",
@@ -2650,6 +2940,16 @@
     "createTime": "2024-11-19T08:45:13.880+0000"
   },
   {
+    "itemId": "54fb3e6df78025980683820989254ab0",
+    "word": "carry out",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "vt.执行，实行；贯彻；实现；完成",
+    "usphone": "ˈkæri aʊt",
+    "ukphone": null,
+    "createTime": "2026-01-21T07:05:49.073+0000"
+  },
+  {
     "itemId": "133295aad38d2cd5502d2d5129c1bfee",
     "word": "carve",
     "lanFrom": "en",
@@ -2688,6 +2988,16 @@
     "usphone": "ˈkætəklɪzəm",
     "ukphone": "ˈkætəklɪzəm",
     "createTime": "2025-01-10T03:19:12.051+0000"
+  },
+  {
+    "itemId": "53c883d06875b188eb586e98f4796e5c",
+    "word": "catalyst",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.[物化] 催化剂；刺激因素",
+    "usphone": "ˈkætəlɪst",
+    "ukphone": "ˈkætəlɪst",
+    "createTime": "2026-01-08T05:32:59.475+0000"
   },
   {
     "itemId": "1485f2ced5110e2c71a227d4ebbe1a54",
@@ -2740,6 +3050,16 @@
     "createTime": "2025-03-05T08:03:19.437+0000"
   },
   {
+    "itemId": "2cb6837d504566b52ebca5bc7e6ae431",
+    "word": "caveat",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.警告；中止诉讼手续的申请；货物出门概不退换；停止支付的广告",
+    "usphone": "ˈkæviæt",
+    "ukphone": "ˈkæviæt",
+    "createTime": "2025-12-16T23:25:25.302+0000"
+  },
+  {
     "itemId": "9a0d95113cc0b38164cfbd8b9306cc78",
     "word": "cavern",
     "lanFrom": "en",
@@ -2788,6 +3108,36 @@
     "usphone": "ˈseməteri",
     "ukphone": "ˈsemətri",
     "createTime": "2024-11-15T05:33:57.328+0000"
+  },
+  {
+    "itemId": "3a81a93c169b2c4ea782bc365b188d55",
+    "word": "centrifugal",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.[力] 离心的；远中的\nn.离心机；转筒",
+    "usphone": "senˈtrɪfjəɡl",
+    "ukphone": "ˌsentrɪˈfjuːɡl; senˈtrɪfjəɡl",
+    "createTime": "2025-12-24T06:08:29.929+0000"
+  },
+  {
+    "itemId": "17a6124d00a65e6445b5cc8e0678277e",
+    "word": "centripetal",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.向心的；利用向心力的",
+    "usphone": "senˈtrɪpɪtl",
+    "ukphone": "ˌsentrɪˈpiːtl; senˈtrɪpɪtl",
+    "createTime": "2025-12-24T08:17:12.635+0000"
+  },
+  {
+    "itemId": "6689041d66895c0b50d68f746d1c1247",
+    "word": "centroid",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.（数）形心",
+    "usphone": "ˈsentrɔɪd",
+    "ukphone": "'sentrɒɪd",
+    "createTime": "2026-01-20T01:26:19.978+0000"
   },
   {
     "itemId": "b9e1e1f61864187f3114c6238401968f",
@@ -3010,6 +3360,16 @@
     "createTime": "2024-11-20T05:36:29.434+0000"
   },
   {
+    "itemId": "2b7e3517e8e129bf1603665ba0f6c7e4",
+    "word": "christen",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "vt.为…命名；为…施洗礼\nn.(Christen)人名；(法、德、西、丹、挪)克里斯滕；(英)克里森",
+    "usphone": "ˈkrɪsn",
+    "ukphone": "ˈkrɪsn",
+    "createTime": "2026-01-08T05:31:53.406+0000"
+  },
+  {
     "itemId": "d02f10ffdc7d05df89388106d249b9d1",
     "word": "chromosome",
     "lanFrom": "en",
@@ -3018,6 +3378,26 @@
     "usphone": "ˈkroʊməsoʊm",
     "ukphone": "ˈkrəʊməsəʊm",
     "createTime": "2025-03-25T01:17:34.112+0000"
+  },
+  {
+    "itemId": "9e66da7689d4e789288d2dacc158bd55",
+    "word": "chronic",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.慢性的；长期的；习惯性的\nn.(Chronic)人名；(英)克罗尼克",
+    "usphone": "ˈkrɑːnɪk",
+    "ukphone": "ˈkrɒnɪk",
+    "createTime": "2025-12-31T09:16:35.315+0000"
+  },
+  {
+    "itemId": "79edc289f0dd4653ba789f176c764af8",
+    "word": "chronicle",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.编年史，年代记；记录\nvt.记录；把…载入编年史",
+    "usphone": "ˈkrɑːnɪkl",
+    "ukphone": "ˈkrɒnɪkl",
+    "createTime": "2026-01-06T10:11:57.322+0000"
   },
   {
     "itemId": "c3cc77002e5759953e1364c8a398ef26",
@@ -3050,6 +3430,16 @@
     "createTime": "2024-10-31T06:52:13.563+0000"
   },
   {
+    "itemId": "ae07c6d98db8dea713ae989e5f5a7d00",
+    "word": "cinch",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.（非正式）极其容易做的事情；必定的事；马鞍肚带；五个王牌排最大的纸牌游戏\nv.用带子系（衣服）；用肚带系紧（马鞍）；给（马）系上肚带；（非正式）确保",
+    "usphone": "sɪntʃ",
+    "ukphone": "sɪntʃ",
+    "createTime": "2025-09-11T11:48:45.397+0000"
+  },
+  {
     "itemId": "41c2f410046cdc34839a23c6e8a07b81",
     "word": "cinder",
     "lanFrom": "en",
@@ -3068,6 +3458,26 @@
     "usphone": "ˈsɪnəmən",
     "ukphone": "ˈsɪnəmən",
     "createTime": "2024-10-30T05:30:34.604+0000"
+  },
+  {
+    "itemId": "66fd42858a1dc20f650cfec504b68239",
+    "word": "circularity",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.圆；[数] 环状；圈状",
+    "usphone": null,
+    "ukphone": null,
+    "createTime": "2026-01-21T03:40:42.170+0000"
+  },
+  {
+    "itemId": "0175faf5f95f26e2b088d2c2100c7116",
+    "word": "circumcircle",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.[数] 外接圆",
+    "usphone": null,
+    "ukphone": null,
+    "createTime": "2026-01-20T08:03:32.439+0000"
   },
   {
     "itemId": "9ab48beb62f846aeb703b5e97b039a24",
@@ -3098,6 +3508,16 @@
     "usphone": "səˈvɪliən",
     "ukphone": "səˈvɪliən",
     "createTime": "2024-12-31T07:29:16.434+0000"
+  },
+  {
+    "itemId": "afdfd6f444d68c85b51d94cda2f8298e",
+    "word": "clam",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.蛤蜊；（非正式）可食用的双壳软体动物（如扇贝）；（非正式）沉默寡言的人；（非正式）美元\nv.挖蛤；保持沉默；（非正式，因害羞、紧张）突然闭口\nn.(Clam) （美、巴、英、澳、俄）克朗（人名）",
+    "usphone": "klæm",
+    "ukphone": "klæm",
+    "createTime": "2025-04-16T01:23:14.816+0000"
   },
   {
     "itemId": "733acafb28f2669800738783ea26b305",
@@ -3260,6 +3680,16 @@
     "createTime": "2024-10-25T01:52:54.317+0000"
   },
   {
+    "itemId": "aca2bd8a0b8daf8534128a0106f67205",
+    "word": "clutter",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.杂乱，混乱\nvt.使凌乱；胡乱地填满\nn.(Clutter)人名；(英)克拉特",
+    "usphone": "ˈklʌtər",
+    "ukphone": "ˈklʌtə(r)",
+    "createTime": "2025-12-31T01:30:13.853+0000"
+  },
+  {
     "itemId": "566325adb45362245616488f7ec6ddc8",
     "word": "coach",
     "lanFrom": "en",
@@ -3268,6 +3698,16 @@
     "usphone": "koʊtʃ",
     "ukphone": "kəʊtʃ",
     "createTime": "2024-10-28T02:47:04.486+0000"
+  },
+  {
+    "itemId": "e8927ece5784672d772fddf1d9daff33",
+    "word": "coalesce",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "vi.合并；结合；联合\nvt.使…联合；使…合并",
+    "usphone": "ˌkoʊəˈles",
+    "ukphone": "ˌkəʊəˈles",
+    "createTime": "2025-07-09T09:26:55.118+0000"
   },
   {
     "itemId": "d735b1143af42d1d2d932c1e0c770025",
@@ -3360,6 +3800,16 @@
     "createTime": "2025-03-24T08:53:26.065+0000"
   },
   {
+    "itemId": "c7dfdb046a0477331cefd2cf27ec73ea",
+    "word": "coercion",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.强制；强迫；高压政治；威压",
+    "usphone": "koʊˈɜːrʒn",
+    "ukphone": "kəʊˈɜːʃn",
+    "createTime": "2025-06-12T10:23:10.778+0000"
+  },
+  {
     "itemId": "ae1f75d84eefdf86c4d6e40604147595",
     "word": "coil",
     "lanFrom": "en",
@@ -3410,6 +3860,16 @@
     "createTime": "2024-11-15T05:58:41.166+0000"
   },
   {
+    "itemId": "be3c81e09ad5269841180dedd05f5310",
+    "word": "collinear",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.共线的，同线的，在同一直线上的",
+    "usphone": "kə'lɪnɪɚ",
+    "ukphone": "kə'lɪnɪə",
+    "createTime": "2026-01-05T11:43:16.944+0000"
+  },
+  {
     "itemId": "c0a37d9daec2d47b2f2668d4dc87d7c7",
     "word": "collocate",
     "lanFrom": "en",
@@ -3458,6 +3918,16 @@
     "usphone": "ˈkoʊmətoʊs",
     "ukphone": "ˈkəʊmətəʊs",
     "createTime": "2025-03-18T08:01:43.878+0000"
+  },
+  {
+    "itemId": "ce5487cb5b35121c2b7701e81b894629",
+    "word": "combustion",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.燃烧，氧化；骚动",
+    "usphone": "kəmˈbʌstʃən",
+    "ukphone": "kəmˈbʌstʃən",
+    "createTime": "2025-12-22T02:06:04.966+0000"
   },
   {
     "itemId": "7c9d959c181e13683c81167dd956bf41",
@@ -3560,6 +4030,16 @@
     "createTime": "2024-11-29T12:33:25.855+0000"
   },
   {
+    "itemId": "cc4c11ce44f48e69a796c5f4ea614b6f",
+    "word": "commodity",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.商品，货物；日用品",
+    "usphone": "kəˈmɑːdəti",
+    "ukphone": "kəˈmɒdəti",
+    "createTime": "2025-12-31T03:23:52.612+0000"
+  },
+  {
     "itemId": "7ad45994270182cbce16eafcda1a4f55",
     "word": "commodore",
     "lanFrom": "en",
@@ -3580,6 +4060,26 @@
     "createTime": "2024-10-31T07:25:17.151+0000"
   },
   {
+    "itemId": "5fca3df486f65e874c34cff91da9eaac",
+    "word": "commutative",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.交换的，交替的；（一般）代替的",
+    "usphone": "kəˈmjuːtətɪv",
+    "ukphone": "kəˈmjuːtətɪv",
+    "createTime": "2025-12-12T01:10:14.518+0000"
+  },
+  {
+    "itemId": "9d4c42500e2dde6fd03dd7bfe718b917",
+    "word": "commute",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "vi.（搭乘车、船等）通勤；代偿\nvt.减刑；交换；用……交换；使……变成\nn.通勤（口语）",
+    "usphone": "kəˈmjuːt",
+    "ukphone": "kəˈmjuːt",
+    "createTime": "2025-10-24T08:22:42.575+0000"
+  },
+  {
     "itemId": "2b0e1fcf851e790bef8ed3d681ce17dd",
     "word": "compactor",
     "lanFrom": "en",
@@ -3598,6 +4098,16 @@
     "usphone": "kəmˈpɑːrtmənt",
     "ukphone": "kəmˈpɑːtmənt",
     "createTime": "2024-12-31T03:45:52.434+0000"
+  },
+  {
+    "itemId": "04eb2438d915c741b0f49add8d9fbab8",
+    "word": "compass",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.指南针，罗盘；圆规\nvt.包围",
+    "usphone": "ˈkʌmpəs",
+    "ukphone": "ˈkʌmpəs",
+    "createTime": "2025-12-09T07:36:25.788+0000"
   },
   {
     "itemId": "44c41fa3af94f98866365dfe48cfa821",
@@ -3750,6 +4260,16 @@
     "createTime": "2025-02-27T10:33:59.445+0000"
   },
   {
+    "itemId": "984c726a08912323fdc55f48b43ec6ce",
+    "word": "condenser",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.冷凝器；[电] 电容器；[光] 聚光器",
+    "usphone": "kənˈdensər",
+    "ukphone": "kənˈdensə(r)",
+    "createTime": "2025-12-22T03:18:00.897+0000"
+  },
+  {
     "itemId": "afa09560d924387c2cdb0ce3adc3d3bf",
     "word": "conduct",
     "lanFrom": "en",
@@ -3810,6 +4330,16 @@
     "createTime": "2025-03-18T03:12:05.097+0000"
   },
   {
+    "itemId": "be45c6cb770ab32c255a5ec936892391",
+    "word": "conformal",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.[数] 保角的；共形的；正形的",
+    "usphone": "kən'fɔrməl",
+    "ukphone": "kən'fɔːməl",
+    "createTime": "2026-01-20T09:03:08.683+0000"
+  },
+  {
     "itemId": "29ff65cc3a43dd53b9488915305f2729",
     "word": "congest",
     "lanFrom": "en",
@@ -3828,6 +4358,16 @@
     "usphone": "ˌkɑːŋɡrɪˈɡeɪʃn",
     "ukphone": "ˌkɒŋɡrɪˈɡeɪʃn",
     "createTime": "2024-12-23T08:52:19.755+0000"
+  },
+  {
+    "itemId": "bcad38bd6f88c4e07f7535ca1dc04002",
+    "word": "congruent",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.适合的，一致的；全等的；和谐的",
+    "usphone": "ˈkɑːŋɡruənt",
+    "ukphone": "ˈkɒŋɡruənt",
+    "createTime": "2025-11-13T04:14:24.379+0000"
   },
   {
     "itemId": "9ed8e76b1990f882b6ce42ff70ac710b",
@@ -3900,6 +4440,26 @@
     "createTime": "2025-03-06T09:19:13.704+0000"
   },
   {
+    "itemId": "4d63b8bd88412f04deca088455556dca",
+    "word": "constituent",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.成分；选民；委托人\nadj.构成的；选举的；有任命（或选举）权的；立宪的；有宪法制定（或修改）权的",
+    "usphone": "kənˈstɪtʃuənt",
+    "ukphone": "kənˈstɪtʃuənt",
+    "createTime": "2025-12-18T10:04:09.521+0000"
+  },
+  {
+    "itemId": "959d34d3f29f278ae1b5466c84c3af18",
+    "word": "constitute",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "vt.组成，构成；建立；任命",
+    "usphone": "ˈkɑːnstɪtuːt",
+    "ukphone": "ˈkɒnstɪtjuːt",
+    "createTime": "2026-01-06T07:28:06.898+0000"
+  },
+  {
     "itemId": "4dfa243195040186ebd62e27d4a0829a",
     "word": "constrictor",
     "lanFrom": "en",
@@ -3930,6 +4490,16 @@
     "createTime": "2024-12-30T03:19:07.739+0000"
   },
   {
+    "itemId": "393fc5b2eb2649c7c5e68adc674f2776",
+    "word": "contemporary",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.发生（属）于同时期的；当代的\nn.同代人，同龄人；同时期的东西",
+    "usphone": "kənˈtempəreri",
+    "ukphone": "kənˈtemprəri",
+    "createTime": "2025-12-31T09:18:15.376+0000"
+  },
+  {
     "itemId": "69c88b6c2963e5fcc2cfcad98caa9e6f",
     "word": "contingent",
     "lanFrom": "en",
@@ -3938,6 +4508,26 @@
     "usphone": "kənˈtɪndʒənt",
     "ukphone": "kənˈtɪndʒənt",
     "createTime": "2025-01-16T01:40:30.486+0000"
+  },
+  {
+    "itemId": "a31e3a746cc7e1faa50038d01dbf06be",
+    "word": "contraction",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.收缩，紧缩；缩写式；害病",
+    "usphone": "kənˈtrækʃn",
+    "ukphone": "kənˈtrækʃn",
+    "createTime": "2025-12-30T07:44:26.406+0000"
+  },
+  {
+    "itemId": "688f02b5f98c65055111f41a34391fcc",
+    "word": "contradict",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "vt.反驳；否定；与…矛盾；与…抵触\nvi.反驳；否认；发生矛盾",
+    "usphone": "ˌkɑːntrəˈdɪkt",
+    "ukphone": "ˌkɒntrəˈdɪkt",
+    "createTime": "2025-08-27T07:16:30.536+0000"
   },
   {
     "itemId": "0d75380e22e49c0d341236c48472f198",
@@ -4018,6 +4608,16 @@
     "usphone": null,
     "ukphone": null,
     "createTime": "2024-12-31T09:32:19.165+0000"
+  },
+  {
+    "itemId": "d7efb097fd858b8898f92cecea7cb0b9",
+    "word": "coplanar",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.[数] 共面的",
+    "usphone": "koʊˈpleɪnər",
+    "ukphone": "kəʊ'pleɪnə",
+    "createTime": "2025-12-30T01:58:54.560+0000"
   },
   {
     "itemId": "53b9d37aa27b552af610ed0546dcf18f",
@@ -4160,6 +4760,16 @@
     "createTime": "2025-02-28T02:25:50.392+0000"
   },
   {
+    "itemId": "56ab4506ba88ac59e99cfcdece6aa9a8",
+    "word": "cosmological",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.宇宙论的；宇宙哲学的",
+    "usphone": "ˌkɑːzməˈlɑːdʒɪkl",
+    "ukphone": "ˌkɒzməˈlɒdʒɪkl",
+    "createTime": "2025-12-18T05:46:54.379+0000"
+  },
+  {
     "itemId": "be5612095bddae7821f5413db677d43a",
     "word": "cottage",
     "lanFrom": "en",
@@ -4260,6 +4870,16 @@
     "createTime": "2025-03-18T02:48:39.613+0000"
   },
   {
+    "itemId": "7346c046c21a8f107ee064ac7e8a4db8",
+    "word": "coveted",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.垂涎的；梦寐以求的\nv.垂涎；渴望（covet的过去分词形式）；贪图",
+    "usphone": "ˈkʌvətɪd",
+    "ukphone": null,
+    "createTime": "2025-10-27T07:08:54.393+0000"
+  },
+  {
     "itemId": "7971e2954431942dd8f3961df14caffd",
     "word": "cower",
     "lanFrom": "en",
@@ -4348,6 +4968,26 @@
     "usphone": "kreɪv",
     "ukphone": "kreɪv",
     "createTime": "2024-10-24T02:40:33.714+0000"
+  },
+  {
+    "itemId": "7072ce5c6fb80da1379e24be25369e6b",
+    "word": "crease",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.折痕；折缝\nvi.起皱\nvt.弄皱；使起折痕",
+    "usphone": "kriːs",
+    "ukphone": "kriːs",
+    "createTime": "2026-01-21T08:53:57.207+0000"
+  },
+  {
+    "itemId": "9121a9d9721a1571d64c42537099cdd3",
+    "word": "credence",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.信任；凭证；祭器台（等于credence table，credenza）",
+    "usphone": "ˈkriːdns",
+    "ukphone": "ˈkriːdns",
+    "createTime": "2026-02-04T12:07:57.543+0000"
   },
   {
     "itemId": "a0a08652dbc0fc5b08323cdbc3524388",
@@ -4540,6 +5180,16 @@
     "createTime": "2025-03-24T02:13:12.100+0000"
   },
   {
+    "itemId": "6aaf637fb6fd17f0727c1d0d474da584",
+    "word": "cryptic",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.神秘的，含义模糊的；[动] 隐藏的",
+    "usphone": "ˈkrɪptɪk",
+    "ukphone": "ˈkrɪptɪk",
+    "createTime": "2026-01-13T03:29:05.824+0000"
+  },
+  {
     "itemId": "daee5607785181191d390ba24ddf7f37",
     "word": "cubs",
     "lanFrom": "en",
@@ -4660,6 +5310,16 @@
     "createTime": "2024-11-12T03:11:34.985+0000"
   },
   {
+    "itemId": "64fb2f0b01b6dec3df69d06ada57dcbd",
+    "word": "curvilinear",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.曲线的；由曲线组成的（等于curvilineal）",
+    "usphone": "ˌkɜːrvɪˈlɪniər",
+    "ukphone": "ˌkɜːvɪˈlɪniə(r)",
+    "createTime": "2025-12-24T03:11:27.677+0000"
+  },
+  {
     "itemId": "2a3a7143ae507bf3ba5d35fc9334fd4f",
     "word": "cushion",
     "lanFrom": "en",
@@ -4678,6 +5338,36 @@
     "usphone": "ˈkʌstədi",
     "ukphone": "ˈkʌstədi",
     "createTime": "2024-10-24T02:42:57.164+0000"
+  },
+  {
+    "itemId": "bf908ea3c4a6e7c1a33f96efce767ac1",
+    "word": "cyclone",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.旋风；[气象] 气旋；飓风",
+    "usphone": "ˈsaɪkloʊn",
+    "ukphone": "ˈsaɪkləʊn",
+    "createTime": "2025-12-24T09:36:20.121+0000"
+  },
+  {
+    "itemId": "0145142034bed74ff127102fe9d827a0",
+    "word": "cyclotron",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.[核] 回旋加速器，粒子回旋加速器",
+    "usphone": "ˈsaɪklətrɑːn",
+    "ukphone": "ˈsaɪklətrɒn",
+    "createTime": "2025-12-24T07:39:36.290+0000"
+  },
+  {
+    "itemId": "4979543796426d444049ffd6f3c953d9",
+    "word": "cylindrical",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.圆柱形的；圆柱体的",
+    "usphone": "səˈlɪndrɪkl",
+    "ukphone": "səˈlɪndrɪkl",
+    "createTime": "2025-12-22T06:32:51.220+0000"
   },
   {
     "itemId": "8ba39ec147856460c2f63db09c23c25d",
@@ -4870,6 +5560,16 @@
     "createTime": "2024-12-23T11:17:16.387+0000"
   },
   {
+    "itemId": "c91fc066082da4c3c996d0e89264f71d",
+    "word": "dedupe",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "v.<非正式>删除重复数据",
+    "usphone": null,
+    "ukphone": null,
+    "createTime": "2025-08-20T08:51:37.803+0000"
+  },
+  {
     "itemId": "65d41702e9dcb9a358412d3bdb8af58a",
     "word": "deed",
     "lanFrom": "en",
@@ -5000,6 +5700,16 @@
     "createTime": "2024-11-06T08:20:18.975+0000"
   },
   {
+    "itemId": "77e05bb42973bd49439aced2e4c3d3ab",
+    "word": "democracy",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.民主，民主主义；民主政治",
+    "usphone": "dɪˈmɑːkrəsi",
+    "ukphone": "dɪˈmɒkrəsi",
+    "createTime": "2025-10-27T07:07:47.425+0000"
+  },
+  {
     "itemId": "22fb83bf6b48177d41b2ba7fbfb3644a",
     "word": "demolish",
     "lanFrom": "en",
@@ -5028,6 +5738,16 @@
     "usphone": "dɪˈnɑːmɪneɪtər",
     "ukphone": "dɪˈnɒmɪneɪtə(r)",
     "createTime": "2025-01-09T07:00:04.485+0000"
+  },
+  {
+    "itemId": "1ad853d021d407879743b30894fab3a8",
+    "word": "denote",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "vt.表示，指示",
+    "usphone": "dɪˈnoʊt",
+    "ukphone": "dɪˈnəʊt",
+    "createTime": "2025-12-31T08:04:13.496+0000"
   },
   {
     "itemId": "1400e391c27b8598fcf93fdc7ae224c3",
@@ -5140,6 +5860,16 @@
     "createTime": "2025-03-06T10:05:19.511+0000"
   },
   {
+    "itemId": "6fc704e0d3d085cd8d518e95a00e68db",
+    "word": "detour",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.迂回路；临时绕行道路\nv.绕道，绕行\nn.(Detour) （美、法）德图尔（人名）",
+    "usphone": "ˈdiːtʊr",
+    "ukphone": "ˈdiːtʊə(r); ˈdiːtɔː(r)",
+    "createTime": "2025-12-31T02:11:15.927+0000"
+  },
+  {
     "itemId": "b106883f2153b4c93ddd44d3720b4c9a",
     "word": "devastate",
     "lanFrom": "en",
@@ -5148,6 +5878,16 @@
     "usphone": "ˈdevəsteɪt",
     "ukphone": "ˈdevəsteɪt",
     "createTime": "2025-02-27T09:44:12.690+0000"
+  },
+  {
+    "itemId": "6152945eec4c21764682bb5e6d3afc9f",
+    "word": "deviate",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "vi.脱离；越轨\nvt.使偏离",
+    "usphone": "ˈdiːvieɪt",
+    "ukphone": "ˈdiːvieɪt",
+    "createTime": "2026-02-04T08:36:57.512+0000"
   },
   {
     "itemId": "3ccf68f7f5fecd3905c6ff386e9312c6",
@@ -5200,6 +5940,16 @@
     "createTime": "2024-10-25T00:34:37.308+0000"
   },
   {
+    "itemId": "c010f46ec39db359fc0635bf6a6b1c07",
+    "word": "dichotomy",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.二分法；两分；分裂；双歧分枝",
+    "usphone": "daɪˈkɑːtəmi",
+    "ukphone": "daɪˈkɒtəmi",
+    "createTime": "2026-01-05T11:47:46.502+0000"
+  },
+  {
     "itemId": "951309dd6217d289673df43c68c66ca6",
     "word": "dicker",
     "lanFrom": "en",
@@ -5208,6 +5958,16 @@
     "usphone": "ˈdɪkər",
     "ukphone": "ˈdɪkə(r)",
     "createTime": "2025-03-06T10:05:56.305+0000"
+  },
+  {
+    "itemId": "215ed470e03c53c06c6818c3ebfbe042",
+    "word": "die away",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "vt.减弱，消失；渐熄；风，声音渐弱，渐息；（树木等）渐渐凋零，枯萎（根未死）；假死",
+    "usphone": "daɪ əˈweɪ",
+    "ukphone": null,
+    "createTime": "2026-02-07T14:17:03.752+0000"
   },
   {
     "itemId": "9100961c7f202fe96b48b1a73c7bd99f",
@@ -5248,6 +6008,16 @@
     "usphone": "ˈdɪɡnɪteri",
     "ukphone": "ˈdɪɡnɪtəri",
     "createTime": "2024-12-23T06:47:19.179+0000"
+  },
+  {
+    "itemId": "0b0e00c2ad762420ce3dea3942247bfc",
+    "word": "dignity",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.尊严，自尊；庄严，端庄，庄重；尊贵，高贵，高尚；高位，显职",
+    "usphone": "ˈdɪɡnəti",
+    "ukphone": "ˈdɪɡnəti",
+    "createTime": "2025-04-17T23:46:28.415+0000"
   },
   {
     "itemId": "75c81e43be00ac9491acbe57fa8a00cd",
@@ -5370,6 +6140,16 @@
     "createTime": "2025-03-06T10:22:37.826+0000"
   },
   {
+    "itemId": "f136cd14046d54676429f709e2aa4865",
+    "word": "discern",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "vt.觉察出；识别；了解；隐约看见\nvi.辨别",
+    "usphone": "dɪˈsɜːrn",
+    "ukphone": "dɪˈsɜːn",
+    "createTime": "2025-11-13T04:14:30.773+0000"
+  },
+  {
     "itemId": "4c66d4305783805c1f15c1468951d87c",
     "word": "disciple",
     "lanFrom": "en",
@@ -5378,6 +6158,16 @@
     "usphone": "dɪˈsaɪpl",
     "ukphone": "dɪˈsaɪpl",
     "createTime": "2024-11-13T09:52:56.461+0000"
+  },
+  {
+    "itemId": "c29ff8d339b030de50613c7b5fa5fc50",
+    "word": "discrepancy",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.不符；矛盾；相差",
+    "usphone": "dɪˈskrepənsi",
+    "ukphone": "dɪˈskrepənsi",
+    "createTime": "2025-05-21T05:56:50.504+0000"
   },
   {
     "itemId": "4fff20bdaee86b49c8b38df02d076f74",
@@ -5410,6 +6200,16 @@
     "createTime": "2024-12-30T09:00:46.588+0000"
   },
   {
+    "itemId": "6558b293afa09b7d75bb1678ad3c1039",
+    "word": "disjoint",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "v.打散；拆开；（使）关节脱离\nadj.不连贯的；（两个集合）不相交的",
+    "usphone": "dɪsˈdʒɔɪnt",
+    "ukphone": "dɪsˈdʒɔɪnt",
+    "createTime": "2025-11-19T23:52:56.527+0000"
+  },
+  {
     "itemId": "a55d177eee19b2ac6ca741651496812b",
     "word": "dismay",
     "lanFrom": "en",
@@ -5428,6 +6228,26 @@
     "usphone": "ˌdɪsəˈbiːdiənt",
     "ukphone": "ˌdɪsəˈbiːdiənt",
     "createTime": "2024-11-15T05:56:53.808+0000"
+  },
+  {
+    "itemId": "833ec197cb267b376598bfc430a8595d",
+    "word": "dispense",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "vt.分配，分发；免除；执行\nvi.免除，豁免",
+    "usphone": "dɪˈspens",
+    "ukphone": "dɪˈspens",
+    "createTime": "2026-01-20T09:35:19.098+0000"
+  },
+  {
+    "itemId": "278e317936f2917e469d580da83e3fc0",
+    "word": "dispense with",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "无需；免除；省掉",
+    "usphone": "dɪˈspens wɪð",
+    "ukphone": null,
+    "createTime": "2026-01-22T03:04:11.522+0000"
   },
   {
     "itemId": "2ba1550f427fe67d239140e6bbb2c0eb",
@@ -5458,6 +6278,26 @@
     "usphone": "dɪsˈrʌpt",
     "ukphone": "dɪsˈrʌpt",
     "createTime": "2025-03-06T09:47:43.906+0000"
+  },
+  {
+    "itemId": "d7f1053c14c6ab6b2057bd9bbd95896a",
+    "word": "dissect",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "vt.切细；仔细分析\nvi.进行解剖；进行详细分析",
+    "usphone": "dɪˈsekt,daɪˈsekt",
+    "ukphone": "dɪˈsekt; daɪˈsekt",
+    "createTime": "2025-10-22T05:52:54.877+0000"
+  },
+  {
+    "itemId": "b688ed73deaf8140ab2a71b7b479e100",
+    "word": "dissemination",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.宣传；散播；传染（病毒）",
+    "usphone": "dɪˌsemɪˈneɪʃn",
+    "ukphone": "dɪˌsemɪˈneɪʃn",
+    "createTime": "2025-12-30T06:55:27.450+0000"
   },
   {
     "itemId": "029c2554dbff3ac4bd7561fc5a6cd44d",
@@ -5900,6 +6740,16 @@
     "createTime": "2025-03-03T08:47:57.271+0000"
   },
   {
+    "itemId": "795ae3b994ef9e72cd6b6afe0706e17c",
+    "word": "dubious",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.可疑的；暧昧的；无把握的；半信半疑的",
+    "usphone": "ˈduːbiəs",
+    "ukphone": "ˈdjuːbiəs",
+    "createTime": "2025-12-31T03:23:40.530+0000"
+  },
+  {
     "itemId": "d63a4849f70e85cbf47cf1f0bc481453",
     "word": "duchy",
     "lanFrom": "en",
@@ -5978,6 +6828,16 @@
     "usphone": "duːk",
     "ukphone": "djuːk",
     "createTime": "2024-12-04T12:45:58.244+0000"
+  },
+  {
+    "itemId": "53720ac85991c697e47971c83e9c9ae9",
+    "word": "duly",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adv.适当地，恰当地；按时地，适时地；不出所料地\n【名】 （Duly）（英）杜利（人名）",
+    "usphone": "ˈduːli",
+    "ukphone": "ˈdjuːli",
+    "createTime": "2026-01-25T23:41:17.080+0000"
   },
   {
     "itemId": "e336505f5eb3db9330338f183638917b",
@@ -6230,6 +7090,16 @@
     "createTime": "2024-12-10T12:02:31.349+0000"
   },
   {
+    "itemId": "fb83703dc3e6081c1bb87688f0bc6f0e",
+    "word": "elongate",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "vt.拉长；使延长；使伸长\nvi.拉长；延长；伸长\nadj.伸长的；延长的",
+    "usphone": "ɪˈlɔːŋɡeɪt",
+    "ukphone": "ˈiːlɒŋɡeɪt",
+    "createTime": "2025-12-30T02:03:06.539+0000"
+  },
+  {
     "itemId": "98b283989eee1480f406d0e2fc69e868",
     "word": "eloquent",
     "lanFrom": "en",
@@ -6258,6 +7128,16 @@
     "usphone": "ɪˈluːsɪv",
     "ukphone": "ɪˈluːsɪv",
     "createTime": "2025-01-14T08:03:01.957+0000"
+  },
+  {
+    "itemId": "c69e8b9e2e13c1eaf2a4353fd0e94f7d",
+    "word": "emanate",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "v.产生；（抽象可感的东西）散发；表现出（品质）",
+    "usphone": "ˈeməneɪt",
+    "ukphone": "ˈeməneɪt",
+    "createTime": "2025-08-11T02:28:07.971+0000"
   },
   {
     "itemId": "e0b32b5e4bab29b76f3c87ac816c8e7a",
@@ -6310,6 +7190,16 @@
     "createTime": "2024-10-31T06:02:12.275+0000"
   },
   {
+    "itemId": "78c78ad628bcd40f3d64e064b5e3e7c7",
+    "word": "emergent",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.新兴的，处于发展初期的；（特征）突现的，突创的；（植物，尤指森林中的大树）突出的，露头的；（水生植物）露出水面的\nn.突创特征；露出水面的植物，（高于林中其他树木的）露头树",
+    "usphone": "ɪˈmɜːrdʒənt",
+    "ukphone": "ɪˈmɜːdʒənt",
+    "createTime": "2026-02-10T01:36:17.750+0000"
+  },
+  {
     "itemId": "37b031ceb72b741f03ef5bf61d3fbbad",
     "word": "eminent",
     "lanFrom": "en",
@@ -6338,6 +7228,16 @@
     "usphone": "ɪmˈfætɪk",
     "ukphone": "ɪmˈfætɪk",
     "createTime": "2024-10-18T00:40:26.982+0000"
+  },
+  {
+    "itemId": "3b5b73452a0880b8fc43346848825d34",
+    "word": "emptor",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.买者",
+    "usphone": null,
+    "ukphone": "ˈemptɔː(r)",
+    "createTime": "2025-12-12T01:54:07.561+0000"
   },
   {
     "itemId": "1db26a9dc80a966bfb0e0e67abdf58e2",
@@ -6500,6 +7400,16 @@
     "createTime": "2024-11-03T22:56:20.650+0000"
   },
   {
+    "itemId": "e6fe1040a8507a2fe2744b3f8b7d36d0",
+    "word": "entitle",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "v.给（某人）权利（或资格）；给……题名；称呼",
+    "usphone": "ɪnˈtaɪtl",
+    "ukphone": "ɪnˈtaɪtl",
+    "createTime": "2025-12-18T05:49:16.940+0000"
+  },
+  {
     "itemId": "0a6ec9251d0a945139c80ff5b4fe57ca",
     "word": "entourage",
     "lanFrom": "en",
@@ -6528,6 +7438,16 @@
     "usphone": "ɪn'vaɪrən",
     "ukphone": "ɪn'vaɪrən; en-",
     "createTime": "2025-02-28T03:02:46.377+0000"
+  },
+  {
+    "itemId": "77ea42e52be6a3ae19b36567b5a66812",
+    "word": "ephemeral",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.短暂的；朝生暮死的\nn.只生存一天的事物",
+    "usphone": "ɪˈfemərəl",
+    "ukphone": "ɪˈfemərəl",
+    "createTime": "2025-08-05T09:06:54.621+0000"
   },
   {
     "itemId": "8638419242c8d7d95ead8436c143e8a6",
@@ -6560,6 +7480,26 @@
     "createTime": "2025-02-28T02:56:57.877+0000"
   },
   {
+    "itemId": "5219c91acb2bad820f612ce033a31136",
+    "word": "equilateral",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.等边的；等面的\nn.等边形",
+    "usphone": "ˌikwɪˈlætərəl",
+    "ukphone": "ˌiːkwɪˈlætərəl",
+    "createTime": "2025-11-18T11:40:45.822+0000"
+  },
+  {
+    "itemId": "205044e9f7987da23206413fb40d530a",
+    "word": "equilibrium",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.均衡；平静；保持平衡的能力",
+    "usphone": "ˌiːkwɪˈlɪbriəm,ˌekwɪˈlɪbriəm",
+    "ukphone": "ˌiːkwɪˈlɪbriəm; ˌekwɪˈlɪbriəm",
+    "createTime": "2025-12-17T05:13:55.005+0000"
+  },
+  {
     "itemId": "b4d28e7d94deef697fdace41014af38c",
     "word": "eradicate",
     "lanFrom": "en",
@@ -6578,6 +7518,16 @@
     "usphone": "ˈerɡoʊ",
     "ukphone": "ˈɜːɡəʊ",
     "createTime": "2025-01-02T02:59:12.885+0000"
+  },
+  {
+    "itemId": "d774f36c37f3b9be5cc2ab2aa9bae36f",
+    "word": "ergonomic",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.人类环境改造学的；人类工程学的",
+    "usphone": "ˌɜːrɡəˈnɑːmɪk",
+    "ukphone": "ˌɜːɡəˈnɒmɪk",
+    "createTime": "2025-05-07T06:25:28.548+0000"
   },
   {
     "itemId": "ac9304d99991e63d2c823567b4ef5dad",
@@ -6630,6 +7580,16 @@
     "createTime": "2025-03-25T02:29:51.613+0000"
   },
   {
+    "itemId": "b0599a8c3d9c8429db265b6727181b75",
+    "word": "evaporate",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "vt.使……蒸发；使……脱水；使……消失\nvi.蒸发，挥发；消失，失踪",
+    "usphone": "ɪˈvæpəreɪt",
+    "ukphone": "ɪˈvæpəreɪt",
+    "createTime": "2026-01-16T02:45:32.666+0000"
+  },
+  {
     "itemId": "16fe3e798758d96a6d78bb772ffd4e1e",
     "word": "evasion",
     "lanFrom": "en",
@@ -6660,6 +7620,16 @@
     "createTime": "2025-03-25T02:36:29.820+0000"
   },
   {
+    "itemId": "6047b47cadd47921229cf2a9ed24ebae",
+    "word": "evoke",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "v.引起，唤起（感情、记忆或形象）；召（魂），唤（神）",
+    "usphone": "ɪˈvoʊk",
+    "ukphone": "ɪˈvəʊk",
+    "createTime": "2025-09-07T23:32:33.577+0000"
+  },
+  {
     "itemId": "238893a2e02e30fbf88e182c2a929917",
     "word": "exact",
     "lanFrom": "en",
@@ -6688,6 +7658,16 @@
     "usphone": "ɪkˈskɜːrʒn",
     "ukphone": "ɪkˈskɜːʃn",
     "createTime": "2025-03-03T09:30:48.858+0000"
+  },
+  {
+    "itemId": "c9283cfc1586fa1fc9c400b080f19101",
+    "word": "exemplify",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "vt.例证；例示",
+    "usphone": "ɪɡˈzemplɪfaɪ",
+    "ukphone": "ɪɡˈzemplɪfaɪ",
+    "createTime": "2025-10-23T06:23:01.023+0000"
   },
   {
     "itemId": "4a6ec59a4e8c8a016464bbf51c9cd88f",
@@ -6730,6 +7710,16 @@
     "createTime": "2025-01-14T08:05:30.487+0000"
   },
   {
+    "itemId": "0a0acf9e3bf4fa4b5406579a76441ee2",
+    "word": "expansion",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.膨胀；阐述；扩张物",
+    "usphone": "ɪkˈspænʃn",
+    "ukphone": "ɪkˈspænʃn",
+    "createTime": "2025-12-30T07:44:32.531+0000"
+  },
+  {
     "itemId": "a0e13f2d9f099e785d6eadbb70426122",
     "word": "expedition",
     "lanFrom": "en",
@@ -6770,6 +7760,26 @@
     "createTime": "2024-12-30T03:12:25.268+0000"
   },
   {
+    "itemId": "26801fc1c71a106982a4b97e614158f8",
+    "word": "expository",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.说明的；解释的；评注的（等于expositive）",
+    "usphone": "ɪkˈspɑːzətɔːri",
+    "ukphone": "ɪkˈspɒzətri",
+    "createTime": "2025-12-12T05:47:55.383+0000"
+  },
+  {
+    "itemId": "e3972642505e48ff82ba78b5c2ed03b1",
+    "word": "expound",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "v.详述，阐述；说明，讲解；解释……的意思",
+    "usphone": "ɪkˈspaʊnd",
+    "ukphone": "ɪkˈspaʊnd",
+    "createTime": "2026-01-06T12:29:16.584+0000"
+  },
+  {
     "itemId": "19cab089b3a0ed3effc5b0f27b4d5d9c",
     "word": "extra-terrestrial",
     "lanFrom": "en",
@@ -6778,6 +7788,36 @@
     "usphone": null,
     "ukphone": null,
     "createTime": "2025-02-28T02:45:01.348+0000"
+  },
+  {
+    "itemId": "20d93d0e6f28da574d531a98c342fcc9",
+    "word": "extraneous",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.外来的；没有关联的；来自体外的",
+    "usphone": "ɪkˈstreɪniəs",
+    "ukphone": "ɪkˈstreɪniəs",
+    "createTime": "2025-04-16T01:26:11.379+0000"
+  },
+  {
+    "itemId": "d308f418ef09ff723e2aeb82e28d96ef",
+    "word": "extrapolation",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.[数] 外推法；推断",
+    "usphone": "ɪkˌstræpəˈleɪʃn",
+    "ukphone": "ɪkˌstræpəˈleɪʃn",
+    "createTime": "2026-02-04T08:52:24.001+0000"
+  },
+  {
+    "itemId": "5e635ff55c2565f7b350c563e3c05e45",
+    "word": "extricable",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.可解救的；可救出的",
+    "usphone": "ˈekstrɪkəbəl",
+    "ukphone": "ˈekstrɪkəbl",
+    "createTime": "2025-12-30T07:17:56.572+0000"
   },
   {
     "itemId": "299b357aa00e083aa075c7a88e417159",
@@ -6900,6 +7940,16 @@
     "createTime": "2024-11-18T03:18:49.375+0000"
   },
   {
+    "itemId": "d303c6811bae13f8bc196d09808c29e0",
+    "word": "fallacy",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.谬论，谬误",
+    "usphone": "ˈfæləsi",
+    "ukphone": "ˈfæləsi",
+    "createTime": "2026-02-04T09:49:15.883+0000"
+  },
+  {
     "itemId": "1e80ad9398c353cdc8f401366af5232d",
     "word": "fallout",
     "lanFrom": "en",
@@ -6958,6 +8008,16 @@
     "usphone": "fəˈtiːɡ",
     "ukphone": "fəˈtiːɡ",
     "createTime": "2024-10-30T08:21:21.371+0000"
+  },
+  {
+    "itemId": "373d313440139e6b02de65e5824f8dd6",
+    "word": "faucet",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.<美>水龙头，旋塞\n【名】 （英）福西特（人名）",
+    "usphone": "ˈfɔːsɪt",
+    "ukphone": "ˈfɔːsɪt",
+    "createTime": "2025-12-30T12:03:12.781+0000"
   },
   {
     "itemId": "b4bb895c454f005399a01529accbdae3",
@@ -7128,6 +8188,16 @@
     "usphone": "ˈferi",
     "ukphone": "ˈferi",
     "createTime": "2024-12-23T00:23:19.930+0000"
+  },
+  {
+    "itemId": "64af20eccd051d675cc8791ae9952156",
+    "word": "fervent",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.热情的，热诚的，热烈的，强烈的；<古>炽热的，火热的",
+    "usphone": "ˈfɜːrvənt",
+    "ukphone": "ˈfɜːvənt",
+    "createTime": "2026-01-26T04:12:14.002+0000"
   },
   {
     "itemId": "c1d4a10d372171f4a2a2ab0a780bf454",
@@ -7490,6 +8560,16 @@
     "createTime": "2024-12-04T13:01:36.920+0000"
   },
   {
+    "itemId": "6c8b6b76344df868bae97caa092fef28",
+    "word": "foci",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.焦点；焦距；聚焦（focus的复数）\nn.(Foci)人名；(意)福奇",
+    "usphone": "ˈfəʊsaɪ, ˈfəʊkaɪ",
+    "ukphone": "ˈfəʊsaɪ; ˈfəʊkaɪ",
+    "createTime": "2026-01-08T05:25:19.959+0000"
+  },
+  {
     "itemId": "de77636460d9e77ed84265ee0852d226",
     "word": "foe",
     "lanFrom": "en",
@@ -7618,6 +8698,16 @@
     "usphone": "ˈfɔːrmjuleɪt",
     "ukphone": "ˈfɔːmjuleɪt",
     "createTime": "2025-02-28T05:52:08.721+0000"
+  },
+  {
+    "itemId": "0c602c988193fad7c317347744f465cd",
+    "word": "forsake",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "vt.放弃；断念",
+    "usphone": "fərˈseɪk",
+    "ukphone": "fəˈseɪk",
+    "createTime": "2026-02-04T12:23:05.921+0000"
   },
   {
     "itemId": "7649cfaa49c2126742702ba04fd937b3",
@@ -7780,6 +8870,16 @@
     "createTime": "2024-11-28T01:04:04.190+0000"
   },
   {
+    "itemId": "002440608f08fb3410dd3d45928bd134",
+    "word": "fringe",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.边缘；穗；刘海\nadj.边缘的；附加的\nvt.加穗于",
+    "usphone": "frɪndʒ",
+    "ukphone": "frɪndʒ",
+    "createTime": "2026-01-22T03:20:52.615+0000"
+  },
+  {
     "itemId": "5ffd72851a0879d8c57e3c983c26ce65",
     "word": "frost",
     "lanFrom": "en",
@@ -7860,6 +8960,16 @@
     "createTime": "2024-12-23T05:57:15.900+0000"
   },
   {
+    "itemId": "3a5f8866eda22fef62c64f536e6dd4ca",
+    "word": "furnish",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "vt.提供；供应；装备",
+    "usphone": "ˈfɜːrnɪʃ",
+    "ukphone": "ˈfɜːnɪʃ",
+    "createTime": "2026-02-04T08:24:44.454+0000"
+  },
+  {
     "itemId": "26842fbc2112eb4a4be4b0fec4b6c8a7",
     "word": "furrow",
     "lanFrom": "en",
@@ -7938,6 +9048,16 @@
     "usphone": "ˈɡæləp",
     "ukphone": "ˈɡæləp",
     "createTime": "2024-10-29T06:31:57.907+0000"
+  },
+  {
+    "itemId": "a328ead4a0c0035c2506f7583ddf4011",
+    "word": "gambit",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.话题；开始；以取得优势的开局棋法；开场白",
+    "usphone": "ˈɡæmbɪt",
+    "ukphone": "ˈɡæmbɪt",
+    "createTime": "2025-12-30T08:02:24.652+0000"
   },
   {
     "itemId": "194e8cb4adc025d0a5b06ba4b3784d69",
@@ -8070,6 +9190,16 @@
     "createTime": "2024-12-31T08:52:32.473+0000"
   },
   {
+    "itemId": "9894c9767d43fc2a5056ae9832da18e3",
+    "word": "genuine",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.真实的，真正的；诚恳的",
+    "usphone": "ˈdʒenjuɪn",
+    "ukphone": "ˈdʒenjuɪn",
+    "createTime": "2025-12-30T07:08:51.076+0000"
+  },
+  {
     "itemId": "e05365b0f784692b39277919a3a4334a",
     "word": "genuinely",
     "lanFrom": "en",
@@ -8078,6 +9208,16 @@
     "usphone": "ˈdʒenjuɪnli",
     "ukphone": "ˈdʒenjuɪnli",
     "createTime": "2024-11-15T00:33:36.124+0000"
+  },
+  {
+    "itemId": "9c3bcbb43be2f8a920c217b73e668f27",
+    "word": "geometer",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.[植保] 尺蠖（一种虫子，行动时身体弯成弧状）；几何学者",
+    "usphone": null,
+    "ukphone": "dʒɪˈɒmɪtə(r)",
+    "createTime": "2026-01-22T03:02:10.794+0000"
   },
   {
     "itemId": "bee4b03bef41e26e71f59eae89e2bc3c",
@@ -8228,6 +9368,16 @@
     "usphone": null,
     "ukphone": null,
     "createTime": "2024-12-05T00:22:47.465+0000"
+  },
+  {
+    "itemId": "231aba1c952b19669dcec9ade16942a8",
+    "word": "glassmorphism",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "玻璃拟态",
+    "usphone": null,
+    "ukphone": null,
+    "createTime": "2026-02-11T01:57:51.668+0000"
   },
   {
     "itemId": "db5f0f2d4eabf2a55d7cee9779d190ea",
@@ -8510,6 +9660,16 @@
     "createTime": "2025-01-10T03:23:18.100+0000"
   },
   {
+    "itemId": "05fd00ab9bbba49c5b6b6f013a42d1b4",
+    "word": "graphite",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.石墨；黑铅\nv.用石墨涂（或掺入等）",
+    "usphone": "ˈɡræfaɪt",
+    "ukphone": "ˈɡræfaɪt",
+    "createTime": "2025-12-12T07:14:56.193+0000"
+  },
+  {
     "itemId": "74a6e851988cdddb8bfa1fe6a0f50478",
     "word": "grapple",
     "lanFrom": "en",
@@ -8548,6 +9708,16 @@
     "usphone": null,
     "ukphone": null,
     "createTime": "2024-10-21T12:20:05.936+0000"
+  },
+  {
+    "itemId": "70c631787beaf75c6892edddaa2feb6d",
+    "word": "grenade",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.手榴弹；灭火弹\nvt.扔手榴弹；用催泪弹攻击\nn.（Grenade）人名；（西、法）格雷纳德",
+    "usphone": "ɡrəˈneɪd",
+    "ukphone": "ɡrəˈneɪd",
+    "createTime": "2025-05-28T22:59:22.887+0000"
   },
   {
     "itemId": "2e9bf1d7d9071dc1acfd548f7f47ea06",
@@ -8608,6 +9778,16 @@
     "usphone": "ɡrɪn",
     "ukphone": "ɡrɪn",
     "createTime": "2024-10-24T07:03:38.022+0000"
+  },
+  {
+    "itemId": "445bd13bf7f185da3ca0f256a2c6b2cf",
+    "word": "grind",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "vt.磨碎；磨快\nvi.磨碎；折磨\nn.磨；苦工作\nn.(Grind)人名；(法、德)格林德",
+    "usphone": "ɡraɪnd",
+    "ukphone": "ɡraɪnd",
+    "createTime": "2025-12-24T08:40:25.064+0000"
   },
   {
     "itemId": "99e0c02df4a88e70d6d339c8371cdbfd",
@@ -8678,6 +9858,16 @@
     "usphone": "ɡrʌb",
     "ukphone": "ɡrʌb",
     "createTime": "2024-11-12T00:13:56.461+0000"
+  },
+  {
+    "itemId": "125ac541b2c5348d859b2e0d1730b6e0",
+    "word": "gruel",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.稀粥，燕麦粥\nn.(Gruel) （法、美）格吕埃尔（人名）",
+    "usphone": "ˈɡruːəl",
+    "ukphone": "ˈɡruːəl",
+    "createTime": "2026-01-08T07:13:52.363+0000"
   },
   {
     "itemId": "517ed2ea2c1eececf0ab628a872739a9",
@@ -8758,6 +9948,16 @@
     "usphone": "ɡʌts",
     "ukphone": "ɡʌts",
     "createTime": "2024-12-02T00:30:50.145+0000"
+  },
+  {
+    "itemId": "dfebccbd5e51406e4a77e5cb04b47a76",
+    "word": "gyroscope",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.陀螺仪；[航] 回转仪",
+    "usphone": "ˈdʒaɪrəskoʊp",
+    "ukphone": "ˈdʒaɪrəskəʊp",
+    "createTime": "2025-12-18T05:51:31.364+0000"
   },
   {
     "itemId": "e61ce919ee02f90d245d8c5d1e181609",
@@ -8860,6 +10060,16 @@
     "createTime": "2025-03-05T08:01:32.200+0000"
   },
   {
+    "itemId": "c2ef918f4edc770065ee3378f12fe851",
+    "word": "haphazard",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.偶然的；随便的；无计划的\nn.偶然；偶然事件\nadv.偶然地；随意地",
+    "usphone": "hæpˈhæzərd",
+    "ukphone": "hæpˈhæzəd",
+    "createTime": "2026-01-21T10:27:33.778+0000"
+  },
+  {
     "itemId": "64851d89bf119ca4b548ff3d5c682aa8",
     "word": "hapless",
     "lanFrom": "en",
@@ -8928,6 +10138,16 @@
     "usphone": "ˈheɪsn",
     "ukphone": "ˈheɪsn",
     "createTime": "2024-11-19T08:36:08.123+0000"
+  },
+  {
+    "itemId": "12c73dbf82272e6dfd69e05b0c10f7fa",
+    "word": "hasty",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.匆忙的，仓促的；草率的，轻率的；<古>易怒的\n【名】（Hasty）（英）黑斯蒂（人名）",
+    "usphone": "ˈheɪsti",
+    "ukphone": "ˈheɪsti",
+    "createTime": "2026-01-23T07:36:56.860+0000"
   },
   {
     "itemId": "0a9200c73930c8214c87748e756a5d0a",
@@ -9080,6 +10300,16 @@
     "createTime": "2024-11-15T01:52:43.105+0000"
   },
   {
+    "itemId": "b63acaae488491b53a7e7aee3d7857c8",
+    "word": "held sway in",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "在……占主导地位：在某个领域或某个时期中占据主导地位，控制着局面。",
+    "usphone": null,
+    "ukphone": null,
+    "createTime": "2025-12-30T07:06:09.324+0000"
+  },
+  {
     "itemId": "727ec225fe0c3a97000b35315f85a0bf",
     "word": "helium",
     "lanFrom": "en",
@@ -9088,6 +10318,16 @@
     "usphone": "ˈhiːliəm",
     "ukphone": "ˈhiːliəm",
     "createTime": "2025-03-05T03:20:03.627+0000"
+  },
+  {
+    "itemId": "fe2202093ba601bfc9a06a52046e9da0",
+    "word": "helix",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.螺旋，螺旋状物；[解剖] 耳轮",
+    "usphone": "ˈhiːlɪks",
+    "ukphone": "ˈhiːlɪks",
+    "createTime": "2025-12-24T07:38:26.022+0000"
   },
   {
     "itemId": "fdc6af6f5fccf6d16c05ceaeee3f189b",
@@ -9150,6 +10390,26 @@
     "createTime": "2025-03-06T03:15:19.181+0000"
   },
   {
+    "itemId": "407b0faad16b4a6f8e3d65778e9cff65",
+    "word": "herring",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.鲱鱼；鲱鱼肉\nn.(Herring) （美）赫林（人名）",
+    "usphone": "ˈherɪŋ",
+    "ukphone": "ˈherɪŋ",
+    "createTime": "2026-02-05T05:47:12.932+0000"
+  },
+  {
+    "itemId": "8f01a544241475159ddf23563de284ad",
+    "word": "hexagon",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.六角形，六边形\nadj.成六角的；成六边的",
+    "usphone": "ˈheksəɡɑːn",
+    "ukphone": "ˈheksəɡən",
+    "createTime": "2026-01-20T08:09:22.709+0000"
+  },
+  {
     "itemId": "3ce919e99d3c567b9d863c3a0bbc71ac",
     "word": "hibernation",
     "lanFrom": "en",
@@ -9210,6 +10470,16 @@
     "createTime": "2024-12-23T09:45:11.835+0000"
   },
   {
+    "itemId": "f78d8dd5d2219ff96bda870eeb362741",
+    "word": "hindsight",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.后见之明；枪的照门",
+    "usphone": "ˈhaɪndsaɪt",
+    "ukphone": "ˈhaɪndsaɪt",
+    "createTime": "2025-12-31T03:56:26.804+0000"
+  },
+  {
     "itemId": "9031417246418cbf334d4811ab697517",
     "word": "hip",
     "lanFrom": "en",
@@ -9230,6 +10500,16 @@
     "createTime": "2024-12-23T01:08:50.686+0000"
   },
   {
+    "itemId": "eb0afb76b5a533db4984242634ab91e3",
+    "word": "hitherto",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adv.迄今；至今",
+    "usphone": "ˌhɪðərˈtuː",
+    "ukphone": "ˌhɪðəˈtuː",
+    "createTime": "2025-12-24T06:41:48.050+0000"
+  },
+  {
     "itemId": "4e7393ea335198c4904244095dd14fe0",
     "word": "hoax",
     "lanFrom": "en",
@@ -9238,6 +10518,16 @@
     "usphone": "hoʊks",
     "ukphone": "həʊks",
     "createTime": "2024-11-18T03:28:37.364+0000"
+  },
+  {
+    "itemId": "77b3986c67cba03877a2d59ecd098f61",
+    "word": "holistic",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.整体的；全盘的",
+    "usphone": "hoʊˈlɪstɪk",
+    "ukphone": "həˈlɪstɪk",
+    "createTime": "2025-07-25T02:17:02.968+0000"
   },
   {
     "itemId": "b5a25fa2cef01ba0763641b7a0392609",
@@ -9278,6 +10568,16 @@
     "usphone": "ˈhoʊmsted",
     "ukphone": "ˈhəʊmsted",
     "createTime": "2025-03-06T02:19:08.039+0000"
+  },
+  {
+    "itemId": "61d1332e61c71e16c3b769aacedef0e7",
+    "word": "homomorphism",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.[数] 同态，同形；异质同形",
+    "usphone": ",homə'mɔrfɪzəm",
+    "ukphone": "ˌhəʊməʊˈmɔːfɪzəm",
+    "createTime": "2025-10-21T02:37:43.918+0000"
   },
   {
     "itemId": "c937a6fa9a8ba859f168bcccb276b28f",
@@ -9360,6 +10660,16 @@
     "createTime": "2024-11-13T00:20:30.394+0000"
   },
   {
+    "itemId": "a20937ffe7c5ca5ce7ebbaa0ba48d347",
+    "word": "hose",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.软管，水龙带；<史>马裤；连裤袜，长筒袜；（旧式的）男式紧身裤\nv.用水管冲洗（或浇灌）；<美>欺骗，愚弄；痛打",
+    "usphone": "hoʊz",
+    "ukphone": "həʊz",
+    "createTime": "2025-12-30T12:02:47.256+0000"
+  },
+  {
     "itemId": "ba7c0d3561b2fecdfd4333124d467d93",
     "word": "hot tub",
     "lanFrom": "en",
@@ -9378,6 +10688,16 @@
     "usphone": null,
     "ukphone": null,
     "createTime": "2024-12-30T09:17:24.292+0000"
+  },
+  {
+    "itemId": "a8569fc8c46b07cb0b73820a78ea8931",
+    "word": "hourglass",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.沙漏；水漏",
+    "usphone": "ˈaʊərɡlæs",
+    "ukphone": "ˈaʊəɡlɑːs",
+    "createTime": "2026-01-08T05:30:54.920+0000"
   },
   {
     "itemId": "ca82fbf4abe696f5e826c7d08fd0e577",
@@ -9480,6 +10800,16 @@
     "createTime": "2024-11-20T07:31:40.521+0000"
   },
   {
+    "itemId": "1442eb27fcd4f953ea910bbc074b3673",
+    "word": "hunch",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.直觉，预感；肉峰；厚片，大块\nv.弓身，弓背",
+    "usphone": "hʌntʃ",
+    "ukphone": "hʌntʃ",
+    "createTime": "2026-01-26T04:10:36.491+0000"
+  },
+  {
     "itemId": "7624a47a4aea4054f22824c3da03e5e7",
     "word": "hunky",
     "lanFrom": "en",
@@ -9540,6 +10870,16 @@
     "createTime": "2024-11-15T07:58:32.913+0000"
   },
   {
+    "itemId": "336b047aa5aabf65dbd820e40c11c0d4",
+    "word": "hydrodynamics",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.[流] 流体力学；[流] 水动力学；流体动力学",
+    "usphone": "ˈhaɪdroʊdaɪˈnæmɪks",
+    "ukphone": "ˌhaɪdrəʊdaɪˈnæmɪks",
+    "createTime": "2025-12-18T07:11:29.555+0000"
+  },
+  {
     "itemId": "4ddee6c1ca3d571e6291c17fec0b40fa",
     "word": "hydrogen",
     "lanFrom": "en",
@@ -9560,6 +10900,36 @@
     "createTime": "2024-10-30T08:02:36.510+0000"
   },
   {
+    "itemId": "6a3351b4192c08c593778667f283f388",
+    "word": "hygiene",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.卫生；卫生学，保健学",
+    "usphone": "ˈhaɪdʒiːn",
+    "ukphone": "ˈhaɪdʒiːn",
+    "createTime": "2025-12-16T23:27:05.070+0000"
+  },
+  {
+    "itemId": "2076ebe8ccff588dab13fd17a3bf3711",
+    "word": "hyperbola",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.[数] 双曲线",
+    "usphone": "haɪˈpɜːrbələ",
+    "ukphone": "haɪˈpɜːbələ",
+    "createTime": "2025-12-24T06:11:26.102+0000"
+  },
+  {
+    "itemId": "3437273471d78edab28b43dca7e34981",
+    "word": "hyperbolic",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.双曲线的；夸张的",
+    "usphone": "ˌhaɪpərˈbɑːlɪk",
+    "ukphone": "ˌhaɪpəˈbɒlɪk",
+    "createTime": "2026-01-06T12:34:16.917+0000"
+  },
+  {
     "itemId": "85e738d23ebb964af9408f9ed01a42eb",
     "word": "hypnotize",
     "lanFrom": "en",
@@ -9568,6 +10938,16 @@
     "usphone": "ˈhɪpnətaɪz",
     "ukphone": "ˈhɪpnətaɪz",
     "createTime": "2024-11-12T08:43:45.153+0000"
+  },
+  {
+    "itemId": "7ffb1656f10acebae05efa361a0d6e61",
+    "word": "hypotenuse",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.直角三角形的斜边",
+    "usphone": "haɪˈpɑːtənuːs",
+    "ukphone": "haɪˈpɒtənjuːz",
+    "createTime": "2025-12-31T02:55:28.187+0000"
   },
   {
     "itemId": "b13c761f7b73e8c94b0717d9474e6b77",
@@ -9628,6 +11008,16 @@
     "usphone": "ˈɪɡnərənt",
     "ukphone": "ˈɪɡnərənt",
     "createTime": "2024-11-19T08:43:36.361+0000"
+  },
+  {
+    "itemId": "5a6e38224d713bf036e96cef5f7c6fcb",
+    "word": "ill-fated",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.不幸的；恶运的",
+    "usphone": "ˌɪl ˈfeɪtɪd",
+    "ukphone": "ˌɪl ˈfeɪtɪd",
+    "createTime": "2026-01-23T06:21:25.192+0000"
   },
   {
     "itemId": "cc7942f97241a019247058e51ea6ff55",
@@ -9710,6 +11100,26 @@
     "createTime": "2024-11-18T03:23:46.488+0000"
   },
   {
+    "itemId": "c92260a66e0b243b93ca749d6b845de2",
+    "word": "impasse",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.僵局；死路",
+    "usphone": "ˈɪmpæs",
+    "ukphone": "ˈɪmpæs",
+    "createTime": "2026-01-21T02:53:55.822+0000"
+  },
+  {
+    "itemId": "2669a5bb12843612b53eb41c58f38ba5",
+    "word": "impeachable",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.可控告的，可弹劾的",
+    "usphone": "ɪmˈpiːtʃəbl",
+    "ukphone": "ɪmˈpiːtʃəbl",
+    "createTime": "2025-12-30T08:02:43.412+0000"
+  },
+  {
     "itemId": "ddc7559bff457a55a4f9b7768df00d9d",
     "word": "impede",
     "lanFrom": "en",
@@ -9738,16 +11148,6 @@
     "usphone": "ɪmˈpɪriəl",
     "ukphone": "ɪmˈpɪəriəl",
     "createTime": "2024-11-13T07:13:06.564+0000"
-  },
-  {
-    "itemId": "69945bce656ee6905225e355739b8cd4",
-    "word": "impervious",
-    "lanFrom": "en",
-    "lanTo": "zh-CHS",
-    "trans": "adj.不受影响的，无动于衷的；不能渗透的",
-    "usphone": "ɪmˈpɜːrviəs",
-    "ukphone": "ɪmˈpɜːviəs",
-    "createTime": "2025-01-02T02:42:24.285+0000"
   },
   {
     "itemId": "0acb292559385cd18262f6ba2eed3788",
@@ -9850,6 +11250,16 @@
     "createTime": "2025-01-02T09:50:49.091+0000"
   },
   {
+    "itemId": "3fcf1f6fac578adc5ea38f0fb405773f",
+    "word": "in deference to",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "鉴于；听从",
+    "usphone": null,
+    "ukphone": null,
+    "createTime": "2026-02-04T06:49:27.234+0000"
+  },
+  {
     "itemId": "9221a00f22d774b157232cdf0947884b",
     "word": "in retaliation for",
     "lanFrom": "en",
@@ -9908,6 +11318,16 @@
     "usphone": "ˌɪnkɑːrˈneɪʃn",
     "ukphone": "ˌɪnkɑːˈneɪʃn",
     "createTime": "2024-11-15T00:26:14.268+0000"
+  },
+  {
+    "itemId": "ac38cf48d384e6d86841a4e4e8023ebe",
+    "word": "incest",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.乱伦；近亲通婚",
+    "usphone": "ˈɪnsest",
+    "ukphone": "ˈɪnsest",
+    "createTime": "2026-01-22T10:09:01.072+0000"
   },
   {
     "itemId": "851de3474e28d4c7ed3df9c892e24434",
@@ -10000,6 +11420,16 @@
     "createTime": "2025-02-19T06:38:46.502+0000"
   },
   {
+    "itemId": "b5acd4cafdf4864eb5838ef797257cc0",
+    "word": "indispensable",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.不可缺少的；绝对必要的；责无旁贷的\nn.不可缺少之物；必不可少的人",
+    "usphone": "ˌɪndɪˈspensəbl",
+    "ukphone": "ˌɪndɪˈspensəbl",
+    "createTime": "2025-08-06T09:44:45.225+0000"
+  },
+  {
     "itemId": "890a4f3cfdc061f701586ff6ff4872de",
     "word": "inept",
     "lanFrom": "en",
@@ -10008,6 +11438,16 @@
     "usphone": "ɪˈnept",
     "ukphone": "ɪˈnept",
     "createTime": "2025-01-02T08:03:52.430+0000"
+  },
+  {
+    "itemId": "ea946ccc50c8d8e337d481ffa2715ead",
+    "word": "inextricable",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.逃脱不掉的；解不开的",
+    "usphone": "ˌɪnɪkˈstrɪkəbl,ɪnˈekstrɪkəbl",
+    "ukphone": "ˌɪnɪkˈstrɪkəbl; ɪnˈekstrɪkəbl",
+    "createTime": "2025-12-30T07:17:40.724+0000"
   },
   {
     "itemId": "32acda877220eaf51076097f447908b4",
@@ -10050,6 +11490,16 @@
     "createTime": "2025-01-02T03:02:33.838+0000"
   },
   {
+    "itemId": "89e6101f2bb5c4a7b515faa35bc2a1c9",
+    "word": "infinitesimal",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.无穷小的；无限小的；极小的\nn.无限小；极微量；极小量",
+    "usphone": "ˌɪnfɪnɪˈtesɪml",
+    "ukphone": "ˌɪnfɪnɪˈtesɪml",
+    "createTime": "2025-12-31T02:47:04.700+0000"
+  },
+  {
     "itemId": "1701cb1e717c27116530e2967db6300e",
     "word": "infirmary",
     "lanFrom": "en",
@@ -10090,6 +11540,16 @@
     "createTime": "2025-02-27T10:33:34.647+0000"
   },
   {
+    "itemId": "65132f53b44307ac9bd77820c27aff6d",
+    "word": "injective",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.[数] 内射的；[数] 单射的",
+    "usphone": "ɪnˈdʒektɪv",
+    "ukphone": "ɪnˈdʒektɪv",
+    "createTime": "2025-12-07T23:45:13.125+0000"
+  },
+  {
     "itemId": "8d68d81623d17df3db9a1d012e3313a8",
     "word": "inmate",
     "lanFrom": "en",
@@ -10098,6 +11558,16 @@
     "usphone": "ˈɪnmeɪt",
     "ukphone": "ˈɪnmeɪt",
     "createTime": "2025-01-02T02:35:16.084+0000"
+  },
+  {
+    "itemId": "04fddc4218721b1cc0110b2827ca2e4a",
+    "word": "inn",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.（尤指乡村的）小旅馆，小酒馆；（用于旅馆的名字中）酒店，饭店\n【名】 （Inn）（柬）因（人名）",
+    "usphone": "ɪn",
+    "ukphone": "ɪn",
+    "createTime": "2026-01-08T23:48:01.529+0000"
   },
   {
     "itemId": "741bd40d24f0a3ce6a51f42d56f03c73",
@@ -10118,6 +11588,16 @@
     "usphone": "ˌɪnjuˈendoʊ",
     "ukphone": "ˌɪnjuˈendəʊ",
     "createTime": "2025-01-02T06:19:15.846+0000"
+  },
+  {
+    "itemId": "24eddf6240280d978685f9dbd1f6beb2",
+    "word": "inscribe",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "vt.题写；题献；铭记；雕",
+    "usphone": "ɪnˈskraɪb",
+    "ukphone": "ɪnˈskraɪb",
+    "createTime": "2026-01-06T12:47:43.397+0000"
   },
   {
     "itemId": "66fbe87480104572404f63df83d40d89",
@@ -10178,6 +11658,16 @@
     "usphone": "ˌɪnsəˌbɔːrdɪˈneɪʃn",
     "ukphone": "ˌɪnsəˌbɔːdɪˈneɪʃn",
     "createTime": "2024-12-02T01:19:53.946+0000"
+  },
+  {
+    "itemId": "223d1bd959cc55f8fbc0f4ab73a35f06",
+    "word": "intellectual",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.智力的；聪明的；理智的\nn.知识分子；凭理智做事者",
+    "usphone": "ˌɪntəˈlektʃuəl",
+    "ukphone": "ˌɪntəˈlektʃuəl",
+    "createTime": "2025-10-23T06:22:53.298+0000"
   },
   {
     "itemId": "73c15fd5b3e958fac5292d9eaf4db148",
@@ -10260,6 +11750,16 @@
     "createTime": "2024-10-30T00:43:57.596+0000"
   },
   {
+    "itemId": "d8bd222e3fc8d37fbe73c64907d68723",
+    "word": "intimation",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.暗示；告知；讽示",
+    "usphone": "ˌɪntɪˈmeɪʃn",
+    "ukphone": "ˌɪntɪˈmeɪʃn",
+    "createTime": "2026-01-20T09:18:02.124+0000"
+  },
+  {
     "itemId": "9dd184a366d00019664a86f8739faaad",
     "word": "intimidate",
     "lanFrom": "en",
@@ -10278,6 +11778,16 @@
     "usphone": "ˌɪntəˈneɪʃ(ə)n",
     "ukphone": "ˌɪntəˈneɪʃ(ə)n",
     "createTime": "2024-11-11T23:54:49.992+0000"
+  },
+  {
+    "itemId": "67c41abc9304e0638707f4cce8afddee",
+    "word": "intricacy",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.错综，复杂；难以理解",
+    "usphone": "ˈɪntrɪkəsi",
+    "ukphone": "ˈɪntrɪkəsi",
+    "createTime": "2025-10-24T08:39:47.903+0000"
   },
   {
     "itemId": "5dc37b3fb06983d22237c00d3ef936e5",
@@ -10318,6 +11828,26 @@
     "usphone": "ˈɪrɪteɪt",
     "ukphone": "ˈɪrɪteɪt",
     "createTime": "2024-12-30T07:00:41.158+0000"
+  },
+  {
+    "itemId": "03287eba66ef9640f16ab518141cc2b4",
+    "word": "isometry",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.等距；等容；等高",
+    "usphone": "aɪˈsɑːmətri",
+    "ukphone": "aɪ'sɒmɪtrɪ",
+    "createTime": "2025-12-31T07:55:05.375+0000"
+  },
+  {
+    "itemId": "5ab1f95b80bf6df6b9024d791b420abb",
+    "word": "isomorphism",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.类质同像，[物化] 类质同晶；同形",
+    "usphone": ",aɪsə'mɔrfɪzm",
+    "ukphone": ",aɪsəʊ'mɔːfɪzəm",
+    "createTime": "2025-10-21T02:37:55.926+0000"
   },
   {
     "itemId": "9eb585a8c3b71ba5105e94e00fa8bf9b",
@@ -10408,6 +11938,16 @@
     "usphone": "ˈdʒeɡɪŋz",
     "ukphone": "ˈdʒeɡɪŋz",
     "createTime": "2024-12-02T00:56:25.413+0000"
+  },
+  {
+    "itemId": "3ed7417b8046a6c5480b96a0a241273a",
+    "word": "jelly",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.果冻；胶状物\nvi.成胶状\nvt.使结冻\nn.(Jelly)人名；(英)杰利；(俄)叶利",
+    "usphone": "ˈdʒeli",
+    "ukphone": "ˈdʒeli",
+    "createTime": "2025-08-11T03:57:01.360+0000"
   },
   {
     "itemId": "ff277771611107231583ffc7e1d1a528",
@@ -10548,6 +12088,16 @@
     "usphone": "ˈdʒʌmboʊ",
     "ukphone": "ˈdʒʌmbəʊ",
     "createTime": "2024-11-15T06:22:53.937+0000"
+  },
+  {
+    "itemId": "76da0f998bd9c81b822088e6976306a7",
+    "word": "jurisdiction",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.司法权，审判权，管辖权；权限，权力",
+    "usphone": "ˌdʒʊrɪsˈdɪkʃn",
+    "ukphone": "ˌdʒʊərɪsˈdɪkʃn",
+    "createTime": "2026-02-05T01:21:46.681+0000"
   },
   {
     "itemId": "4aa057ba2050914e58a400061a00383e",
@@ -10750,6 +12300,16 @@
     "createTime": "2024-11-15T08:08:58.080+0000"
   },
   {
+    "itemId": "55e7a79389845cd57e248047bd3edb39",
+    "word": "landlord",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.房东，地主；<英>（客栈、酒吧或出租公寓的）店主，老板",
+    "usphone": "ˈlændlɔːrd",
+    "ukphone": "ˈlændlɔːd",
+    "createTime": "2025-04-09T23:34:23.320+0000"
+  },
+  {
     "itemId": "0211ac8dc1a7531f31c86d1340ca2cf7",
     "word": "landmass",
     "lanFrom": "en",
@@ -10820,6 +12380,16 @@
     "createTime": "2024-06-06T07:20:06.879+0000"
   },
   {
+    "itemId": "ae545d61a7b8094a06882f13b39a2184",
+    "word": "lattice",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.[晶体] 晶格；格子；格架\nvt.使成格子状",
+    "usphone": "ˈlætɪs",
+    "ukphone": "ˈlætɪs",
+    "createTime": "2025-12-11T10:02:18.852+0000"
+  },
+  {
     "itemId": "5ecca1aa6e32e8aa095f2e5a86fe374b",
     "word": "laud",
     "lanFrom": "en",
@@ -10838,6 +12408,16 @@
     "usphone": "ˈlɔːndri",
     "ukphone": "ˈlɔːndri",
     "createTime": "2024-10-22T00:38:34.397+0000"
+  },
+  {
+    "itemId": "732d7437b24b9092e97fe0d649a6d87a",
+    "word": "lavish",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.浪费的；丰富的；大方的\nvt.浪费；慷慨给予；滥用",
+    "usphone": "ˈlævɪʃ",
+    "ukphone": "ˈlævɪʃ",
+    "createTime": "2026-02-04T10:25:42.041+0000"
   },
   {
     "itemId": "4343e60a52c7ea1962e1cc3e4a2a2d00",
@@ -10890,6 +12470,16 @@
     "createTime": "2024-10-24T03:06:28.637+0000"
   },
   {
+    "itemId": "fdd71154693985f18c59493b6f6f44ef",
+    "word": "lease",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.租约，租契\nv.出租，租用",
+    "usphone": "liːs",
+    "ukphone": "liːs",
+    "createTime": "2025-04-09T23:34:31.746+0000"
+  },
+  {
     "itemId": "922723a4db17b43c0ffd0a3f4b7decc9",
     "word": "leek",
     "lanFrom": "en",
@@ -10928,6 +12518,16 @@
     "usphone": "ˌledʒɪsˈleɪʃ(ə)n",
     "ukphone": "ˌledʒɪsˈleɪʃn",
     "createTime": "2025-03-07T11:52:55.693+0000"
+  },
+  {
+    "itemId": "1995f08d4983455682db194e3c864b27",
+    "word": "lemniscate",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.双纽线",
+    "usphone": null,
+    "ukphone": null,
+    "createTime": "2026-01-08T05:32:21.011+0000"
   },
   {
     "itemId": "82d0fd5183a680e8f650fda746a11a81",
@@ -11160,6 +12760,16 @@
     "createTime": "2024-12-12T23:27:34.447+0000"
   },
   {
+    "itemId": "08705e838f0544e3edd67997e8feddf0",
+    "word": "litter",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.垃圾；轿，担架；一窝（动物的幼崽）；凌乱\nvt.乱丢；给…垫褥草；把…弄得乱七八糟\nvi.产仔；乱扔废弃物\nn.(Litter)人名；(匈、德)利特",
+    "usphone": "ˈlɪtər",
+    "ukphone": "ˈlɪtə(r)",
+    "createTime": "2025-04-16T01:26:58.579+0000"
+  },
+  {
     "itemId": "0606179f3494be58faf2315f0ff96ad5",
     "word": "little devil",
     "lanFrom": "en",
@@ -11230,6 +12840,16 @@
     "createTime": "2024-11-18T23:05:45.058+0000"
   },
   {
+    "itemId": "8db008c4f6a9f2a1dd0c23fd9a2b33d3",
+    "word": "locus",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.[数] 轨迹；地点，所在地",
+    "usphone": "ˈloʊkəs",
+    "ukphone": "ˈləʊkəs",
+    "createTime": "2026-01-08T06:35:10.976+0000"
+  },
+  {
     "itemId": "3cf3c65efa88e3094043237c744d5b5d",
     "word": "log",
     "lanFrom": "en",
@@ -11298,6 +12918,16 @@
     "usphone": null,
     "ukphone": null,
     "createTime": "2024-12-10T23:12:54.396+0000"
+  },
+  {
+    "itemId": "2ea2e9dc2e9b1a50e42ff4920443c5bf",
+    "word": "low blow",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "卑鄙勾当；（拳击）打在腰下的一击",
+    "usphone": null,
+    "ukphone": null,
+    "createTime": "2025-12-30T08:03:12.893+0000"
   },
   {
     "itemId": "533b117bb96ecae7e27a7935f8a22014",
@@ -11670,6 +13300,16 @@
     "createTime": "2025-03-06T07:19:33.038+0000"
   },
   {
+    "itemId": "9dc8cb9142829d3dd20e458adf5e7dad",
+    "word": "masonry",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.石工；石工行业；石造建筑",
+    "usphone": "ˈmeɪsənri",
+    "ukphone": "ˈmeɪsənri",
+    "createTime": "2025-05-23T05:45:14.271+0000"
+  },
+  {
     "itemId": "353c35d7ab316a4e357f8bf24e351e28",
     "word": "massacre",
     "lanFrom": "en",
@@ -11760,6 +13400,16 @@
     "createTime": "2024-11-19T02:57:59.073+0000"
   },
   {
+    "itemId": "a95cdcec8d8e726a842b0519e1c32a01",
+    "word": "meddle",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "v.干涉，管闲事，干预他人之事；瞎搞，乱弄",
+    "usphone": "ˈmed(ə)l",
+    "ukphone": "ˈmed(ə)l",
+    "createTime": "2025-04-24T23:12:27.598+0000"
+  },
+  {
     "itemId": "42c415f37c2fa1dedb9552bcb51f075c",
     "word": "meditation",
     "lanFrom": "en",
@@ -11800,6 +13450,16 @@
     "createTime": "2024-12-30T06:49:16.552+0000"
   },
   {
+    "itemId": "c163da4e286ff42c8bc78d2afd4ccf8b",
+    "word": "memoir",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.回忆录；研究报告；自传；实录",
+    "usphone": "ˈmemwɑːr",
+    "ukphone": "ˈmemwɑː(r)",
+    "createTime": "2025-12-12T01:24:05.135+0000"
+  },
+  {
     "itemId": "e704b2fa24bd109dc4f459c847d69f39",
     "word": "menace",
     "lanFrom": "en",
@@ -11828,6 +13488,36 @@
     "usphone": "ˈmɜːrtʃənt",
     "ukphone": "ˈmɜːtʃənt",
     "createTime": "2024-10-28T01:55:01.655+0000"
+  },
+  {
+    "itemId": "0c2510d6f336d72305a34d6fc5b381f3",
+    "word": "mercury",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.[化]汞，水银\n[天]水星\n温度表\n精神，元气",
+    "usphone": "ˈmɜːrkjəri",
+    "ukphone": "ˈmɜːkjəri",
+    "createTime": "2025-12-30T02:02:57.535+0000"
+  },
+  {
+    "itemId": "b02d89c9ae16fcbff112bca692e286d6",
+    "word": "meridian",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.子午线，经线；中医经脉；顶点\nadj.子午线的，经线的；最高点的",
+    "usphone": "məˈrɪdiən",
+    "ukphone": "məˈrɪdiən",
+    "createTime": "2025-12-22T06:38:48.185+0000"
+  },
+  {
+    "itemId": "fa9ab50420a261073ce339224f2a021d",
+    "word": "merit",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.优点，价值；功绩；功过\nvt.值得\nvi.应受报答",
+    "usphone": "ˈmerɪt",
+    "ukphone": "ˈmerɪt",
+    "createTime": "2025-07-25T06:49:17.825+0000"
   },
   {
     "itemId": "110034b5cb5c32ca46abc221ceafa2a9",
@@ -11870,6 +13560,16 @@
     "createTime": "2025-01-02T02:20:12.840+0000"
   },
   {
+    "itemId": "395c387d46ed0807fd915adf439f5150",
+    "word": "meteorological",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.气象的；气象学的",
+    "usphone": "ˌmiːtiərəˈlɑːdʒɪkl",
+    "ukphone": "ˌmiːtiərəˈlɒdʒɪkl",
+    "createTime": "2025-12-24T09:25:09.078+0000"
+  },
+  {
     "itemId": "6218d69fc147f18a59e3153888285613",
     "word": "methane",
     "lanFrom": "en",
@@ -11878,6 +13578,16 @@
     "usphone": "ˈmeθeɪn",
     "ukphone": "ˈmiːθeɪn",
     "createTime": "2025-03-24T03:06:46.735+0000"
+  },
+  {
+    "itemId": "7423028363a30dee46192631b701a1ab",
+    "word": "meticulous",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.一丝不苟的，注意细节的",
+    "usphone": "məˈtɪkjələs",
+    "ukphone": "məˈtɪkjələs",
+    "createTime": "2026-02-10T01:32:26.685+0000"
   },
   {
     "itemId": "debcc8fa141e5517da47a9e22dcc8ebf",
@@ -12040,6 +13750,16 @@
     "createTime": "2024-11-19T02:55:11.304+0000"
   },
   {
+    "itemId": "482cc950cab697e98c1c784a5c923f44",
+    "word": "misnomer",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.用词不当；误称；写错姓名",
+    "usphone": "ˌmɪsˈnoʊmər",
+    "ukphone": "ˌmɪsˈnəʊmə(r)",
+    "createTime": "2026-02-04T06:50:08.272+0000"
+  },
+  {
     "itemId": "ece904be3c6f1b96028f139c01d15fc7",
     "word": "missus",
     "lanFrom": "en",
@@ -12110,6 +13830,16 @@
     "createTime": "2025-03-06T03:39:43.055+0000"
   },
   {
+    "itemId": "e37fdd36f16e427f23b1156199bce675",
+    "word": "modest",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.谦虚的，谦逊的；适度的；端庄的；羞怯的\nn.(Modest)人名；(罗)莫代斯特；(德)莫德斯特；(俄)莫杰斯特",
+    "usphone": "ˈmɑːdɪst",
+    "ukphone": "ˈmɒdɪst",
+    "createTime": "2026-02-04T08:08:46.309+0000"
+  },
+  {
     "itemId": "401442db77d1c1a59fc0a8ce81772148",
     "word": "moisture",
     "lanFrom": "en",
@@ -12160,6 +13890,16 @@
     "createTime": "2025-03-25T01:38:01.986+0000"
   },
   {
+    "itemId": "46ed9915d453fb60669af152da3a7638",
+    "word": "moment",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.片刻，瞬间，时刻；重要，契机\nn.(Moment)人名；(英)莫门特",
+    "usphone": "ˈmoʊmənt",
+    "ukphone": "ˈməʊmənt",
+    "createTime": "2025-12-22T03:42:59.795+0000"
+  },
+  {
     "itemId": "1d8c3e1ed6669f8772cadc085df1f8f4",
     "word": "monarch",
     "lanFrom": "en",
@@ -12188,6 +13928,26 @@
     "usphone": "ˈmɑːŋɡuːs",
     "ukphone": "ˈmɒŋɡuːs",
     "createTime": "2024-11-18T02:57:02.890+0000"
+  },
+  {
+    "itemId": "0ec6dd3c612823b06008c8bc89128a61",
+    "word": "monograph",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.专题著作，专题论文\nvt.写关于…的专著",
+    "usphone": "ˈmɑːnəɡræf",
+    "ukphone": "ˈmɒnəɡrɑːf",
+    "createTime": "2026-01-06T12:29:40.788+0000"
+  },
+  {
+    "itemId": "97f3f17ba50c709c46d991edc704761e",
+    "word": "monologue",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.长篇独白，独角戏；长篇大论，滔滔不绝的讲话",
+    "usphone": "ˈmɑːnəlɔːɡ",
+    "ukphone": "ˈmɒnəlɒɡ",
+    "createTime": "2025-04-14T23:27:51.973+0000"
   },
   {
     "itemId": "c41e869b2991012db3cfe1d684ed3542",
@@ -12228,6 +13988,16 @@
     "usphone": null,
     "ukphone": null,
     "createTime": "2024-10-23T00:08:08.478+0000"
+  },
+  {
+    "itemId": "664109680581c6b706699ca918da511d",
+    "word": "moral",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.道德的；精神上的；品性端正的\nn.道德；寓意\nn.(Moral)人名；(德、法、西、葡、土)莫拉尔",
+    "usphone": "ˈmɔːrəl",
+    "ukphone": "ˈmɒrəl",
+    "createTime": "2025-10-22T07:31:29.756+0000"
   },
   {
     "itemId": "5058c31949c7feca42edcb221013b53a",
@@ -12318,6 +14088,16 @@
     "usphone": "ˈmʌɡɪŋ",
     "ukphone": "ˈmʌɡɪŋ",
     "createTime": "2024-12-31T07:50:27.939+0000"
+  },
+  {
+    "itemId": "6d1d2885b86aecb76a040163504ae625",
+    "word": "multitudinous",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.大量的，众多的；各种各样都有的；由许多不同成分（或人）组成的；浩瀚的，辽阔的",
+    "usphone": "ˌmʌltɪˈtuːdɪnəs",
+    "ukphone": "ˌmʌltɪˈtjuːdɪnəs",
+    "createTime": "2025-04-14T23:32:51.725+0000"
   },
   {
     "itemId": "1f65b905781ca5666745d61f351d1433",
@@ -12470,6 +14250,16 @@
     "createTime": "2024-11-18T09:21:01.621+0000"
   },
   {
+    "itemId": "4dd34e71d375d57e783b16f67394ae05",
+    "word": "narrative",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.叙述；故事；讲述\nadj.叙事的，叙述的；叙事体的",
+    "usphone": "ˈnærətɪv",
+    "ukphone": "ˈnærətɪv",
+    "createTime": "2025-09-12T05:29:43.688+0000"
+  },
+  {
     "itemId": "fce9fc58d421bb11b074a094ba681620",
     "word": "national anthem",
     "lanFrom": "en",
@@ -12480,14 +14270,14 @@
     "createTime": "2024-12-10T00:37:46.175+0000"
   },
   {
-    "itemId": "cae77baeb6407c027f386664a8324b68",
-    "word": "nautic",
+    "itemId": "89e99eb460cdb8f5bdc0910b88c7a2d5",
+    "word": "nautical",
     "lanFrom": "en",
     "lanTo": "zh-CHS",
-    "trans": "n.（非正式）水手，（尤指英国皇家海军的）水兵",
-    "usphone": null,
-    "ukphone": "ˈnɔːtɪk",
-    "createTime": "2024-11-14T00:25:29.564+0000"
+    "trans": "adj.航海的，海上的；船员的",
+    "usphone": "ˈnɔːtɪk(ə)l",
+    "ukphone": "ˈnɔːtɪk(ə)l",
+    "createTime": "2025-04-16T23:21:28.524+0000"
   },
   {
     "itemId": "63c53fdfc87ec77f07af5855440a0b7d",
@@ -12500,6 +14290,26 @@
     "createTime": "2024-11-15T01:18:11.263+0000"
   },
   {
+    "itemId": "bf0994582796236fc54bc034f8980b92",
+    "word": "neglect",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "v.忽视，忽略；疏忽；漏做\nn.忽略，忽视；未被重视",
+    "usphone": "nɪˈɡlekt",
+    "ukphone": "nɪˈɡlekt",
+    "createTime": "2025-12-19T01:58:30.109+0000"
+  },
+  {
+    "itemId": "cc67dbe5151d7250653b5d31d39bb895",
+    "word": "negligible",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.微不足道的，可以忽略的",
+    "usphone": "ˈneɡlɪdʒəbl",
+    "ukphone": "ˈneɡlɪdʒəbl",
+    "createTime": "2025-12-18T08:33:00.616+0000"
+  },
+  {
     "itemId": "d4f93d03ba304db44881ef3b75d4f824",
     "word": "nestle",
     "lanFrom": "en",
@@ -12508,6 +14318,16 @@
     "usphone": "ˈnes(ə)l",
     "ukphone": "ˈnes(ə)l",
     "createTime": "2024-10-28T08:16:42.768+0000"
+  },
+  {
+    "itemId": "3b858fb4383f7471a19e70d53c915585",
+    "word": "neutron",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.中子",
+    "usphone": "ˈnuːtrɑːn",
+    "ukphone": "ˈnjuːtrɒn",
+    "createTime": "2025-08-11T23:07:17.387+0000"
   },
   {
     "itemId": "43a5189009bf75d35b5aa818ab621567",
@@ -12630,6 +14450,16 @@
     "createTime": "2024-11-04T06:57:53.805+0000"
   },
   {
+    "itemId": "6418d1f41724e55d58d5faf388d74a42",
+    "word": "nut and bolt",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "螺母及螺栓",
+    "usphone": null,
+    "ukphone": null,
+    "createTime": "2026-02-05T02:07:37.491+0000"
+  },
+  {
     "itemId": "1de8bc11fbc35a5a9c3a700f1797a380",
     "word": "oak nut",
     "lanFrom": "en",
@@ -12648,6 +14478,16 @@
     "usphone": "oʊˈeɪsɪs",
     "ukphone": "əʊˈeɪsɪs",
     "createTime": "2024-11-15T08:27:25.732+0000"
+  },
+  {
+    "itemId": "b48c7588568b0abe1d69c20e65d799a9",
+    "word": "oat",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.燕麦；麦片粥，燕麦粥\nn.(Oat)人名；(英)奥特",
+    "usphone": "oʊt",
+    "ukphone": "əʊt",
+    "createTime": "2026-01-08T08:19:26.875+0000"
   },
   {
     "itemId": "d8b0a1d434f7e7d7a114e86cd6787bf3",
@@ -12720,6 +14560,16 @@
     "createTime": "2024-11-15T05:56:37.443+0000"
   },
   {
+    "itemId": "168078f3b71cd71c42c5f9b6d05c3167",
+    "word": "obstruct",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "vt.妨碍；阻塞；遮断\nvi.阻塞；设障碍",
+    "usphone": "əbˈstrʌkt",
+    "ukphone": "əbˈstrʌkt",
+    "createTime": "2026-01-19T01:01:11.223+0000"
+  },
+  {
     "itemId": "aba68f734f3ebd26437f3661f10cf761",
     "word": "octopus",
     "lanFrom": "en",
@@ -12730,6 +14580,16 @@
     "createTime": "2024-11-13T02:36:41.499+0000"
   },
   {
+    "itemId": "1962271af8cf24cde4e0f088b4ed48f3",
+    "word": "odours",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "气味",
+    "usphone": null,
+    "ukphone": null,
+    "createTime": "2025-11-02T23:22:43.723+0000"
+  },
+  {
     "itemId": "fdb7fcfd7cee15a8c01da0835fe1a70f",
     "word": "off season",
     "lanFrom": "en",
@@ -12738,6 +14598,16 @@
     "usphone": null,
     "ukphone": "",
     "createTime": "2024-12-23T09:49:44.056+0000"
+  },
+  {
+    "itemId": "328dcddea7bcb0270cf0225779f35c1f",
+    "word": "offbeat",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.离奇的；标新立异的；弱拍的\nn.弱拍",
+    "usphone": "ˌɔːfˈbiːt",
+    "ukphone": "ˌɒfˈbiːt",
+    "createTime": "2025-06-11T22:58:24.127+0000"
   },
   {
     "itemId": "535db89949f28e7323884722ae616693",
@@ -12788,6 +14658,16 @@
     "usphone": "ɑːlˈfæktəri",
     "ukphone": "ɒlˈfæktəri",
     "createTime": "2025-03-27T13:23:10.925+0000"
+  },
+  {
+    "itemId": "a8732f717b9681bca1940e2fba917ab1",
+    "word": "olive",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.橄榄；橄榄树；橄榄色，黄绿色；炖牛肉卷；橄榄贝；（剖）橄榄体；（垫在螺母下拧紧以形成密封的）橄榄环\nadj.橄榄色的，茶青色的；（皮肤）橄榄色的，浅褐色的\n【名】 （Olive）（美）奥利芙（人名）",
+    "usphone": "ˈɑːlɪv",
+    "ukphone": "ˈɒlɪv",
+    "createTime": "2025-04-13T15:06:20.239+0000"
   },
   {
     "itemId": "f15ec2f5ad8f3df7afb5a30f0e112a84",
@@ -13010,6 +14890,36 @@
     "createTime": "2024-12-23T09:29:56.243+0000"
   },
   {
+    "itemId": "5242595f568efb1fec15471b6564cacf",
+    "word": "outset",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.开始；开端",
+    "usphone": "ˈaʊtset",
+    "ukphone": "ˈaʊtset",
+    "createTime": "2025-12-30T07:21:09.050+0000"
+  },
+  {
+    "itemId": "7b2a70b767227f28f5da2b471050e0c4",
+    "word": "oval",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.椭圆的；卵形的\nn.椭圆形；卵形\nn.(Oval)人名；(法)奥瓦尔",
+    "usphone": "ˈoʊvl",
+    "ukphone": "ˈəʊvl",
+    "createTime": "2026-01-16T03:04:33.471+0000"
+  },
+  {
+    "itemId": "b8753823a54139dbbb9c346a5948988a",
+    "word": "ovary",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.[植] 子房；[解剖] 卵巢",
+    "usphone": "ˈoʊvəri",
+    "ukphone": "ˈəʊvəri",
+    "createTime": "2025-04-13T23:53:55.491+0000"
+  },
+  {
     "itemId": "7e65e755cdb93f15270cf42b4e65cc34",
     "word": "overall",
     "lanFrom": "en",
@@ -13140,6 +15050,16 @@
     "createTime": "2024-11-19T05:48:13.197+0000"
   },
   {
+    "itemId": "cef7ca140f87779a309e35cb44a2f02d",
+    "word": "painstaking",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.刻苦的，下苦功的\nn.辛苦，勤勉",
+    "usphone": "ˈpeɪnzteɪkɪŋ",
+    "ukphone": "ˈpeɪnzteɪkɪŋ",
+    "createTime": "2026-02-10T01:37:44.996+0000"
+  },
+  {
     "itemId": "e1bf3a99916b46cde1aeb2e7619c664d",
     "word": "pall",
     "lanFrom": "en",
@@ -13178,6 +15098,16 @@
     "usphone": "ˈpæmpər",
     "ukphone": "ˈpæmpə(r)",
     "createTime": "2024-10-28T06:21:44.602+0000"
+  },
+  {
+    "itemId": "a4b940365a143400b798cf9b326cd26e",
+    "word": "pamphlet",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.小册子，活页\nv.向……散发小册子",
+    "usphone": "ˈpæmflət",
+    "ukphone": "ˈpæmflət",
+    "createTime": "2026-01-04T23:31:39.623+0000"
   },
   {
     "itemId": "f3e033e2745750ab72e3ad06857ab88e",
@@ -13220,6 +15150,26 @@
     "createTime": "2024-10-23T00:16:02.087+0000"
   },
   {
+    "itemId": "7f1d38acb792f70e352cb145b15fe92d",
+    "word": "parabola",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.抛物线",
+    "usphone": "pəˈræbələ",
+    "ukphone": "pəˈræbələ",
+    "createTime": "2026-01-06T12:33:21.726+0000"
+  },
+  {
+    "itemId": "c8f1fd65f33566e2ef440805f3e05146",
+    "word": "paraboloid",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.抛物面",
+    "usphone": "pəˈræbəˌlɔɪd",
+    "ukphone": "pəˈræbəlɔɪd",
+    "createTime": "2026-01-06T12:33:14.851+0000"
+  },
+  {
     "itemId": "5e99479cfdaef0290026451bd1b6b769",
     "word": "parachute",
     "lanFrom": "en",
@@ -13240,6 +15190,16 @@
     "createTime": "2024-12-10T00:24:54.955+0000"
   },
   {
+    "itemId": "9624f649d99aad457b1e3c744a2a5c64",
+    "word": "paradox",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.矛盾的人（或事物、情况）；似非而是的隽语，悖论；悖论修辞",
+    "usphone": "ˈpærədɑːks",
+    "ukphone": "ˈpærədɒks",
+    "createTime": "2026-02-07T12:12:54.703+0000"
+  },
+  {
     "itemId": "1bde9b1f5eaa05235513d583660ed97f",
     "word": "paragon",
     "lanFrom": "en",
@@ -13248,6 +15208,16 @@
     "usphone": "ˈpærəɡɑːn",
     "ukphone": "ˈpærəɡən",
     "createTime": "2024-11-06T12:36:35.898+0000"
+  },
+  {
+    "itemId": "d31f2c889fc61a947f9fae0f34da9485",
+    "word": "parallelogram",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.平行四边形",
+    "usphone": "ˌpærəˈleləɡræm",
+    "ukphone": "ˌpærəˈleləɡræm",
+    "createTime": "2025-12-18T09:51:20.294+0000"
   },
   {
     "itemId": "c31b662b025a2bf3e32360ae896ecade",
@@ -13280,6 +15250,16 @@
     "createTime": "2024-11-15T00:10:10.231+0000"
   },
   {
+    "itemId": "887309e0d9ecea4358abd14e2dcdbd13",
+    "word": "paraphrase",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.释义，改述\nv.释义，改述",
+    "usphone": "ˈpærəfreɪz",
+    "ukphone": "ˈpærəfreɪz",
+    "createTime": "2026-02-01T12:46:37.790+0000"
+  },
+  {
     "itemId": "c860a7dc1ae82b8731a799067da66bc7",
     "word": "parasite",
     "lanFrom": "en",
@@ -13308,6 +15288,26 @@
     "usphone": "pɑːrtʃ",
     "ukphone": "pɑːtʃ",
     "createTime": "2024-10-28T08:00:04.063+0000"
+  },
+  {
+    "itemId": "5e26eff054436d25de177d6eb0bf7f5a",
+    "word": "parity",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.平价；同等；相等；胎次；分娩",
+    "usphone": "ˈpærəti",
+    "ukphone": "ˈpærəti",
+    "createTime": "2025-12-17T03:07:07.176+0000"
+  },
+  {
+    "itemId": "c6517964c246e6ff247e7412776d56b8",
+    "word": "parliament",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.议会，国会；英国议会（包括下议院和上议院）（Parliament）；一届议会（会期）",
+    "usphone": "ˈpɑːrləmənt",
+    "ukphone": "ˈpɑːləmənt",
+    "createTime": "2025-09-24T23:27:20.747+0000"
   },
   {
     "itemId": "eb670fa4baf2683a76df58826a9010b7",
@@ -13420,6 +15420,16 @@
     "createTime": "2024-12-31T00:51:19.399+0000"
   },
   {
+    "itemId": "e6755f194701aec75ba9164c0dd17e25",
+    "word": "peacock",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.（雄）孔雀；注重仪表和衣饰的男子，虚荣骄傲的男子\nv.炫耀，神气活现地走\n【名】 （Peacock）（英）皮科克（人名）",
+    "usphone": "ˈpiːkɑːk",
+    "ukphone": "ˈpiːkɒk",
+    "createTime": "2025-05-08T23:18:44.432+0000"
+  },
+  {
     "itemId": "d85f8041663e6386bba0c1972f8462d6",
     "word": "peasant",
     "lanFrom": "en",
@@ -13428,6 +15438,16 @@
     "usphone": "ˈpez(ə)nt",
     "ukphone": "ˈpez(ə)nt",
     "createTime": "2024-11-13T00:35:55.575+0000"
+  },
+  {
+    "itemId": "16b21cdc09739e5f4d036da207f4c4d1",
+    "word": "peasy",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.<方，史>铅矿，铅砂\nadj.像豌豆的；<非正式，英>容易的，简单的",
+    "usphone": null,
+    "ukphone": null,
+    "createTime": "2025-07-09T01:32:53.371+0000"
   },
   {
     "itemId": "a11eb055f7dc6371abe3ea6e43dc99cc",
@@ -13470,6 +15490,16 @@
     "createTime": "2024-11-07T23:08:56.523+0000"
   },
   {
+    "itemId": "aa251dfc92a172ce5a5c052641209f32",
+    "word": "pedagogical",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.教育学的；教学法的",
+    "usphone": null,
+    "ukphone": ",pedə'gɒdʒɪkl",
+    "createTime": "2026-02-04T08:36:33.117+0000"
+  },
+  {
     "itemId": "942474eb673069dc8f12c4d4318e2515",
     "word": "pedestal",
     "lanFrom": "en",
@@ -13500,6 +15530,16 @@
     "createTime": "2024-11-20T07:26:31.423+0000"
   },
   {
+    "itemId": "c171d074205597fe3bf57e86c5494417",
+    "word": "peel",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "v.剥，剥落；削；（槌球中）击（他人的球）穿过铁环门\nn.皮\nn.(Peel)人名；(英)皮尔",
+    "usphone": "piːl",
+    "ukphone": "piːl",
+    "createTime": "2025-09-18T01:47:48.472+0000"
+  },
+  {
     "itemId": "36e66cc1a7e9a81aeff0945ee779ae1b",
     "word": "peep",
     "lanFrom": "en",
@@ -13508,6 +15548,16 @@
     "usphone": "piːp",
     "ukphone": "piːp",
     "createTime": "2024-10-30T09:33:45.185+0000"
+  },
+  {
+    "itemId": "4dce314ee1ee11526301b3c00d59f0ce",
+    "word": "peg",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.挂钩，挂钉；<英>晾衣夹子；（系帐篷用的）桩；（标明某物位置的）界桩；（价格、数量等的）限度，标定点；（进一步讨论某事物的）依据，理由；（桶）孔塞；<非正式>（摩托车的）脚镫；赛位（分配给参赛者钓鱼或射击的位置）；<非正式>（人的）腿；少量威士忌（白兰地）；（烈酒的）计量，度量；弦钮，琴栓；<美，非正式>全力投球，钉子球\nv.用钉（或桩）固定；使工资、价格等固定于某水平（或与……挂鈎）；用衣夹把（洗的衣服）夹在衣绳上；（钓鱼或射击比赛中）给（比赛者）分派赛位；<非正式>视为，看作；（棒球）投掷快速低球；（在克里比奇牌戏中）用得分枚计分；疾行，孜孜不倦地做某事\nadj.越往下端越细的\nabbr.（PEG）聚乙（烯）二醇（polyethylene glycol）\n【名】 （Peg）（美）佩格（人名）",
+    "usphone": "peɡ",
+    "ukphone": "peɡ",
+    "createTime": "2026-02-05T15:24:48.858+0000"
   },
   {
     "itemId": "e4f78941fefb9e991f287276e15aef2a",
@@ -13550,6 +15600,16 @@
     "createTime": "2025-03-25T00:59:14.516+0000"
   },
   {
+    "itemId": "489d8a96adb600ed846e1aea2584c3f4",
+    "word": "pendulum",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.钟摆；摇锤；摇摆不定的事态",
+    "usphone": "ˈpendʒələm",
+    "ukphone": "ˈpendjələm",
+    "createTime": "2025-12-19T05:27:35.054+0000"
+  },
+  {
     "itemId": "56b099e4016f8fbbdce0287830b2ae2b",
     "word": "penetrate",
     "lanFrom": "en",
@@ -13588,6 +15648,16 @@
     "usphone": "ˈpentəɡɑːn",
     "ukphone": "ˈpentəɡən",
     "createTime": "2025-03-10T01:17:34.286+0000"
+  },
+  {
+    "itemId": "057c2e465d41aecd66aeed0a14596947",
+    "word": "penultimate",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.倒数第二的；倒数第二音节的\nn.倒数第二；倒数第二音节",
+    "usphone": "pəˈnʌltɪmət",
+    "ukphone": "pəˈnʌltɪmət",
+    "createTime": "2026-01-13T05:59:47.676+0000"
   },
   {
     "itemId": "badad40417a4c19e1638f5ddc077e162",
@@ -13640,6 +15710,26 @@
     "createTime": "2024-12-31T03:18:51.693+0000"
   },
   {
+    "itemId": "3dab7a1227866271d222f2034f977a44",
+    "word": "perimeter",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.外缘，周边；周长；（篮球）外围；视野计",
+    "usphone": "pəˈrɪmɪtər",
+    "ukphone": "pəˈrɪmɪtə(r)",
+    "createTime": "2026-02-07T13:47:11.953+0000"
+  },
+  {
+    "itemId": "19c61858e54b1bf847f103f157efeff5",
+    "word": "periphery",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.外围，边缘；圆周；圆柱体表面",
+    "usphone": "pəˈrɪfəri",
+    "ukphone": "pəˈrɪfəri",
+    "createTime": "2026-01-20T08:09:54.557+0000"
+  },
+  {
     "itemId": "40678339f5be3d19184c33ae2a647862",
     "word": "perk",
     "lanFrom": "en",
@@ -13668,6 +15758,16 @@
     "usphone": "ˈpɜːrməfrɔːst",
     "ukphone": "ˈpɜːməfrɒst",
     "createTime": "2024-12-30T23:45:52.495+0000"
+  },
+  {
+    "itemId": "528f0a80dac0fdf1fa733cc98f828e10",
+    "word": "permeate",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "vt.渗透，透过；弥漫\nvi.弥漫；透入；散布",
+    "usphone": "ˈpɜːrmieɪt",
+    "ukphone": "ˈpɜːmieɪt",
+    "createTime": "2025-10-22T06:35:19.765+0000"
   },
   {
     "itemId": "f0197ea05c52e723ef50a424bc024270",
@@ -13750,6 +15850,26 @@
     "createTime": "2025-02-28T12:30:23.842+0000"
   },
   {
+    "itemId": "4adffc9935583d9711aed8c731e7ed9f",
+    "word": "perspective",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.观点；远景；透视图\nadj.透视的",
+    "usphone": "pərˈspektɪv",
+    "ukphone": "pəˈspektɪv",
+    "createTime": "2025-12-31T08:22:07.078+0000"
+  },
+  {
+    "itemId": "287f3a8552f39bf1e5800d3dd2afdcdd",
+    "word": "perturbation",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.[数][天] 摄动；不安；扰乱",
+    "usphone": "ˌpɜːrtərˈbeɪʃn",
+    "ukphone": "ˌpɜːtəˈbeɪʃn",
+    "createTime": "2026-02-10T01:39:18.259+0000"
+  },
+  {
     "itemId": "b4d3ac32f3e861a166e9e35057c43726",
     "word": "pest",
     "lanFrom": "en",
@@ -13800,6 +15920,16 @@
     "createTime": "2024-12-30T03:43:15.493+0000"
   },
   {
+    "itemId": "70723400e45c1b4c74c5456d866e21dc",
+    "word": "pictorial",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.绘画的；形象化的\nn.画报；画刊",
+    "usphone": "pɪkˈtɔːriəl",
+    "ukphone": "pɪkˈtɔːriəl",
+    "createTime": "2026-01-21T06:16:29.869+0000"
+  },
+  {
     "itemId": "9940ed75cd533acc8040cccb0e643ead",
     "word": "picturesque",
     "lanFrom": "en",
@@ -13818,6 +15948,16 @@
     "usphone": "pɪr",
     "ukphone": "pɪə(r)",
     "createTime": "2024-11-11T00:05:09.582+0000"
+  },
+  {
+    "itemId": "ed95641eea35bf6da22ce8ba9d222393",
+    "word": "pin down",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "迫使某人作出明确陈述或决定：迫使（某人）就某事作出明确陈述或决定。\n确定（某事）：确定（某事）的确切时间或来源。",
+    "usphone": "pɪn daʊn",
+    "ukphone": null,
+    "createTime": "2026-01-23T12:24:33.759+0000"
   },
   {
     "itemId": "7e098d82dd2e742c0f0bbe39e34fce0b",
@@ -13868,6 +16008,16 @@
     "usphone": "ˈpɪnək(ə)l",
     "ukphone": "ˈpɪnək(ə)l",
     "createTime": "2024-06-07T02:37:53.148+0000"
+  },
+  {
+    "itemId": "1a55aa15b75b112c8817083748a5754a",
+    "word": "pinwheel",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.纸风车；轮转焰火",
+    "usphone": "ˈpɪnwiːl",
+    "ukphone": "ˈpɪnwiːl",
+    "createTime": "2025-11-18T11:58:41.858+0000"
   },
   {
     "itemId": "3864e4c5a1ef30af473f3e680ea5ba41",
@@ -13988,6 +16138,16 @@
     "usphone": "plæk",
     "ukphone": "plæk",
     "createTime": "2024-06-27T00:43:03.589+0000"
+  },
+  {
+    "itemId": "edfb200976ec0419dfdcc1a3e42ed8e0",
+    "word": "plausible",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.看似可信的；花言巧语的，巧言令色的；貌似真实的，貌似有理的",
+    "usphone": "ˈplɔːzəbl",
+    "ukphone": "ˈplɔːzəbl",
+    "createTime": "2025-12-30T07:13:55.494+0000"
   },
   {
     "itemId": "091f89429fb1ce95ca7f9b1a16605c8a",
@@ -14270,6 +16430,16 @@
     "createTime": "2024-11-18T03:22:13.690+0000"
   },
   {
+    "itemId": "684f8a300a54fcb0e45a1d8a1093c667",
+    "word": "potent",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.有效的；强有力的，有权势的；有说服力的",
+    "usphone": "ˈpoʊtnt",
+    "ukphone": "ˈpəʊtnt",
+    "createTime": "2026-01-21T02:33:27.465+0000"
+  },
+  {
     "itemId": "c0dd82e2feae6365187e487a49554a5f",
     "word": "potion",
     "lanFrom": "en",
@@ -14310,6 +16480,16 @@
     "createTime": "2024-10-28T02:31:46.705+0000"
   },
   {
+    "itemId": "e5e9edd4e46a7c59d497d9bd14b53026",
+    "word": "pragmatic",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.讲求实际的，务实的；实用主义的；（语言学）语用的",
+    "usphone": "præɡˈmætɪk",
+    "ukphone": "præɡˈmætɪk",
+    "createTime": "2026-02-07T11:52:52.448+0000"
+  },
+  {
     "itemId": "b8cf2a3523d5e2ae1d4116f0636514f5",
     "word": "prankster",
     "lanFrom": "en",
@@ -14320,6 +16500,16 @@
     "createTime": "2025-01-02T07:14:49.301+0000"
   },
   {
+    "itemId": "0f98b7bd9c9868681c3afbac8f5d0b9c",
+    "word": "precession",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.先行，优先；进动，旋进；岁差",
+    "usphone": "prɪˈseʃən",
+    "ukphone": "prɪ'seʃən",
+    "createTime": "2025-12-29T02:15:06.904+0000"
+  },
+  {
     "itemId": "e9a70ccf35e388ab8b9679708e72b27f",
     "word": "precipice",
     "lanFrom": "en",
@@ -14328,6 +16518,16 @@
     "usphone": "ˈpresəpɪs",
     "ukphone": "ˈpresəpɪs",
     "createTime": "2024-12-23T09:42:08.296+0000"
+  },
+  {
+    "itemId": "e91680dfd4a26f929b7fda139132ccb5",
+    "word": "preclude",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "vt.排除；妨碍；阻止",
+    "usphone": "prɪˈkluːd",
+    "ukphone": "prɪˈkluːd",
+    "createTime": "2025-10-22T10:05:55.088+0000"
   },
   {
     "itemId": "35e3f08b893dfc184f40f958869e4e75",
@@ -14398,6 +16598,26 @@
     "usphone": "ˈpremɪs",
     "ukphone": "ˈpremɪs",
     "createTime": "2025-03-11T23:27:00.713+0000"
+  },
+  {
+    "itemId": "f977fa258445081947d9d8a7de1f4433",
+    "word": "premonition",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.（尤指不祥的）预感",
+    "usphone": "ˌpreməˈnɪʃn,ˌpriːməˈnɪʃn",
+    "ukphone": "ˌpreməˈnɪʃn; ˌpriːməˈnɪʃn",
+    "createTime": "2026-01-13T03:32:57.875+0000"
+  },
+  {
+    "itemId": "5df9325cfc6174cd1eb063c2a39d0d67",
+    "word": "prescribe",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "vi.规定；开药方\nvt.规定；开处方",
+    "usphone": "prɪˈskraɪb",
+    "ukphone": "prɪˈskraɪb",
+    "createTime": "2025-12-18T07:16:01.171+0000"
   },
   {
     "itemId": "b1630c4a0e507f2a91130d762c4cd543",
@@ -14500,6 +16720,26 @@
     "createTime": "2024-11-11T00:10:48.285+0000"
   },
   {
+    "itemId": "26ef3cbcf5ec36c0921af38abfde3ed8",
+    "word": "prodigious",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.惊人的，异常的，奇妙的；巨大的",
+    "usphone": "prəˈdɪdʒəs",
+    "ukphone": "prəˈdɪdʒəs",
+    "createTime": "2026-02-04T08:49:59.832+0000"
+  },
+  {
+    "itemId": "440c8f75e880ec21f3b49bf53fcfb8b1",
+    "word": "prodigy",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.奇迹，奇事；奇才；神童；奇观；预兆",
+    "usphone": "ˈprɑːdədʒi",
+    "ukphone": "ˈprɒdədʒi",
+    "createTime": "2025-12-09T07:15:22.672+0000"
+  },
+  {
     "itemId": "d28f6eb57d2d3b08462638e34ef03a58",
     "word": "produce section",
     "lanFrom": "en",
@@ -14528,6 +16768,36 @@
     "usphone": "prəˈfaʊnd",
     "ukphone": "prəˈfaʊnd",
     "createTime": "2024-12-30T08:47:25.110+0000"
+  },
+  {
+    "itemId": "0eeef77877cf4b59335a7d8f90a74579",
+    "word": "projectile",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.炮弹；抛射体；自动推进武器\nadj.可抛射物体的；供抛射用的；（触角等）能伸出的",
+    "usphone": "prəˈdʒektl",
+    "ukphone": "prəˈdʒektaɪl",
+    "createTime": "2025-12-22T03:18:11.645+0000"
+  },
+  {
+    "itemId": "5c85b67b328e16f74b2a3b9f8fb98326",
+    "word": "proliferation",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.增殖，扩散；分芽繁殖",
+    "usphone": "prəˌlɪfəˈreɪʃn",
+    "ukphone": "prəˌlɪfəˈreɪʃn",
+    "createTime": "2025-04-16T01:47:41.488+0000"
+  },
+  {
+    "itemId": "74c45b66f3a2c6c9af7b211909a0b642",
+    "word": "prolong",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "v.拉长，拖长（感觉或活动）；<罕>延长",
+    "usphone": "prəˈlɔːŋ",
+    "ukphone": "prəˈlɒŋ",
+    "createTime": "2026-01-26T08:27:12.205+0000"
   },
   {
     "itemId": "f1da6f7b5e50b4c341c7ce81336e92e7",
@@ -14580,6 +16850,16 @@
     "createTime": "2025-02-20T07:41:55.701+0000"
   },
   {
+    "itemId": "c092ae4625a6a883f1d8a2c5a473804f",
+    "word": "proprietorship",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.所有权",
+    "usphone": "prəˈpraɪətərʃɪp",
+    "ukphone": "prəˈpraɪətəʃɪp",
+    "createTime": "2025-09-22T10:24:18.233+0000"
+  },
+  {
     "itemId": "37baf729e8c7b3446891ef21b67555d4",
     "word": "propulsion",
     "lanFrom": "en",
@@ -14588,6 +16868,16 @@
     "usphone": "prəˈpʌlʃn",
     "ukphone": "prəˈpʌlʃn",
     "createTime": "2024-12-23T06:00:44.326+0000"
+  },
+  {
+    "itemId": "3076d043cde35b34fb0ddfe76736ed20",
+    "word": "prospect",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.前途；预期；景色\nvi.勘探，找矿\nvt.勘探，勘察",
+    "usphone": "ˈprɑːspekt",
+    "ukphone": "ˈprɒspekt",
+    "createTime": "2026-01-21T06:34:59.434+0000"
   },
   {
     "itemId": "86478e7d1f71d9e4638815208dbfae4c",
@@ -14688,6 +16978,16 @@
     "usphone": "praʊl",
     "ukphone": "praʊl",
     "createTime": "2025-03-24T07:46:57.400+0000"
+  },
+  {
+    "itemId": "017299a69884075e8217724fa7909cbc",
+    "word": "proximity",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.接近，[数]邻近；接近；接近度，距离；亲近",
+    "usphone": "prɑːkˈsɪməti",
+    "ukphone": "prɒkˈsɪməti",
+    "createTime": "2025-07-16T05:54:04.485+0000"
   },
   {
     "itemId": "a66a5af0700432754c2478be27aa4e8e",
@@ -14850,6 +17150,16 @@
     "createTime": "2025-01-16T03:43:18.967+0000"
   },
   {
+    "itemId": "f028f328edc6067d7c0157a8fce3eb61",
+    "word": "quadrilateral",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.四边形\nadj.四边形的",
+    "usphone": "ˌkwɑːdrɪˈlætərəl",
+    "ukphone": "ˌkwɒdrɪˈlætərəl",
+    "createTime": "2025-12-31T01:39:17.408+0000"
+  },
+  {
     "itemId": "6b7b01895cfbc9154880b876d8a266e2",
     "word": "quads",
     "lanFrom": "en",
@@ -14860,6 +17170,16 @@
     "createTime": "2024-12-10T12:17:53.300+0000"
   },
   {
+    "itemId": "42544d8ef7e872e5ead3ca52a1002ef1",
+    "word": "qualitative",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.质量的，定性的，性质的",
+    "usphone": "ˈkwɑːlɪteɪtɪv",
+    "ukphone": "ˈkwɒlɪtətɪv",
+    "createTime": "2026-01-26T06:49:43.693+0000"
+  },
+  {
     "itemId": "bf01860fa99e00388abb2f2d497da5f6",
     "word": "quarrel",
     "lanFrom": "en",
@@ -14868,6 +17188,16 @@
     "usphone": "ˈkwɑːrəl",
     "ukphone": "ˈkwɒrəl",
     "createTime": "2024-11-18T08:37:19.204+0000"
+  },
+  {
+    "itemId": "012f1fb9ad4a6cd63c9950bf02f6bee3",
+    "word": "quaternion",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.四元数；四个一组；四人一组",
+    "usphone": "kwəˈtɜːrnɪən",
+    "ukphone": "kwəˈtɜːnɪən",
+    "createTime": "2025-12-12T07:18:29.176+0000"
   },
   {
     "itemId": "198206a3db62968a8fc0f856e48f6fc2",
@@ -14908,6 +17238,36 @@
     "usphone": "ˈrækɪt",
     "ukphone": "ˈrækɪt",
     "createTime": "2025-02-20T07:10:46.925+0000"
+  },
+  {
+    "itemId": "1da99fa2207c61e4f1997396e968b923",
+    "word": "radial",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.辐射状的；（身体）中心区域的；桡骨的\nn.子午线轮胎；辐射道路；鳍辐骨；星形发动机",
+    "usphone": "ˈreɪdiəl",
+    "ukphone": "ˈreɪdiəl",
+    "createTime": "2025-12-24T03:19:52.143+0000"
+  },
+  {
+    "itemId": "e26b56cfbbb67614def8184a17178ff0",
+    "word": "radical",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.激进的；根本的；彻底的\nn.基础；激进分子；[物化] 原子团；[数] 根数",
+    "usphone": "ˈrædɪkl",
+    "ukphone": "ˈrædɪkl",
+    "createTime": "2025-12-09T05:37:14.068+0000"
+  },
+  {
+    "itemId": "8162a9efcb97d3ea5e29eab035df9c37",
+    "word": "radii",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.半径（radius的复数）",
+    "usphone": "ˈreɪdiaɪ",
+    "ukphone": "ˈreɪdiaɪ",
+    "createTime": "2026-01-16T03:04:38.969+0000"
   },
   {
     "itemId": "498fcb0f337db26047c4a572987ddcfa",
@@ -15010,6 +17370,16 @@
     "createTime": "2025-02-20T07:31:11.081+0000"
   },
   {
+    "itemId": "bc1681c5628da628764e0cc57687c3f8",
+    "word": "rant",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "v.咆哮，叫嚷；大声抱怨；夸夸其谈\nn.咆哮；激昂的长篇演说；豪言壮语\nn.（Rant）（美）兰特（人名）",
+    "usphone": "rænt",
+    "ukphone": "rænt",
+    "createTime": "2026-02-01T13:43:35.925+0000"
+  },
+  {
     "itemId": "c88438f51d6fc27d2780ddb964c654ad",
     "word": "rash",
     "lanFrom": "en",
@@ -15070,6 +17440,16 @@
     "createTime": "2025-02-20T07:42:28.362+0000"
   },
   {
+    "itemId": "f0efd868691d548329d4c3a0a00c5bfe",
+    "word": "ravel",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "vt.解开（线圈等）；弄清\nvi.使更复杂\nn.纠结，纠缠；一团乱麻；串，簇；复杂\nn.(Ravel) （法、美、英）拉威尔（人名）",
+    "usphone": "ˈrævl",
+    "ukphone": "ˈrævl",
+    "createTime": "2026-01-21T07:36:56.932+0000"
+  },
+  {
     "itemId": "f97928a35438c6b3e69d582837707be4",
     "word": "raven",
     "lanFrom": "en",
@@ -15098,6 +17478,16 @@
     "usphone": "ˌriːəˈfɜːrm",
     "ukphone": "ˌriːəˈfɜːm",
     "createTime": "2024-12-30T03:43:34.449+0000"
+  },
+  {
+    "itemId": "1438796e47026b5224a50fa91e7461cd",
+    "word": "reap",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "vt.收获，获得；收割\nvi.收割，收获\nn.(Reap)人名；(英)里普",
+    "usphone": "riːp",
+    "ukphone": "riːp",
+    "createTime": "2025-07-25T06:48:50.986+0000"
   },
   {
     "itemId": "d07f94f0bf62cbcb5d2bb643749ade52",
@@ -15180,6 +17570,16 @@
     "createTime": "2025-02-27T09:49:55.012+0000"
   },
   {
+    "itemId": "626894d9d19bd2c86956a728bd0c353e",
+    "word": "recoil",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "vi.畏缩；弹回；报应\nn.畏缩；弹回；反作用",
+    "usphone": "rɪˈkɔɪl",
+    "ukphone": "rɪˈkɔɪl",
+    "createTime": "2025-12-30T12:05:03.892+0000"
+  },
+  {
     "itemId": "3c8d99fe633451f003e24260ecbaa8f4",
     "word": "recollection",
     "lanFrom": "en",
@@ -15238,6 +17638,26 @@
     "usphone": "ˈrektɪfaɪ",
     "ukphone": "ˈrektɪfaɪ",
     "createTime": "2024-12-20T00:16:03.566+0000"
+  },
+  {
+    "itemId": "f2daa5e17dbfde1e2cbb522fd7496a13",
+    "word": "recurring",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.循环的；再发的\nv.再发生，反复出现；（小数）循环（recur 的现在分词）",
+    "usphone": "rɪˈkɜːrɪŋ",
+    "ukphone": null,
+    "createTime": "2026-01-22T02:37:54.143+0000"
+  },
+  {
+    "itemId": "137efce510a13d66adbca5ef749f22da",
+    "word": "red herring",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "转移注意力的东西：故意引开注意力的东西，以便隐藏或掩盖真正的问题或议题。",
+    "usphone": "ˌred ˈherɪŋ",
+    "ukphone": "ˌred ˈherɪŋ",
+    "createTime": "2026-02-10T23:37:52.270+0000"
   },
   {
     "itemId": "7bc474a8b9c64e0e1c369df21797bc99",
@@ -15420,6 +17840,16 @@
     "createTime": "2024-11-19T08:58:12.450+0000"
   },
   {
+    "itemId": "9cbae7c7a3eda87dc3d2e7d77d97e637",
+    "word": "reinstate",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "vt.使恢复；使复原",
+    "usphone": "ˌriːɪnˈsteɪt",
+    "ukphone": "ˌriːɪnˈsteɪt",
+    "createTime": "2025-12-18T10:12:40.729+0000"
+  },
+  {
     "itemId": "2dc9926005e2b31fd52af27894816c31",
     "word": "rejoice",
     "lanFrom": "en",
@@ -15438,6 +17868,16 @@
     "usphone": "rɪˈleɪt",
     "ukphone": "rɪˈleɪt",
     "createTime": "2024-11-15T00:22:45.669+0000"
+  },
+  {
+    "itemId": "7ee484c24c428b6b2ce20e82bd127bb7",
+    "word": "relegate",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "v.贬职，把降低到，把……置于次要地位；使（球队）降级",
+    "usphone": "ˈrelɪɡeɪt",
+    "ukphone": "ˈrelɪɡeɪt",
+    "createTime": "2026-01-05T12:57:15.431+0000"
   },
   {
     "itemId": "760d4323e3d1a54fb4b20b647aa36b6c",
@@ -15528,6 +17968,16 @@
     "usphone": "ˌremɪˈnɪs",
     "ukphone": "ˌremɪˈnɪs",
     "createTime": "2024-11-04T14:31:41.810+0000"
+  },
+  {
+    "itemId": "b31ba23cb04bfc6745576c1ff38c42bd",
+    "word": "reminiscent",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.怀旧的，回忆往事的；耽于回想的\nn.回忆录作者；回忆者",
+    "usphone": "ˌremɪˈnɪsnt",
+    "ukphone": "ˌremɪˈnɪsnt",
+    "createTime": "2025-10-27T02:17:13.185+0000"
   },
   {
     "itemId": "b814ccb09e23ecd2942c26dd98f26661",
@@ -15680,6 +18130,16 @@
     "createTime": "2024-11-28T11:52:44.199+0000"
   },
   {
+    "itemId": "8d02b3fb937f743b02210cd2c44f815b",
+    "word": "resonate",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "vt.共鸣；共振\nvi.共鸣；共振",
+    "usphone": "ˈrezəneɪt",
+    "ukphone": "ˈrezəneɪt",
+    "createTime": "2025-10-28T02:20:19.776+0000"
+  },
+  {
     "itemId": "f9ff241d9dc2f9897a2f3d7587c12750",
     "word": "restrain",
     "lanFrom": "en",
@@ -15728,6 +18188,26 @@
     "usphone": "rɪˈtæliətɔːri",
     "ukphone": "rɪˈtæliətri",
     "createTime": "2025-02-28T08:33:45.670+0000"
+  },
+  {
+    "itemId": "801e70f540bcb9e163bc1e47c9176a55",
+    "word": "retard",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "vt.延迟；阻止；妨碍；使减速\nvi.减慢；受到阻滞\nn.延迟；阻止",
+    "usphone": "rɪˈtɑːrd; ˈriːtɑːrd",
+    "ukphone": "'rɪtɑːd",
+    "createTime": "2025-12-22T02:05:58.507+0000"
+  },
+  {
+    "itemId": "e2dcecf6419b92fc78ff45d50cfd62da",
+    "word": "retina",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.[解剖] 视网膜\nn.（Retina）人名；(意)雷蒂纳",
+    "usphone": "ˈretɪnə",
+    "ukphone": "ˈretɪnə",
+    "createTime": "2026-02-27T08:43:20.473+0000"
   },
   {
     "itemId": "d3886cbcfc144bc11f7c7cc458783ff8",
@@ -15790,6 +18270,26 @@
     "createTime": "2024-11-20T03:38:31.310+0000"
   },
   {
+    "itemId": "77465f94616c24cda97334dd5aad8053",
+    "word": "revolution",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.革命；旋转；运行；循环",
+    "usphone": "ˌrevəˈluːʃn",
+    "ukphone": "ˌrevəˈluːʃn",
+    "createTime": "2026-02-05T02:05:29.638+0000"
+  },
+  {
+    "itemId": "c15069f60ed79c4fd5222b8977561acf",
+    "word": "revolve",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "vi.旋转；循环出现；反复考虑\nvt.使…旋转；使…循环；反复考虑\nn.旋转；循环；旋转舞台",
+    "usphone": "rɪˈvɑːlv",
+    "ukphone": "rɪˈvɒlv",
+    "createTime": "2026-02-04T08:27:31.906+0000"
+  },
+  {
     "itemId": "8e51c615258f331248f053151b3f7aa2",
     "word": "rib",
     "lanFrom": "en",
@@ -15828,6 +18328,16 @@
     "usphone": "rɪɡ",
     "ukphone": "rɪɡ",
     "createTime": "2025-02-28T03:10:14.066+0000"
+  },
+  {
+    "itemId": "74ca916dd9bc8b9a7ca3f186139a0b48",
+    "word": "rigidity",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.[物] 硬度，[力] 刚性；严格，刻板；僵化；坚硬",
+    "usphone": "rɪˈdʒɪdəti",
+    "ukphone": "rɪˈdʒɪdəti",
+    "createTime": "2026-01-22T02:37:49.145+0000"
   },
   {
     "itemId": "38c63b6fe4b460fa400501059004a68b",
@@ -16030,6 +18540,16 @@
     "createTime": "2024-12-23T01:02:33.345+0000"
   },
   {
+    "itemId": "6930b06d29a9a4f869c3d5a5676bfa2f",
+    "word": "rolling pin",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "擀面杖",
+    "usphone": "ˈroʊlɪŋ pɪn",
+    "ukphone": null,
+    "createTime": "2026-01-21T08:44:52.797+0000"
+  },
+  {
     "itemId": "0ed87a4bc63da04eb4bf945365830c39",
     "word": "rooster",
     "lanFrom": "en",
@@ -16158,6 +18678,16 @@
     "usphone": "ˈrʌmbl",
     "ukphone": "ˈrʌmbl",
     "createTime": "2024-11-19T07:30:12.346+0000"
+  },
+  {
+    "itemId": "2d26da6693336990bc4bd63527f14909",
+    "word": "rumination",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.沉思；反刍",
+    "usphone": "ˌruːmɪˈneɪʃn",
+    "ukphone": "ˌruːmɪˈneɪʃn",
+    "createTime": "2025-09-07T23:32:25.224+0000"
   },
   {
     "itemId": "0cc5debb08b51ca5419109738670c836",
@@ -16370,6 +18900,16 @@
     "createTime": "2025-01-02T07:16:45.946+0000"
   },
   {
+    "itemId": "a03e165c0b66ee8c8d3b10f7fc358293",
+    "word": "sanction",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.制裁，处罚；认可；支持\nvt.制裁，处罚；批准；鼓励",
+    "usphone": "ˈsæŋkʃn",
+    "ukphone": "ˈsæŋkʃn",
+    "createTime": "2026-01-22T09:59:52.246+0000"
+  },
+  {
     "itemId": "1ced9a4cd548643fe518eccd65ec3dbc",
     "word": "sanctuary",
     "lanFrom": "en",
@@ -16550,6 +19090,16 @@
     "createTime": "2024-11-04T10:02:16.379+0000"
   },
   {
+    "itemId": "34cbd81659cee8c1492538e781205937",
+    "word": "scarce",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.缺乏的，不足的；稀有的\nadv.仅仅；几乎不；几乎没有",
+    "usphone": "skers",
+    "ukphone": "skeəs",
+    "createTime": "2025-12-31T03:22:15.186+0000"
+  },
+  {
     "itemId": "234a15338a6b89c0fe2f2ea09bcbca52",
     "word": "scarf",
     "lanFrom": "en",
@@ -16618,6 +19168,16 @@
     "usphone": "ˈskiːmɪŋ",
     "ukphone": "ˈskiːmɪŋ",
     "createTime": "2024-11-19T07:07:12.425+0000"
+  },
+  {
+    "itemId": "160f5b7ece9fe6dca8229144da431e30",
+    "word": "scissor",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "v.用剪刀剪；（使腿）作剪式运动；（人腿）作剪式运动\nn.剪刀；（橄榄球中的）交叉配合（等于 scissors）\nadj.剪刀似的",
+    "usphone": "ˈsɪzər",
+    "ukphone": "ˈsɪzə(r)",
+    "createTime": "2025-08-26T02:39:55.871+0000"
   },
   {
     "itemId": "f6f18ac65e557f02bbe867304e0ae1be",
@@ -16740,6 +19300,16 @@
     "createTime": "2025-03-03T09:13:03.916+0000"
   },
   {
+    "itemId": "4693c9d3d0bedecd1173d41396fcf793",
+    "word": "screw",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "vt.旋，拧；压榨；强迫\nn.螺旋；螺丝钉；吝啬鬼\nvi.转动，拧",
+    "usphone": "skruː",
+    "ukphone": "skruː",
+    "createTime": "2025-12-22T06:29:29.694+0000"
+  },
+  {
     "itemId": "c98a0468d529791978a56cde48594f57",
     "word": "scrooge",
     "lanFrom": "en",
@@ -16748,6 +19318,26 @@
     "usphone": "skruːdʒ",
     "ukphone": "skruːdʒ",
     "createTime": "2024-11-19T08:49:54.679+0000"
+  },
+  {
+    "itemId": "0db7eab8a441026570de79d919624438",
+    "word": "scrubber",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.[化工] 洗涤器；洗刷者；刷子",
+    "usphone": "ˈskrʌbər",
+    "ukphone": "ˈskrʌbə(r)",
+    "createTime": "2025-08-11T03:38:18.401+0000"
+  },
+  {
+    "itemId": "b823c0a0276f6e2fc32ad922cb72ec24",
+    "word": "scrutiny",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.详细审查；监视；细看；选票复查",
+    "usphone": "ˈskruːtəni",
+    "ukphone": "ˈskruːtəni",
+    "createTime": "2025-04-16T01:20:28.096+0000"
   },
   {
     "itemId": "40f3f382c2739e5562d9521246242f5d",
@@ -16878,6 +19468,16 @@
     "usphone": "ˈselfi",
     "ukphone": "ˈselfi",
     "createTime": "2024-12-09T12:34:02.492+0000"
+  },
+  {
+    "itemId": "199677bb19ff4274d9ce7816a320d153",
+    "word": "semblance",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.表象，假象；外观，外貌；（情况或性质的）相似之处，类似；幽灵，幻影",
+    "usphone": "ˈsembləns",
+    "ukphone": "ˈsembləns",
+    "createTime": "2026-01-21T03:40:27.447+0000"
   },
   {
     "itemId": "4c00ac2a2c2fc62371aa6091d85229fd",
@@ -17240,6 +19840,16 @@
     "createTime": "2024-11-04T09:34:00.710+0000"
   },
   {
+    "itemId": "951c22c449be62140db7b4a9de130ca9",
+    "word": "sidereal",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.恒星的，星座的",
+    "usphone": "saɪˈdɪriəl",
+    "ukphone": "saɪˈdɪəriəl",
+    "createTime": "2025-12-24T06:47:02.305+0000"
+  },
+  {
     "itemId": "b67051a0fc57df473568cc71cf25ab16",
     "word": "siege",
     "lanFrom": "en",
@@ -17268,6 +19878,16 @@
     "usphone": "ˈsɪnɪstər",
     "ukphone": "ˈsɪnɪstə(r)",
     "createTime": "2025-03-05T03:36:02.910+0000"
+  },
+  {
+    "itemId": "d32a75adb659ea3a9aa691aef29900e9",
+    "word": "sinusoidal",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.正弦曲线的",
+    "usphone": "ˌsɪnəˈsɔɪdl",
+    "ukphone": ",saɪnə'sɔɪdəl",
+    "createTime": "2026-01-13T03:14:27.102+0000"
   },
   {
     "itemId": "e53a7de5633e71b58da00f1da5c8e8b5",
@@ -17570,6 +20190,16 @@
     "createTime": "2025-01-14T08:07:08.546+0000"
   },
   {
+    "itemId": "410ac6e1cf6bc670245cfe3680b141d4",
+    "word": "smear",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "v.（用油性或稀软物质）胡乱涂抹；（在某物上）涂；弄脏；诽谤，诋毁；（字迹、图画等）蹭得模糊不清\nn.（尤指政治上的）抹黑，丑化；诽谤；污点，污渍；（显微镜）涂片；（登山）不稳立足处\nabbr.涂片试验 (smear test)",
+    "usphone": "smɪr",
+    "ukphone": "smɪə(r)",
+    "createTime": "2025-12-30T01:57:42.320+0000"
+  },
+  {
     "itemId": "d1f28af53e47f0e5dc5d9cb9e5b8fd07",
     "word": "smite",
     "lanFrom": "en",
@@ -17800,6 +20430,16 @@
     "createTime": "2025-01-16T02:42:36.701+0000"
   },
   {
+    "itemId": "377ad044096441826de9dd74730c0cb4",
+    "word": "sole",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.唯一的；（个人、集体）专有的；（尤指女性）未婚的；单独的\nn.脚底；鞋底（不包括后跟）；脚趾和脚弓之间的部分；（刨子等工具的）底部；（船舱或驾驶室的）地面；鳎（可食用比目鱼）\nv.给（鞋）换底\nn.(Sole) （西）索莱（人名）",
+    "usphone": "soʊl",
+    "ukphone": "səʊl",
+    "createTime": "2026-01-16T06:50:51.261+0000"
+  },
+  {
     "itemId": "71f6a3c734b22ffb0d1462dc9fdeecbf",
     "word": "solitary",
     "lanFrom": "en",
@@ -17850,6 +20490,16 @@
     "createTime": "2024-11-20T01:34:03.782+0000"
   },
   {
+    "itemId": "c376f17454f18c50b31a07b9ad6d6f0d",
+    "word": "sophistry",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.诡辩；诡辩法",
+    "usphone": "ˈsɑːfɪstri",
+    "ukphone": "ˈsɒfɪstri",
+    "createTime": "2025-12-30T05:34:32.545+0000"
+  },
+  {
     "itemId": "7e18a48ce18e5e38dadbaef394ffa4cd",
     "word": "sorceress",
     "lanFrom": "en",
@@ -17868,6 +20518,16 @@
     "usphone": "sɔːr",
     "ukphone": "sɔː(r)",
     "createTime": "2024-10-17T12:26:59.867+0000"
+  },
+  {
+    "itemId": "ec51e183297adaef60dd7813894e4327",
+    "word": "sought-after",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.受欢迎的，很吃香的",
+    "usphone": "ˈsɔːt æftər",
+    "ukphone": "ˈsɔːt ɑːftə(r)",
+    "createTime": "2026-02-04T07:05:33.384+0000"
   },
   {
     "itemId": "9c8a55d4180df1f614ec0217fbcec722",
@@ -18280,6 +20940,16 @@
     "createTime": "2024-11-15T00:08:03.983+0000"
   },
   {
+    "itemId": "37979c1137e61be25cdbf508a775f147",
+    "word": "stark",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.完全的；荒凉的；刻板的；光秃秃的；朴实的\nadv.完全；明显地；突出地；质朴地\nn.(Stark)人名；(俄、罗)斯塔尔克；(英、芬、法、瑞典)斯塔克；(德)施塔克",
+    "usphone": "stɑːrk",
+    "ukphone": "stɑːk",
+    "createTime": "2026-01-22T02:58:49.275+0000"
+  },
+  {
     "itemId": "6cb98586652c2a236b27dd0a1fdd9741",
     "word": "startle",
     "lanFrom": "en",
@@ -18378,6 +21048,16 @@
     "usphone": null,
     "ukphone": "ˈstepɪŋ stəʊn",
     "createTime": "2024-06-27T00:43:31.163+0000"
+  },
+  {
+    "itemId": "ea458b4a011ed2a7e002d56552d61f96",
+    "word": "stereographic",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.立体照相的；立体画法的",
+    "usphone": "ˌstɪərɪoˈɡræfɪk",
+    "ukphone": "ˌsterɪəʊˈɡræfɪk",
+    "createTime": "2026-01-21T07:36:50.259+0000"
   },
   {
     "itemId": "a1b57c99df3f71ac92c3db34c411d19d",
@@ -18620,6 +21300,16 @@
     "createTime": "2024-12-10T00:29:14.229+0000"
   },
   {
+    "itemId": "30015dab40250ab028e76ec2575c7a49",
+    "word": "strenuous",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.紧张的；费力的；奋发的；艰苦的；热烈的",
+    "usphone": "ˈstrenjuəs",
+    "ukphone": "ˈstrenjuəs",
+    "createTime": "2026-02-05T03:52:12.761+0000"
+  },
+  {
     "itemId": "2c80105adccf6ed8c508ef13f8c70587",
     "word": "strife",
     "lanFrom": "en",
@@ -18830,6 +21520,26 @@
     "createTime": "2025-03-06T03:31:12.219+0000"
   },
   {
+    "itemId": "a5d6f497b101c7c8781e2b137202066b",
+    "word": "subsume",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "vt.把……归入；把……包括在内",
+    "usphone": "səbˈsuːm",
+    "ukphone": "səbˈsjuːm",
+    "createTime": "2025-12-31T05:51:51.609+0000"
+  },
+  {
+    "itemId": "930c570a150669972b4a4c02247ddc85",
+    "word": "subtend",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "vt.对向；包在叶腋内",
+    "usphone": "səbˈtend",
+    "ukphone": "səbˈtend",
+    "createTime": "2026-01-05T12:52:22.230+0000"
+  },
+  {
     "itemId": "d7ecbca3b18c49b30083d367eb310a2b",
     "word": "subterranean",
     "lanFrom": "en",
@@ -18848,6 +21558,26 @@
     "usphone": "səˈbɜːrbən",
     "ukphone": "səˈbɜːbən",
     "createTime": "2024-12-31T07:20:56.808+0000"
+  },
+  {
+    "itemId": "9bb7676cf28adf293e3fd44b9145fc2e",
+    "word": "succession",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.连续；继位；继承权；[生态] 演替",
+    "usphone": "səkˈseʃn",
+    "ukphone": "səkˈseʃn",
+    "createTime": "2025-12-30T05:39:15.185+0000"
+  },
+  {
+    "itemId": "dd71f2c33976bf43cb36025eb257323e",
+    "word": "succinct",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.简洁的；简明的；紧身的",
+    "usphone": "səkˈsɪŋkt",
+    "ukphone": "səkˈsɪŋkt",
+    "createTime": "2025-10-22T07:10:08.968+0000"
   },
   {
     "itemId": "f340f7addc46028d84419a0a68ef8b22",
@@ -18910,6 +21640,36 @@
     "createTime": "2024-11-13T03:01:27.249+0000"
   },
   {
+    "itemId": "68c7b6a8f834402d4ec35f8344f2af11",
+    "word": "superficial",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.表面的；肤浅的 ；表面文章的；外表的；（人）浅薄的",
+    "usphone": "ˌsuːpərˈfɪʃl",
+    "ukphone": "ˌsuːpəˈfɪʃl; ˌsjuːpəˈfɪʃl",
+    "createTime": "2025-12-11T06:36:34.133+0000"
+  },
+  {
+    "itemId": "8fba39bc0329a67244f0aad5ed604606",
+    "word": "superfluous",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.多余的；不必要的；奢侈的",
+    "usphone": "suːˈpɜːrfluəs",
+    "ukphone": "suːˈpɜːfluəs; sjuːˈpɜːfluəs",
+    "createTime": "2026-01-22T03:04:30.507+0000"
+  },
+  {
+    "itemId": "6c90740516dfdae9dc84999c7c89912e",
+    "word": "superimpose",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "vt.添加；重叠；附加；安装",
+    "usphone": "ˌsuːpərɪmˈpoʊz",
+    "ukphone": "ˌsuːpərɪmˈpəʊz; ˌsjuːpərɪmˈpəʊz",
+    "createTime": "2025-12-24T07:55:35.512+0000"
+  },
+  {
     "itemId": "6e98c52283adaa4791bd417d13811f87",
     "word": "superlative",
     "lanFrom": "en",
@@ -18918,6 +21678,16 @@
     "usphone": "suːˈpɜːrlətɪv",
     "ukphone": "suːˈpɜːlətɪv",
     "createTime": "2024-10-25T00:37:17.006+0000"
+  },
+  {
+    "itemId": "6443ef5946fb758dc02dc3069783c838",
+    "word": "supersede",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "vt.取代，代替；紧接着……而到来\nvi.推迟行动",
+    "usphone": "ˌsuːpərˈsiːd",
+    "ukphone": "ˌsuːpəˈsiːd; ˌsjuːpəˈsiːd",
+    "createTime": "2025-12-18T05:48:34.938+0000"
   },
   {
     "itemId": "592136e5423b62e2a1a437920f5b283c",
@@ -18950,6 +21720,16 @@
     "createTime": "2024-10-31T06:37:42.359+0000"
   },
   {
+    "itemId": "6ca60ddc33cec1af50c557a1f30b1612",
+    "word": "surjective",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.满射的",
+    "usphone": null,
+    "ukphone": "sɜːˈdʒektɪv",
+    "createTime": "2025-12-05T06:03:52.123+0000"
+  },
+  {
     "itemId": "bb73a9fba4f5b8ba643d15ed043bc732",
     "word": "surmise",
     "lanFrom": "en",
@@ -18958,6 +21738,16 @@
     "usphone": "sərˈmaɪz",
     "ukphone": "sə'maɪz",
     "createTime": "2025-01-16T01:32:59.735+0000"
+  },
+  {
+    "itemId": "fd0d792b39d6a624a64220ed69ac76a9",
+    "word": "surmount",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "vt.克服，越过；战胜",
+    "usphone": "sərˈmaʊnt",
+    "ukphone": "səˈmaʊnt",
+    "createTime": "2025-12-19T07:33:17.657+0000"
   },
   {
     "itemId": "9f3df391e95b7534eec89f5b81ae5b3f",
@@ -19170,6 +21960,16 @@
     "createTime": "2025-01-02T08:03:31.655+0000"
   },
   {
+    "itemId": "41a815b7fc5b74ff54222b6ccc8dc66c",
+    "word": "tactic",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.策略，手法；战术，兵法（tactics）\nadj.按顺序的，依次排列的",
+    "usphone": "ˈtæktɪk",
+    "ukphone": "ˈtæktɪk",
+    "createTime": "2025-04-17T23:17:19.029+0000"
+  },
+  {
     "itemId": "fbd9d0c7484066d6d6490bd8b2430e53",
     "word": "tadpole",
     "lanFrom": "en",
@@ -19300,6 +22100,16 @@
     "createTime": "2024-12-23T02:51:57.162+0000"
   },
   {
+    "itemId": "2b9e2548924d2ddde4b0552827fdd438",
+    "word": "tariff",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.（政府对进出口货物征收的）关税，关税表；（旅馆、饭店或服务公司的）价目表，收费表；<英，法律>量刑标准\nv.按税率定……的价格；征收关税",
+    "usphone": "ˈtærɪf",
+    "ukphone": "ˈtærɪf",
+    "createTime": "2025-04-08T12:05:44.469+0000"
+  },
+  {
     "itemId": "fe13a937a87f948b81a048a8197ec534",
     "word": "tarnish",
     "lanFrom": "en",
@@ -19328,6 +22138,26 @@
     "usphone": "tɔːnt",
     "ukphone": "tɔːnt",
     "createTime": "2024-10-30T08:27:44.289+0000"
+  },
+  {
+    "itemId": "65c3067469c90756d9003adb67093044",
+    "word": "taut",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.拉紧的；紧张的；整洁的\nvt.使纠缠；使缠结\nn.(Taut)人名；(德)陶特",
+    "usphone": "tɔːt",
+    "ukphone": "tɔːt",
+    "createTime": "2026-01-08T05:24:22.116+0000"
+  },
+  {
+    "itemId": "9e051ecb45a45d460a92475457e99fd8",
+    "word": "tautology",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.同义反复；无谓的重复",
+    "usphone": "tɔːˈtɑːlədʒi",
+    "ukphone": "tɔːˈtɒlədʒi",
+    "createTime": "2025-12-30T08:03:46.373+0000"
   },
   {
     "itemId": "6a2ed43ead70b168dcef768b86fc59b1",
@@ -19390,6 +22220,16 @@
     "createTime": "2024-12-23T07:54:44.464+0000"
   },
   {
+    "itemId": "11f2aaf8ae69644c274d6765c919cde3",
+    "word": "telemetry",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.[自] 遥测技术；遥感勘测；自动测量记录传导",
+    "usphone": "təˈlemətri",
+    "ukphone": "təˈlemətri",
+    "createTime": "2025-08-05T09:01:50.548+0000"
+  },
+  {
     "itemId": "473aba8e10c4744639dd64ebf4d8b97a",
     "word": "telepathic",
     "lanFrom": "en",
@@ -19450,6 +22290,16 @@
     "createTime": "2025-01-15T07:47:22.075+0000"
   },
   {
+    "itemId": "dd480adb2e2369f56a7a10c01117d4c4",
+    "word": "tentative",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.试验性的，暂定的；踌躇的\nn.假设，试验",
+    "usphone": "ˈtentətɪv",
+    "ukphone": "ˈtentətɪv",
+    "createTime": "2025-12-31T07:42:02.843+0000"
+  },
+  {
     "itemId": "2f3f63eabbcf0ff3f3763ad6fd32a152",
     "word": "terraform",
     "lanFrom": "en",
@@ -19488,6 +22338,16 @@
     "usphone": null,
     "ukphone": "'terəraɪz",
     "createTime": "2024-12-31T07:52:18.563+0000"
+  },
+  {
+    "itemId": "a10f6451d2553e4c3ffb6c5087c98c2a",
+    "word": "tessellation",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.棋盘形布置；棋盘花纹镶嵌；镶嵌式铺装；镶嵌细工；棋盘花纹",
+    "usphone": "ˌtesɪˈleɪʃn",
+    "ukphone": "ˌtesɪˈleɪʃən",
+    "createTime": "2026-02-10T01:41:39.374+0000"
   },
   {
     "itemId": "3ca5be65c4248b3928fc04df643f36e2",
@@ -19930,6 +22790,16 @@
     "createTime": "2024-12-03T12:58:54.179+0000"
   },
   {
+    "itemId": "a934b40130e0f8d3cbaec78946f4f24f",
+    "word": "tranquil",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.平静的；镇静的；稳定的",
+    "usphone": "ˈtræŋkwɪl",
+    "ukphone": "ˈtræŋkwɪl",
+    "createTime": "2026-01-08T07:03:57.538+0000"
+  },
+  {
     "itemId": "7bfb6ec4f0f46fe4b2a22234c075d6b4",
     "word": "tranquilizer",
     "lanFrom": "en",
@@ -19938,6 +22808,46 @@
     "usphone": "ˈtræŋkwəlaɪzər",
     "ukphone": "'træŋkwɪlaɪzə",
     "createTime": "2025-03-04T07:41:02.015+0000"
+  },
+  {
+    "itemId": "9ec8495df5bcb514baa44919074fc2cc",
+    "word": "transcendental",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.先验的；卓越的，[数] 超越的；超自然的",
+    "usphone": "ˌtrænsenˈdentl",
+    "ukphone": "ˌtrænsenˈdentl",
+    "createTime": "2025-12-09T07:27:34.915+0000"
+  },
+  {
+    "itemId": "74abab7a33edb701c88ad22a454fefec",
+    "word": "transposition",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.调换，换置；词序的换位；移项；一个古老故事的现代翻版；变换物",
+    "usphone": "ˌtrænspəˈzɪʃ(ə)n",
+    "ukphone": "ˌtrænspəˈzɪʃ(ə)n",
+    "createTime": "2025-11-20T00:03:57.200+0000"
+  },
+  {
+    "itemId": "a38309e0b3d7398f2e3337cadfb7b27a",
+    "word": "transverse",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.横向的；横断的；贯轴的\nn.横断面；贯轴；横肌",
+    "usphone": "ˈtrænzvɜːrs,ˈtrænsvɜːrs",
+    "ukphone": "ˈtrænzvɜːs; ˈtrænsvɜːs",
+    "createTime": "2025-12-22T06:29:37.135+0000"
+  },
+  {
+    "itemId": "338a67f3f0d7f2c269f6edc292f6ee12",
+    "word": "trapezoid",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.[数] 梯形；[数] 不规则四边形\nadj.梯形的；[数] 不规则四边形的",
+    "usphone": "ˈtræpəzɔɪd",
+    "ukphone": "ˈtræpəzɔɪd",
+    "createTime": "2026-02-04T08:00:58.389+0000"
   },
   {
     "itemId": "406e2ced447b6196d9fc35fb9732b530",
@@ -20010,6 +22920,16 @@
     "createTime": "2024-12-23T11:08:18.972+0000"
   },
   {
+    "itemId": "72a7e6146e1ebdf612fab240fd70d137",
+    "word": "treaty",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n. （国家之间的）条约，协定",
+    "usphone": "ˈtriːti",
+    "ukphone": "ˈtriːti",
+    "createTime": "2025-12-01T23:24:49.185+0000"
+  },
+  {
     "itemId": "ce40a985f7a14a942366f152adc11616",
     "word": "treck",
     "lanFrom": "en",
@@ -20078,6 +22998,16 @@
     "usphone": "ˈtrɪkstər",
     "ukphone": "ˈtrɪkstə(r)",
     "createTime": "2024-11-06T08:19:59.035+0000"
+  },
+  {
+    "itemId": "75bfe936d282fb8e8cb2daea748b3aad",
+    "word": "trig",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.外表整洁的；古板的；强有力的\nv.（使）外表整洁；堵塞\nn.（非正式）三角学；楔子",
+    "usphone": "trɪɡ",
+    "ukphone": "trɪg",
+    "createTime": "2026-01-16T05:56:05.334+0000"
   },
   {
     "itemId": "6ef4b5202b9763c32c9c0db552d641a7",
@@ -20300,6 +23230,16 @@
     "createTime": "2025-02-28T05:36:58.301+0000"
   },
   {
+    "itemId": "a9ef036abebd033dc01a9453f6edd422",
+    "word": "ubiquitous",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.普遍存在的；无所不在的",
+    "usphone": "juːˈbɪkwɪtəs",
+    "ukphone": "juːˈbɪkwɪtəs",
+    "createTime": "2025-04-03T06:44:09.686+0000"
+  },
+  {
     "itemId": "37c716e8a495e504f2377f1f136fc2cd",
     "word": "ultimatum",
     "lanFrom": "en",
@@ -20308,6 +23248,36 @@
     "usphone": "ˌʌltɪˈmeɪtəm",
     "ukphone": "ˌʌltɪˈmeɪtəm",
     "createTime": "2024-12-30T06:33:17.732+0000"
+  },
+  {
+    "itemId": "8b55ff69f5646647c4686821cafbfcc2",
+    "word": "umbilical",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.脐带的；母系的；中央的",
+    "usphone": "ʌmˈbɪlɪkl",
+    "ukphone": "ʌm'bɪlɪk(ə)l; ,ʌmbɪ'laɪk(ə)l",
+    "createTime": "2026-01-21T10:36:09.081+0000"
+  },
+  {
+    "itemId": "1f00070d8453b1b73b34efec2b92a2dd",
+    "word": "umbilical cord",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "脐带",
+    "usphone": null,
+    "ukphone": "",
+    "createTime": "2026-01-21T12:23:15.115+0000"
+  },
+  {
+    "itemId": "fd6274191c28368121dc3b400d500d0c",
+    "word": "unanimity",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.同意，全体一致",
+    "usphone": "ˌjuːnəˈnɪməti",
+    "ukphone": "ˌjuːnəˈnɪməti",
+    "createTime": "2025-10-27T05:58:54.902+0000"
   },
   {
     "itemId": "2ca0a85e99b6bb2e234ba3a9256ee8e0",
@@ -20370,6 +23340,16 @@
     "createTime": "2025-01-16T01:38:37.613+0000"
   },
   {
+    "itemId": "920dc9a81caf3b53e98b0c268da8adfb",
+    "word": "underpin",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "vt.巩固；支持；从下面支撑；加强…的基础",
+    "usphone": "ˌʌndərˈpɪn",
+    "ukphone": "ˌʌndəˈpɪn",
+    "createTime": "2025-07-24T09:34:43.285+0000"
+  },
+  {
     "itemId": "8c7e88d23bbf7890303353fcb38f7ea1",
     "word": "understatement",
     "lanFrom": "en",
@@ -20400,6 +23380,16 @@
     "createTime": "2024-10-28T09:07:16.313+0000"
   },
   {
+    "itemId": "2a91958ba5732e4b5fce904bafc1c68f",
+    "word": "unduly",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adv.过度地；不适当地；不正当地",
+    "usphone": "ˌʌnˈduːli",
+    "ukphone": "ˌʌnˈdjuːli",
+    "createTime": "2026-01-16T06:45:25.379+0000"
+  },
+  {
     "itemId": "7aba2929cc9d31e843aa9833fe0bb6fe",
     "word": "unfathomable",
     "lanFrom": "en",
@@ -20418,6 +23408,16 @@
     "usphone": "ʌnˈfeɪzd",
     "ukphone": "ʌnˈfeɪzd",
     "createTime": "2024-12-30T06:47:08.779+0000"
+  },
+  {
+    "itemId": "2559f8a01f4676644217722da1473e25",
+    "word": "unimpeachable",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.无可指责的；无可怀疑的；无懈可击的；无过失的，无罪的",
+    "usphone": "ˌʌnɪmˈpiːtʃəbl",
+    "ukphone": "ˌʌnɪmˈpiːtʃəbl",
+    "createTime": "2025-12-30T08:02:51.225+0000"
   },
   {
     "itemId": "a03bd8c1ab6fa4f1a4de7e640c6fccd0",
@@ -20458,6 +23458,16 @@
     "usphone": "ˌʌnrɪˈlentɪŋ",
     "ukphone": "ˌʌnrɪˈlentɪŋ",
     "createTime": "2025-01-15T06:33:51.417+0000"
+  },
+  {
+    "itemId": "749fd2a55a93997f07f5f16417690f81",
+    "word": "unrest",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.不安；动荡的局面；不安的状态",
+    "usphone": "ʌnˈrest",
+    "ukphone": "ʌnˈrest",
+    "createTime": "2025-05-29T23:02:37.820+0000"
   },
   {
     "itemId": "eb7e06da2090f42361d109f30dd28c36",
@@ -20590,6 +23600,16 @@
     "createTime": "2024-11-01T15:35:08.646+0000"
   },
   {
+    "itemId": "c5f4f8fe73e71048484c0d97c554805d",
+    "word": "vague",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.模糊的；含糊的；不明确的；暧昧的\nn.(Vague)人名；(法)瓦格；(英)韦格",
+    "usphone": "veɪɡ",
+    "ukphone": "veɪɡ",
+    "createTime": "2026-01-30T06:01:10.546+0000"
+  },
+  {
     "itemId": "933ff1a8fa96cc3d52754c3bd7377aac",
     "word": "valedictorian",
     "lanFrom": "en",
@@ -20658,6 +23678,16 @@
     "usphone": "ˌvedʒəˈteɪʃn",
     "ukphone": "ˌvedʒəˈteɪʃn",
     "createTime": "2025-02-19T07:13:38.226+0000"
+  },
+  {
+    "itemId": "49bcfbdf3b8bfc3e34bcb314facb7ee6",
+    "word": "vein",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.血管；叶脉；[地质] 岩脉；纹理；翅脉；性情\nvt.使成脉络；像脉络般分布于\nn.(Vein)人名；(英)维因；(塞)魏因",
+    "usphone": "veɪn",
+    "ukphone": "veɪn",
+    "createTime": "2025-12-16T02:10:29.050+0000"
   },
   {
     "itemId": "7a46fd964891b040f49e01b4dfe8f497",
@@ -20840,6 +23870,16 @@
     "createTime": "2025-03-05T06:18:54.296+0000"
   },
   {
+    "itemId": "da569416ad5bf8abe6c6bad49a249d2a",
+    "word": "vicinity",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.邻近，附近；近处",
+    "usphone": "vəˈsɪnəti",
+    "ukphone": "vəˈsɪnəti",
+    "createTime": "2025-12-18T10:11:39.445+0000"
+  },
+  {
     "itemId": "a7f7c84ee2b0ae93a89d1fe16a6d9ccb",
     "word": "vicious",
     "lanFrom": "en",
@@ -20888,6 +23928,16 @@
     "usphone": "ˈvɪɡərəs",
     "ukphone": "ˈvɪɡərəs",
     "createTime": "2025-03-18T03:50:55.310+0000"
+  },
+  {
+    "itemId": "8293eef4e22d7ce1e16ae65f79986d8b",
+    "word": "vindicate",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "vt.维护；证明…无辜；证明…正确",
+    "usphone": "ˈvɪndɪkeɪt",
+    "ukphone": "ˈvɪndɪkeɪt",
+    "createTime": "2025-12-30T07:15:18.405+0000"
   },
   {
     "itemId": "021d8a33208ecc6941ca047bf8a445ea",
@@ -20958,6 +24008,16 @@
     "usphone": "ˈvɜːrtʃuː",
     "ukphone": "ˈvɜːtʃuː",
     "createTime": "2024-10-31T03:12:47.754+0000"
+  },
+  {
+    "itemId": "a5dfc3aa3e4783f4e8049243a076bf7b",
+    "word": "virtuous",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.道德高尚的，品行端正的；自命清高的，自鸣得意的；<旧>（尤指妇女）贞洁的；有效力的",
+    "usphone": "ˈvɜːrtʃuəs",
+    "ukphone": "ˈvɜːtʃuəs",
+    "createTime": "2025-09-07T23:34:14.924+0000"
   },
   {
     "itemId": "535508d70374eb6bd79ff8d58a4bca1f",
@@ -21290,6 +24350,16 @@
     "createTime": "2025-03-06T03:24:59.940+0000"
   },
   {
+    "itemId": "cd95d357b908f140c4ca62102b5ecd62",
+    "word": "whet",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "vt.刺激；磨快；促进\nn.磨；开胃物；刺激物",
+    "usphone": "wet",
+    "ukphone": "wet",
+    "createTime": "2026-01-13T03:16:13.417+0000"
+  },
+  {
     "itemId": "04c58af35b6b6407a1ce33af7a2b4ae1",
     "word": "whetstone",
     "lanFrom": "en",
@@ -21478,6 +24548,16 @@
     "usphone": "ˈwaɪnd ʌp",
     "ukphone": "ˈwaɪnd ʌp",
     "createTime": "2024-06-14T00:39:53.393+0000"
+  },
+  {
+    "itemId": "640c83f505a9e31d9952a064fd6525d6",
+    "word": "winding number",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "缠绕数：在数学中，表示一个封闭曲线绕过某一点的次数，用于描述曲线的拓扑性质。",
+    "usphone": null,
+    "ukphone": null,
+    "createTime": "2026-02-05T01:12:49.189+0000"
   },
   {
     "itemId": "0059e137805d8cbb2c4130e179b884bc",
@@ -21680,6 +24760,16 @@
     "createTime": "2024-12-10T11:59:34.373+0000"
   },
   {
+    "itemId": "33a857d0813b57b0c5392361dd535b2d",
+    "word": "woven",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "v.编织；交织（weave的过去分词）；编造\nadj.织物的\nn.机织织物",
+    "usphone": "ˈwoʊvn",
+    "ukphone": "ˈwəʊvn",
+    "createTime": "2025-05-22T11:13:32.890+0000"
+  },
+  {
     "itemId": "03ff3bf34d2c897bd390efb270ad95b1",
     "word": "wraith",
     "lanFrom": "en",
@@ -21878,6 +24968,16 @@
     "usphone": "zæp",
     "ukphone": "zæp",
     "createTime": "2025-03-18T08:06:37.229+0000"
+  },
+  {
+    "itemId": "8e2fee0567cc3b8c6de0bf16a4318118",
+    "word": "zenith",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.顶峰；顶点；最高点\nn.(Zenith)人名；(英)齐尼思",
+    "usphone": "ˈziːnɪθ",
+    "ukphone": "ˈzenɪθ",
+    "createTime": "2025-12-24T08:40:57.390+0000"
   },
   {
     "itemId": "50c758d1425418ca6ed183ac577d56df",
