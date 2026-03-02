@@ -51,7 +51,7 @@ onMounted(() => {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  height: calc(100vh - 80px);
+  height: 80vh;
   padding: 20px;
   border: solid 1px grey;
   border-radius: 8px;

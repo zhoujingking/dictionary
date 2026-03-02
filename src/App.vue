@@ -118,6 +118,7 @@ onMounted(() => {
 <style scoped>
 .filter {
   display: flex;
+  flex-wrap: wrap;
   justify-content: center;
   position: sticky;
   top: 0;
@@ -136,13 +137,13 @@ onMounted(() => {
 
 .pre-btn {
   position: absolute;
-  bottom: 20px;
+  bottom: 10vh;
   left: 20px;
 }
 
 .next-btn {
   position: absolute;
-  bottom: 20px;
+  bottom: 10vh;
   right: 20px;
 }
 
