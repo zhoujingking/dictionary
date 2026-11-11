@@ -9,7 +9,7 @@ import vueDevTools from 'vite-plugin-vue-devtools'
 import { VitePWA } from 'vite-plugin-pwa'
 
 export default defineConfig({
-  base: '/dictionary',
+  // base: '/dictionary',
   plugins: [
     vue(),
     vueDevTools(),
