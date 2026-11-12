@@ -1,5 +1,4325 @@
 [
   {
+    "itemId": "9c2238f1bbb115cbafd427a704a9ceaa",
+    "word": "evict",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "vt.驱逐；逐出",
+    "usphone": "ɪˈvɪkt",
+    "ukphone": "ɪˈvɪkt",
+    "createTime": "2026-11-11T06:22:35.022+0000"
+  },
+  {
+    "itemId": "930eb4184ceb0cda854ef23ef04da4ce",
+    "word": "mitigation",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.减轻；缓和；平静",
+    "usphone": "ˌmɪtɪˈɡeɪʃn",
+    "ukphone": "ˌmɪtɪˈɡeɪʃn",
+    "createTime": "2026-11-11T06:22:29.825+0000"
+  },
+  {
+    "itemId": "3e07990fc29fe912f3dac8dc44806126",
+    "word": "contingency",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.可能发生的事；偶发事件；不能确定的事件；应急措施；应急储备；应急开支；可能性，偶然性；不测，意外；胜诉酬金\nadj.应变的",
+    "usphone": "kənˈtɪndʒənsi",
+    "ukphone": "kənˈtɪndʒənsi",
+    "createTime": "2026-11-11T06:17:32.524+0000"
+  },
+  {
+    "itemId": "7a6e29f350558e796ea6b2ca85bdaa65",
+    "word": "hassle",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.<非正式>麻烦，困难；<非正式>争论，争吵；<非正式>起哄，骚扰\nv.打扰，使烦恼；<非正式，美>争辩，争论\n【名】 （Hassle）（美）哈斯勒（人名）",
+    "usphone": "ˈhæs(ə)l",
+    "ukphone": "ˈhæs(ə)l",
+    "createTime": "2026-11-11T03:09:48.500+0000"
+  },
+  {
+    "itemId": "8e14e82fb59c21dd342979787d9a606d",
+    "word": "murky",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.（液体）浑浊的；（尤指因浓雾而）昏暗的，阴暗的；（行为）不光彩的，不可告人的；复杂的，难以理解的",
+    "usphone": "ˈmɜːrki",
+    "ukphone": "ˈmɜːki",
+    "createTime": "2026-11-09T10:09:30.467+0000"
+  },
+  {
+    "itemId": "1af0edcb280a1b928814e1ed9fc24069",
+    "word": "blunder",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "v.跌跌撞撞地走，摸索；犯愚蠢的错误，出漏子；误入，不小心陷入（困境）\nn.愚蠢的错误，疏忽",
+    "usphone": "ˈblʌndər",
+    "ukphone": "ˈblʌndə(r)",
+    "createTime": "2026-11-05T06:03:33.733+0000"
+  },
+  {
+    "itemId": "b5bde5f5b08dc41df09a892ca708be09",
+    "word": "disgrace",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.耻辱，不光彩； 令人感到羞耻的人（或事），不名誉的事；失宠\nv.使丢脸，使蒙受耻辱；使名誉扫地，使失势",
+    "usphone": "dɪsˈɡreɪs",
+    "ukphone": "dɪsˈɡreɪs",
+    "createTime": "2026-11-05T06:03:20.624+0000"
+  },
+  {
+    "itemId": "49a7f8ec0ad0ce455df86ce97f14f813",
+    "word": "stigma",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.耻辱，污名；（植物花朵的）柱头；（病的）外在特征（或特点）；（皮肤上的）斑点，小斑；（基督教传统中的）圣痕 （stigmata）",
+    "usphone": "ˈstɪɡmə",
+    "ukphone": "ˈstɪɡmə",
+    "createTime": "2026-11-05T06:02:43.444+0000"
+  },
+  {
+    "itemId": "1e53831949ae58cb2a7d0949d496270d",
+    "word": "giraffe",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.长颈鹿",
+    "usphone": "dʒəˈræf",
+    "ukphone": "dʒəˈrɑːf",
+    "createTime": "2026-10-21T09:26:08.515+0000"
+  },
+  {
+    "itemId": "e2e320e5f55bf7ef4dc67e9832550e88",
+    "word": "sepal",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.（植物）萼片，即构成花萼的每一片",
+    "usphone": "ˈsi:pl",
+    "ukphone": "ˈsepl",
+    "createTime": "2026-10-21T09:19:50.137+0000"
+  },
+  {
+    "itemId": "d1e6e35a0f961b45fbf66fefb8c50624",
+    "word": "forage",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.饲料，草料；觅食，搜寻，搜索\nvi.（动物）觅食；（人）搜寻，翻找",
+    "usphone": "ˈfɔːrɪdʒ",
+    "ukphone": "ˈfɒrɪdʒ",
+    "createTime": "2026-10-21T09:08:04.568+0000"
+  },
+  {
+    "itemId": "f1feb79e59270432cf4149dd01613ed1",
+    "word": "food crop",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "粮食作物：一种为人类食用而种植的作物，例如小麦或稻米。",
+    "usphone": null,
+    "ukphone": null,
+    "createTime": "2026-10-21T09:07:54.738+0000"
+  },
+  {
+    "itemId": "9690229b92c9847cfcbe64f843dcd8e3",
+    "word": "cash crop",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.经济作物：为出售获利而种植并主要供市场销售的农作物。",
+    "usphone": null,
+    "ukphone": "ˈkæʃ krɒp",
+    "createTime": "2026-10-21T09:07:47.468+0000"
+  },
+  {
+    "itemId": "26c7a67de64cdbe105cb4ceaf8354097",
+    "word": "ornamental plant",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "观赏植物：一种种植在花园、室内或公共场所的植物，主要用于装饰和美化环境。",
+    "usphone": null,
+    "ukphone": null,
+    "createTime": "2026-10-21T09:07:33.736+0000"
+  },
+  {
+    "itemId": "1bd9af12dd00130e482da928ddb4d0cf",
+    "word": "potted plant",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.盆栽植物：栽种在花盆或其他容器中的植物，通常供室内或观赏用。",
+    "usphone": null,
+    "ukphone": null,
+    "createTime": "2026-10-21T09:07:17.133+0000"
+  },
+  {
+    "itemId": "ffc9f10891fb90137b5a30accfb5d0d4",
+    "word": "green belt",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.绿化带：城镇或城市周围有草木、田野或公园的开阔土地带，常依法限制建造房屋或工厂；也作 greenbelt。绿带：柔道、空手道等武术中达到一定（通常是中级）水平者佩戴的绿色腰带，也指该腰带所代表的等级。",
+    "usphone": "ˈɡriːn belt",
+    "ukphone": "ˈɡriːn belt",
+    "createTime": "2026-10-21T09:07:04.891+0000"
+  },
+  {
+    "itemId": "7a25205c676ac834f93de4f1401bb867",
+    "word": "flower bed",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.花坛：花园或公园中经过整理、用于种植花卉的一块土地。",
+    "usphone": null,
+    "ukphone": "ˈflaʊə bed",
+    "createTime": "2026-10-21T09:06:51.510+0000"
+  },
+  {
+    "itemId": "8c1ebb18e3e0af1bae3c5dfd752f3967",
+    "word": "nursery",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.托儿所，幼儿园；儿童房；<旧>儿童活动室；苗圃；（医院里的）育婴室；动物繁殖场；温床；两岁的马参加的赛马\nadj.幼儿教育的",
+    "usphone": "ˈnɜːrsəri",
+    "ukphone": "ˈnɜːsəri",
+    "createTime": "2026-10-21T09:06:34.775+0000"
+  },
+  {
+    "itemId": "fc88c28d00ec72e0c8a426e59954d5dc",
+    "word": "Arbor Day",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.植树节；美国植树节",
+    "usphone": null,
+    "ukphone": null,
+    "createTime": "2026-10-21T09:06:18.277+0000"
+  },
+  {
+    "itemId": "f9146609c7cd6ac51c6c677667060ffb",
+    "word": "humus",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.腐殖质（土壤中由动植物残体经微生物分解形成的暗色有机物质，亦作“腐植质”）；腐殖土（富含腐殖质的土壤，亦作“腐植土”）",
+    "usphone": "ˈhjuːməs",
+    "ukphone": "ˈhjuːməs",
+    "createTime": "2026-10-21T09:06:03.377+0000"
+  },
+  {
+    "itemId": "3f3b8de70a3b918e347e4dbb7cb96644",
+    "word": "afforestation",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.造林，植树造林",
+    "usphone": "əˌfɔːrɪˈsteɪʃn",
+    "ukphone": "əˌfɒrɪˈsteɪʃn",
+    "createTime": "2026-10-21T09:05:41.948+0000"
+  },
+  {
+    "itemId": "bf90a78b2a93e7d6c2be622517e58ccf",
+    "word": "desertification",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.（土壤）荒漠化，沙漠化（等于 desertization）",
+    "usphone": "dɪˌzɜːrtɪfɪˈkeɪʃ(ə)n",
+    "ukphone": "dɪˌzɜːtɪfɪˈkeɪʃn",
+    "createTime": "2026-10-21T09:05:24.631+0000"
+  },
+  {
+    "itemId": "d9db45d015de199d3f76248f172b53cb",
+    "word": "soil erosion",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.土壤侵蚀，水土流失：指土壤（尤指表层土壤）在水、风、冰、重力等自然力量作用下被剥蚀、冲刷、搬运和沉积的现象。",
+    "usphone": null,
+    "ukphone": null,
+    "createTime": "2026-10-21T09:05:06.148+0000"
+  },
+  {
+    "itemId": "ce5e1c878a04bbc043c315ce4687b746",
+    "word": "soil conservation",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "土壤保持：通过采取防水和防风措施来预防或减少土壤侵蚀和土壤耗损，以及管理土壤以获得最大的可行作物产量并同时改善土壤的过程。",
+    "usphone": null,
+    "ukphone": null,
+    "createTime": "2026-10-21T09:04:58.099+0000"
+  },
+  {
+    "itemId": "51362e50e32c89f74da1bcb70bd6aad9",
+    "word": "habitat",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.（动植物的）生活环境，栖息地\n【名】 （Habitat）（德）哈比塔特（人名）",
+    "usphone": "ˈhæbɪtæt",
+    "ukphone": "ˈhæbɪtæt",
+    "createTime": "2026-10-21T09:04:34.406+0000"
+  },
+  {
+    "itemId": "3cf80f80864f3d20dd4eaa45977ed9f4",
+    "word": "biodiversity",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.生物多样性（维持着生态环境平衡的大量各种生物的共存）",
+    "usphone": "ˌbaɪoʊdaɪˈvɜːrsəti",
+    "ukphone": "ˌbaɪəʊdaɪˈvɜːsəti",
+    "createTime": "2026-10-21T09:04:23.253+0000"
+  },
+  {
+    "itemId": "a63e6ae6bb2668eb2db7e851518b5c99",
+    "word": "herbaceous",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.草本的（指植物或植物部位茎柔软、非木质化，与“木本”相对）；（外观）绿色多叶的，叶状的",
+    "usphone": "ɜːrˈbeɪʃəs",
+    "ukphone": "hɜːˈbeɪʃəs",
+    "createTime": "2026-10-21T09:04:04.999+0000"
+  },
+  {
+    "itemId": "1da995182dff1b080bf6d9c81e27a932",
+    "word": "transplant",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "v.移植（器官、皮肤等）；（使）迁移，（使）移居；移栽，移植（植物）\nn.（器官、皮肤等的）移植（手术）；移植的器官，移植物；移居者，迁居者",
+    "usphone": "trænsˈplænt",
+    "ukphone": "trænsˈplɑːnt",
+    "createTime": "2026-10-21T09:03:35.961+0000"
+  },
+  {
+    "itemId": "8d2968873f0d38484bf7bfa69571e111",
+    "word": "transpire",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "vi.<正式>发生；<正式>泄露，变得众所周知；（植物等）蒸腾，蒸发，散发水汽\nvt.使蒸发；使（水汽等）排出",
+    "usphone": "trænˈspaɪər",
+    "ukphone": "trænˈspaɪə(r)",
+    "createTime": "2026-10-21T09:03:09.773+0000"
+  },
+  {
+    "itemId": "e02790a675475046955bc11d1052ecd3",
+    "word": "botany",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.植物学；（特定地区的）植物（生态）",
+    "usphone": "ˈbɑːtəni",
+    "ukphone": "ˈbɒtəni",
+    "createTime": "2026-10-21T09:02:57.911+0000"
+  },
+  {
+    "itemId": "18106af027dfc5c189fdcab78c9fd6d4",
+    "word": "photosynthesis",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.光合作用",
+    "usphone": "ˌfoʊtoʊˈsɪnθəsɪs",
+    "ukphone": "ˌfəʊtəʊˈsɪnθəsɪs",
+    "createTime": "2026-10-21T09:02:47.466+0000"
+  },
+  {
+    "itemId": "3dc01b5d1b7c67b784d92d0390b97e0f",
+    "word": "twine",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.（两股或多股的）线，绳，合股线\nv.使缠绕；（植物）盘绕；捻合，交织",
+    "usphone": "twaɪn",
+    "ukphone": "twaɪn",
+    "createTime": "2026-10-21T09:02:30.624+0000"
+  },
+  {
+    "itemId": "f2e7ba616bf0c93f1691801f4b912f48",
+    "word": "phloem",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.（植物学）韧皮部，筛部（高等植物体内运输光合作用产物等的维管组织，与木质部相对）",
+    "usphone": "ˈfloʊem",
+    "ukphone": "ˈfləʊem",
+    "createTime": "2026-10-21T09:01:36.948+0000"
+  },
+  {
+    "itemId": "f41847e4d0cff00db130fa9e6cccf0dc",
+    "word": "xylem",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.（植）木质部",
+    "usphone": "ˈzaɪləm",
+    "ukphone": "ˈzaɪləm",
+    "createTime": "2026-10-21T09:01:19.308+0000"
+  },
+  {
+    "itemId": "b3aab0f1534a4914f9f196a0d7a14479",
+    "word": "tendril",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.（植物）卷须，蔓；卷须状物，细长的一缕（如头发、烟雾等）",
+    "usphone": "ˈtendrəl",
+    "ukphone": "ˈtendrəl",
+    "createTime": "2026-10-21T09:00:44.338+0000"
+  },
+  {
+    "itemId": "b27c01e765320528be1018228c885546",
+    "word": "corm",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.球茎（某些植物地下茎基部膨大形成的实心贮藏器官，可用于营养繁殖，如番红花、唐菖蒲等）",
+    "usphone": "kɔːrm",
+    "ukphone": "kɔːm",
+    "createTime": "2026-10-21T08:58:46.430+0000"
+  },
+  {
+    "itemId": "a94c8c22ee61323b5f14f1a89ac6b8af",
+    "word": "taproot",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.（植物学）直根，主根；（比喻）根源，根基",
+    "usphone": "ˈtæpruːt",
+    "ukphone": "ˈtæpruːt",
+    "createTime": "2026-10-21T08:58:28.779+0000"
+  },
+  {
+    "itemId": "97a738b4c951e782f23291d0e4df20e4",
+    "word": "bulb",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.电灯泡；（植物的）鳞茎，球茎；球状物",
+    "usphone": "bʌlb",
+    "ukphone": "bʌlb",
+    "createTime": "2026-10-21T08:58:17.988+0000"
+  },
+  {
+    "itemId": "ebf9dd0f9f9a9d46268ade845274944b",
+    "word": "root system",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "根系结构：植物的根部组成的结构。\n向量配置：在欧几里得空间中满足一定几何性质的向量配置。",
+    "usphone": "ruːt ˈsɪstəm",
+    "ukphone": null,
+    "createTime": "2026-10-21T08:58:05.265+0000"
+  },
+  {
+    "itemId": "25b4b5cafc27b7bf5d487e39488386ec",
+    "word": "chloroplast",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.（植物学）叶绿体（植物和藻类细胞中含叶绿素等色素、能进行光合作用的质体）",
+    "usphone": "ˈklɔːrəplæst",
+    "ukphone": "ˈklɒrəplɑːst",
+    "createTime": "2026-10-21T08:57:54.925+0000"
+  },
+  {
+    "itemId": "b5b6d2dd9bd804dc266388d279279dde",
+    "word": "stoma",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.（植物学）气孔，叶孔；（医学）口状开口，造口；（动物学，较不常用）呼吸孔",
+    "usphone": "ˈstoʊmə",
+    "ukphone": "ˈstəʊmə",
+    "createTime": "2026-10-21T08:57:39.017+0000"
+  },
+  {
+    "itemId": "dd9e72529e80fdbde18b003554d954e5",
+    "word": "annual ring",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "年轮：一年生木本植物生长的一层木材。",
+    "usphone": "ˈænjuəl rɪŋ",
+    "ukphone": null,
+    "createTime": "2026-10-21T08:57:28.323+0000"
+  },
+  {
+    "itemId": "dab5d00a1e968aa391a3a1cb65c94869",
+    "word": "growth ring",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "生长环：在一段生长期间产生的木材层（例如年轮）。",
+    "usphone": null,
+    "ukphone": "ˈɡrəʊθ rɪŋ",
+    "createTime": "2026-10-21T08:57:17.621+0000"
+  },
+  {
+    "itemId": "1b9d8f877bf3031cb0ae04672bd85419",
+    "word": "bud",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.芽，花蕾；<美，非正式>伙计，老兄；芽体\nv.发芽，长出花蕾；为……进行芽接\n【名】 （Bud）（英）巴德，（中）布特（蒙语·汉语拼音），（罗、匈）布德（人名）",
+    "usphone": "bʌd",
+    "ukphone": "bʌd",
+    "createTime": "2026-10-21T08:57:04.171+0000"
+  },
+  {
+    "itemId": "7c217fa9dc391caa14fb193d6765a411",
+    "word": "pistil",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.[植] 雌蕊",
+    "usphone": "ˈpɪstɪl",
+    "ukphone": "ˈpɪstɪl",
+    "createTime": "2026-10-21T08:56:54.156+0000"
+  },
+  {
+    "itemId": "12f115b6a5572017b7e47228596e7e50",
+    "word": "stamen",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.[植]雄蕊\nn.（Stamen）人名；（塞、保）斯塔门",
+    "usphone": "ˈsteɪmən",
+    "ukphone": "ˈsteɪmən",
+    "createTime": "2026-10-21T08:56:43.412+0000"
+  },
+  {
+    "itemId": "9b46ab298c7ae62704b9d9092cb58512",
+    "word": "scrubland",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.灌木丛林地",
+    "usphone": "ˈskrʌblənd",
+    "ukphone": "ˈskrʌblənd",
+    "createTime": "2026-10-21T08:56:10.793+0000"
+  },
+  {
+    "itemId": "491c4cc35a69a7dbbb94c64c9551e5ea",
+    "word": "petiole",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.（植物学）叶柄，即连接叶片与茎的细长柄；（动物学）蜂、蚁等膜翅目昆虫胸部与腹部之间的缢缩状细柄（腹柄）；亦可泛指细长柄状连接部（柄部）",
+    "usphone": "ˈpetɪˌoʊl",
+    "ukphone": "ˈpetɪˌəʊl",
+    "createTime": "2026-10-21T08:55:58.706+0000"
+  },
+  {
+    "itemId": "6283bb9397cc985300c14090528097fb",
+    "word": "mangrove",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.红树，红树植物（热带、亚热带沿海潮间带生长的常绿乔木或灌木，常有支柱根或呼吸根，耐盐碱）；红树林，红树群落（红树植物形成的沿海湿地植被）",
+    "usphone": "ˈmænɡroʊv",
+    "ukphone": "ˈmæŋɡrəʊv",
+    "createTime": "2026-10-21T08:55:46.065+0000"
+  },
+  {
+    "itemId": "7a8a06947d457b688fec455b2d759482",
+    "word": "savanna",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.（生态、地理）热带或亚热带草原，稀树草原（亦作 savannah）",
+    "usphone": "səˈvænə",
+    "ukphone": "səˈvænə",
+    "createTime": "2026-10-21T08:55:27.844+0000"
+  },
+  {
+    "itemId": "2db46d0080654f32326d0c4611bed741",
+    "word": "thicket",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.灌木丛，小树丛，丛林；<喻>错综复杂的事物，密集难解之物",
+    "usphone": "ˈθɪkɪt",
+    "ukphone": "ˈθɪkɪt",
+    "createTime": "2026-10-21T08:55:14.669+0000"
+  },
+  {
+    "itemId": "7e1f141f1677fc929f55bd177c68ff04",
+    "word": "broadleaf",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.阔叶树；阔叶烟草",
+    "usphone": "ˈbrɔːdˌliːf",
+    "ukphone": "ˈbrɔːdˌliːf",
+    "createTime": "2026-10-21T08:54:46.409+0000"
+  },
+  {
+    "itemId": "ad3249488569c484a1875223df0387a8",
+    "word": "deciduous",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.（植物学）指树木、灌木等在生长季节结束时每年落叶的，落叶性的；（解剖学、动物学）指牙齿、鹿角等结构在生长周期结束时自然脱落或脱换的，如 deciduous teeth（乳牙）；（引申义，正式或罕用）非永久性的，短暂的",
+    "usphone": "dɪˈsɪdʒuəs",
+    "ukphone": "dɪˈsɪdʒuəs",
+    "createTime": "2026-10-21T08:54:27.908+0000"
+  },
+  {
+    "itemId": "447e6b5ecb971859219c8f6c6d693169",
+    "word": "conifer",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.针叶树，松柏类植物（通常为常绿、具针状或鳞状叶、多结球果的裸子植物）",
+    "usphone": "ˈkɑːnɪfər",
+    "ukphone": "ˈkɒnɪfə(r)",
+    "createTime": "2026-10-21T08:52:16.928+0000"
+  },
+  {
+    "itemId": "185f4c8f8d5e9019546714a1fc414b7f",
+    "word": "gymnosperm",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.（植）裸子植物",
+    "usphone": "ˈdʒɪmnəˌspɜːrm",
+    "ukphone": "ˈdʒɪmnəʊˌspɜːm",
+    "createTime": "2026-10-21T08:51:55.762+0000"
+  },
+  {
+    "itemId": "99679b58543f08c6f0fbf514d26fab14",
+    "word": "angiosperm",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.（植）被子植物",
+    "usphone": "ˈændʒioʊˌspɜːrm",
+    "ukphone": "ˈændʒɪəˌspɜːm",
+    "createTime": "2026-10-21T08:51:41.674+0000"
+  },
+  {
+    "itemId": "17ba76d228216473b4c61a9d06cb63f9",
+    "word": "lichen",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.（生物学）地衣；（医学）苔藓（一类以密集丘疹或硬性增厚皮损为特征的皮肤疾病）\nvt.（较少见）使长满地衣",
+    "usphone": "ˈlaɪkən",
+    "ukphone": "ˈlaɪkən",
+    "createTime": "2026-10-21T08:51:27.819+0000"
+  },
+  {
+    "itemId": "5e9869a4faa4cf2979d614d472c88c2b",
+    "word": "climber",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.登山者，攀岩者，攀爬者；攀缘植物；（常含贬义）向上爬的人，努力改善自己社会地位的人",
+    "usphone": "ˈklaɪmər",
+    "ukphone": "ˈklaɪmə(r)",
+    "createTime": "2026-10-21T08:51:00.393+0000"
+  },
+  {
+    "itemId": "ac3031f45dab3cb96f01071c82e6d31a",
+    "word": "perennial",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.多年生的（植物）；长期的，常在的，反复的（问题、困难等）；常年的，四季不断的（河流、湖泊等）\nn.多年生植物",
+    "usphone": "pəˈreniəl",
+    "ukphone": "pəˈreniəl",
+    "createTime": "2026-10-21T08:50:47.910+0000"
+  },
+  {
+    "itemId": "7a90afff3d80284cef4e66b9873c8af3",
+    "word": "fauna",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.动物群；（动）动物区系；Fauna（瑞典人名）福纳",
+    "usphone": "ˈfɔːnə",
+    "ukphone": "ˈfɔːnə",
+    "createTime": "2026-10-21T08:50:28.919+0000"
+  },
+  {
+    "itemId": "13fb94e8c6134332e8ddfeb3737b7686",
+    "word": "flora",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.（某地区、栖息地或地质时期的）植物群，植物区系；植物志",
+    "usphone": "ˈflɔːrə",
+    "ukphone": "ˈflɔːrə",
+    "createTime": "2026-10-21T08:50:04.695+0000"
+  },
+  {
+    "itemId": "a8f5162293d67a45be14e6e70d067641",
+    "word": "ladle",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.长柄勺，汤勺，杓；（冶金）钢铁水包，钢水包，铁水包\nv.用长柄勺舀，盛；把……倒入；舀出；<喻>大量提供，慷慨给予",
+    "usphone": "ˈleɪdl",
+    "ukphone": "ˈleɪdl",
+    "createTime": "2026-10-21T08:49:56.222+0000"
+  },
+  {
+    "itemId": "4f6c8b4a07f1c1e8515af6f36f9d079c",
+    "word": "rhizome",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.根茎，根状茎，地下茎；（哲学、文化理论）块茎，指去中心化、非层级化的多元结构",
+    "usphone": "ˈraɪzoʊm",
+    "ukphone": "ˈraɪzəʊm",
+    "createTime": "2026-10-21T08:48:24.379+0000"
+  },
+  {
+    "itemId": "fc17053ed00a444fc9e2ffff73854add",
+    "word": "ovulation",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.排卵",
+    "usphone": "ˌɑːvjuˈleɪʃn",
+    "ukphone": "ˌɒvjuˈleɪʃn",
+    "createTime": "2026-10-21T08:48:07.070+0000"
+  },
+  {
+    "itemId": "04f66771d71cf49de84e76916098c914",
+    "word": "ovum",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.[细胞][组织] 卵；卵子；卵形装饰",
+    "usphone": "ˈoʊvəm",
+    "ukphone": "ˈəʊvəm",
+    "createTime": "2026-10-21T08:47:49.658+0000"
+  },
+  {
+    "itemId": "b2ea1b50edc5af3424090c2c764f9fad",
+    "word": "folate",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.叶酸（维生素 B9，B 族维生素之一）",
+    "usphone": "ˈfoʊˌleɪt",
+    "ukphone": "ˈfəʊleɪt",
+    "createTime": "2026-10-21T08:47:35.258+0000"
+  },
+  {
+    "itemId": "fae8daaeb92cb480756df770fbecea32",
+    "word": "kimchi",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.朝鲜泡菜，即韩国传统发酵蔬菜小菜，多以白菜、萝卜或黄瓜等蔬菜加辣椒、蒜、盐等调料腌制发酵而成（通常不可数）",
+    "usphone": "ˈkɪmtʃi",
+    "ukphone": "ˈkɪmtʃi",
+    "createTime": "2026-10-21T08:47:26.256+0000"
+  },
+  {
+    "itemId": "69385cc2f0e3324ba60ac865c1e78cf7",
+    "word": "cold dish",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "凉菜：指一道以冷食为主的菜肴，通常用于开胃或作为主菜之一。",
+    "usphone": null,
+    "ukphone": null,
+    "createTime": "2026-10-21T08:47:09.390+0000"
+  },
+  {
+    "itemId": "43f1f78c79d1980bd8c64e06cc97903f",
+    "word": "herbicide",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.（农药）除草剂，除莠剂",
+    "usphone": "ˈɜːrbɪsaɪd",
+    "ukphone": "ˈhɜːbɪsaɪd",
+    "createTime": "2026-10-21T08:46:48.791+0000"
+  },
+  {
+    "itemId": "1c3cbf257664605da78210f7e8e79869",
+    "word": "compost",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.堆肥，混合肥料（由腐烂植物等有机物质制成，用作肥料）；培养土（盆栽用特制土）\nvt.将…制成堆肥；给…施堆肥",
+    "usphone": "ˈkɑːmpoʊst",
+    "ukphone": "ˈkɒmpɒst",
+    "createTime": "2026-10-21T08:46:38.355+0000"
+  },
+  {
+    "itemId": "2795a2be8bb5a048e5ad97f39e228964",
+    "word": "vegan",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.纯素食者，严格的素食主义者\nadj.严格素食的，不吃肉的",
+    "usphone": "ˈviːɡən",
+    "ukphone": "ˈviːɡən",
+    "createTime": "2026-10-21T08:46:16.925+0000"
+  },
+  {
+    "itemId": "10c9fce4a6354a3c74ddf3207d658ea1",
+    "word": "chlorophyll",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.叶绿素",
+    "usphone": "ˈklɔːrəfɪl",
+    "ukphone": "ˈklɒrəfɪl",
+    "createTime": "2026-10-21T08:46:03.528+0000"
+  },
+  {
+    "itemId": "1795bb072a98c1c35ff0ca411000fe0f",
+    "word": "pesticide",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.杀虫剂，农药",
+    "usphone": "ˈpestəsaɪd",
+    "ukphone": "ˈpestɪsaɪd",
+    "createTime": "2026-10-21T08:45:32.545+0000"
+  },
+  {
+    "itemId": "c62027b3d2bd6e36b52253e790347dde",
+    "word": "fertilize",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "vt.（生物）使受精；（农业）给土地或作物施肥，使肥沃",
+    "usphone": "ˈfɜːrtəlaɪz",
+    "ukphone": "ˈfɜːtəlaɪz",
+    "createTime": "2026-10-21T08:45:12.091+0000"
+  },
+  {
+    "itemId": "db69f74185a8f5faa621616bab7b073e",
+    "word": "shiitake",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.香菇，椎茸",
+    "usphone": "ʃɪˈtɑːki",
+    "ukphone": "ʃɪˈtɑːki",
+    "createTime": "2026-10-21T08:44:52.720+0000"
+  },
+  {
+    "itemId": "a9917344f5e605376af6d52c08db1ab6",
+    "word": "bamboo shoot",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.竹笋，笋：竹子地下茎长出的幼嫩芽，出土后及时采摘，作蔬菜食用，尤其在亚洲烹饪中常用。",
+    "usphone": "ˌbæmˈbuː ʃuːt",
+    "ukphone": null,
+    "createTime": "2026-10-21T08:44:32.619+0000"
+  },
+  {
+    "itemId": "63d9184751c37c68afd592c0edbdb512",
+    "word": "lotus root",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.莲藕（莲的食用根状茎，常作蔬菜食用）",
+    "usphone": null,
+    "ukphone": null,
+    "createTime": "2026-10-21T08:43:36.368+0000"
+  },
+  {
+    "itemId": "900a4029352671652858535362fc4d5b",
+    "word": "lotus",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.莲属植物；莲（花）饰（在亚洲艺术和宗教中带有象征意义）；落拓枣，忘忧果（食后感到梦幻般的快乐轻松）\n【名】 （Lotus）（英）洛特斯（人名）",
+    "usphone": "ˈloʊtəs",
+    "ukphone": "ˈləʊtəs",
+    "createTime": "2026-10-21T08:43:16.459+0000"
+  },
+  {
+    "itemId": "2754655d2e8e20e48ad97d5a4d577cb6",
+    "word": "romaine",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.长叶莴苣（等于 romaine lettuce）；（Romaine）人名，音译罗曼（英、法）或罗马伊内（意）",
+    "usphone": "roʊˈmeɪn",
+    "ukphone": "rəʊˈmeɪn",
+    "createTime": "2026-10-21T08:43:01.339+0000"
+  },
+  {
+    "itemId": "fc464a833f7acaa04df86171a31a42d6",
+    "word": "arugula",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.芝麻菜（美国英语常用；英国英语通常作 rocket）",
+    "usphone": "əˈruːɡələ",
+    "ukphone": "əˈruːɡjʊlə",
+    "createTime": "2026-10-21T08:42:36.220+0000"
+  },
+  {
+    "itemId": "0ba1106416c7705e414b6cc30f651237",
+    "word": "chard",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.（通常不可数）一种可供食用的叶用甜菜，即莙荙菜（又称牛皮菜、瑞士甜菜）；Chard 查德（人名/姓氏）；Chard 查德（英国城镇名）",
+    "usphone": "tʃɑːrd",
+    "ukphone": "tʃɑːd",
+    "createTime": "2026-10-21T08:42:13.990+0000"
+  },
+  {
+    "itemId": "8477905663a742f288402afbc1078832",
+    "word": "luffa",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.丝瓜属热带攀缘植物，尤指普通丝瓜，幼果可作蔬菜食用（亦作 loofah、loofa）；丝瓜络，即成熟果实干燥后的纤维质内瓤，可作搓澡海绵或过滤器；（植物分类学）葫芦科丝瓜属（Luffa）",
+    "usphone": "ˈluːfə; ˈlʌfə",
+    "ukphone": "ˈlʌfə",
+    "createTime": "2026-10-21T08:41:17.372+0000"
+  },
+  {
+    "itemId": "abd29b5bd13753bb120acc8a5cd3cc0f",
+    "word": "winter melon",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.冬瓜：葫芦科冬瓜属（Benincasa hispida）一年生藤本植物或其果实，果实较大，外皮绿色且常带白粉，果肉白色，作蔬菜食用，常用于中式炖汤；亦指冬甜瓜（Cucumis melo var. inodorus），一种耐贮藏的甜瓜，果皮光滑无网纹，果肉浅绿至橙黄色，味甜。",
+    "usphone": null,
+    "ukphone": null,
+    "createTime": "2026-10-21T08:40:57.547+0000"
+  },
+  {
+    "itemId": "5768d8a7e6d42eb82055cee35660054d",
+    "word": "bitter melon",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.苦瓜（粤语地区亦称凉瓜）的果实：长椭圆形，表面有疣状突起，未成熟时青绿色，味苦，常作蔬菜食用；苦瓜（学名 Momordica charantia）的植株：一年生攀缘草本植物，原产旧大陆热带地区，现已广泛栽培并自然化。",
+    "usphone": null,
+    "ukphone": null,
+    "createTime": "2026-10-21T08:40:44.360+0000"
+  },
+  {
+    "itemId": "13cc6dea51f8efc1c913c0ce08d568c0",
+    "word": "enoki mushroom",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.金针菇",
+    "usphone": null,
+    "ukphone": null,
+    "createTime": "2026-10-21T08:40:28.286+0000"
+  },
+  {
+    "itemId": "20f666213d08e2d46360070f436518eb",
+    "word": "asparagus",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.芦笋（植株），石刁柏，龙须菜；芦笋嫩茎（可作蔬菜食用）",
+    "usphone": "əˈspærəɡəs",
+    "ukphone": "əˈspærəɡəs",
+    "createTime": "2026-10-21T08:39:57.594+0000"
+  },
+  {
+    "itemId": "8149cc9ae235d8878ba4b832e2f2a396",
+    "word": "scallion",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.青葱，小葱，冬葱；韭葱（leek）",
+    "usphone": "ˈskæliən",
+    "ukphone": "ˈskæliən",
+    "createTime": "2026-10-21T08:39:27.646+0000"
+  },
+  {
+    "itemId": "41dd066a562b853c5ab282501fca0f4f",
+    "word": "taro",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.芋头，芋艿（天南星科植物，学名 Colocasia esculenta，叶大，地下球茎可食）；芋头，香芋（指其可食用的淀粉质球茎，常作食材或口味）；Taro（大写）人名（如日文名“太郎”，也音译作“塔罗”“多吕”）",
+    "usphone": "ˈtærəʊ",
+    "ukphone": "ˈtɑːrəʊ; ˈtærəʊ",
+    "createTime": "2026-10-21T08:38:27.945+0000"
+  },
+  {
+    "itemId": "361d7f271cfd8fbf70998517764f8611",
+    "word": "yam",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.薯蓣，山药；〈北美〉番薯，山芋\nvi.<爱尔兰，苏格兰>猫叫",
+    "usphone": "jæm",
+    "ukphone": "jæm",
+    "createTime": "2026-10-21T08:38:06.235+0000"
+  },
+  {
+    "itemId": "3553d601b01367c9d8a3b32e1b6caaa8",
+    "word": "sweet potato",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.甘薯，红薯（旋花科番薯属植物，其块根可食用）；甘薯的食用块根（又名番薯、地瓜）",
+    "usphone": null,
+    "ukphone": "ˌswiːt pəˈteɪtəʊ",
+    "createTime": "2026-10-21T08:37:55.428+0000"
+  },
+  {
+    "itemId": "77a72010c0ca15506b1d2a2dbe69fcfc",
+    "word": "beetroot",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.（主英）甜菜根，红菜头（甜菜的暗红色肉质根，作蔬菜食用）；也指结这种根的甜菜植株",
+    "usphone": "ˈbiːtruːt",
+    "ukphone": "ˈbiːtruːt",
+    "createTime": "2026-10-21T08:37:29.143+0000"
+  },
+  {
+    "itemId": "a0c8d5d8ee907888daa5d4e03250edca",
+    "word": "daikon",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.白萝卜；萝卜",
+    "usphone": "ˈdaɪkɑːn",
+    "ukphone": "ˈdaɪkɒn",
+    "createTime": "2026-10-21T08:36:58.990+0000"
+  },
+  {
+    "itemId": "f4e2d5e2a25b3c7fc2a2f87abebdb110",
+    "word": "soybean",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.大豆，黄豆（一年生豆科植物；也指这种植物富含蛋白质和油脂的种子）",
+    "usphone": "ˈsɔɪbiːn",
+    "ukphone": "ˈsɒɪbiːn",
+    "createTime": "2026-10-21T08:36:38.045+0000"
+  },
+  {
+    "itemId": "5679b6fdf9c84728b4585addbf0cfd79",
+    "word": "celery",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.芹菜",
+    "usphone": "ˈseləri",
+    "ukphone": "ˈseləri",
+    "createTime": "2026-10-21T08:36:22.694+0000"
+  },
+  {
+    "itemId": "6651c3b4e3fec72bc8999e698c8a6f94",
+    "word": "cabbage",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.卷心菜，洋白菜；（作蔬菜食用的）卷心菜叶子，洋白菜叶子；<英，非正式>（冒犯）（因受伤或疾病而）身心残损的人；<英，非正式>生活极乏味的人",
+    "usphone": "ˈkæbɪdʒ",
+    "ukphone": "ˈkæbɪdʒ",
+    "createTime": "2026-10-21T08:36:07.371+0000"
+  },
+  {
+    "itemId": "f874b81feb752ce35e79ecc9fa84c215",
+    "word": "cauliflower",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.花椰菜，菜花",
+    "usphone": "ˈkɑːliflaʊər",
+    "ukphone": "ˈkɒliflaʊə(r)",
+    "createTime": "2026-10-21T08:35:47.233+0000"
+  },
+  {
+    "itemId": "a2920757f4f39ba0d6fbbcd636b4e538",
+    "word": "tuber",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.（植物）块茎；隆起，结节；（Tuber）人名；（法）蒂贝",
+    "usphone": "ˈtuːbər",
+    "ukphone": "ˈtjuːbə(r)",
+    "createTime": "2026-10-21T08:35:32.411+0000"
+  },
+  {
+    "itemId": "28abafb0bea5b283869dc54671721073",
+    "word": "vascular",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.（医学/生物学）血管的，脉管的；（植物）维管的",
+    "usphone": "ˈvæskjələr",
+    "ukphone": "ˈvæskjələ(r)",
+    "createTime": "2026-10-21T08:35:05.132+0000"
+  },
+  {
+    "itemId": "da7beba6f939f45cf72a652587650091",
+    "word": "semi-major",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "半长轴的",
+    "usphone": null,
+    "ukphone": null,
+    "createTime": "2026-10-13T11:27:52.959+0000"
+  },
+  {
+    "itemId": "cd5155dc8f172d2e821ddb9550d1dfc3",
+    "word": "alienate",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "v.使疏远，使敌对；使格格不入；转让，让渡（财产或权利）",
+    "usphone": "ˈeɪliəneɪt",
+    "ukphone": "ˈeɪliəneɪt",
+    "createTime": "2026-10-13T10:07:20.421+0000"
+  },
+  {
+    "itemId": "4499123ef65c9c3ef927e2a82c85e781",
+    "word": "raspberry",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.覆盆子，山莓；<非正式>（表示嘲弄或轻蔑的）呸声；痛斥，厉声责备；（结浆果的）悬钩子属植物；紫红色\n【名】 （Raspberry）（英）拉斯伯里（人名）",
+    "usphone": "ˈræzberi",
+    "ukphone": "ˈrɑːzbəri",
+    "createTime": "2026-10-13T10:06:55.382+0000"
+  },
+  {
+    "itemId": "b22498aea0a1cc063507fca1088e5dc1",
+    "word": "apricot",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.杏；杏黄色；杏树",
+    "usphone": "ˈæprɪkɑːt; ˈeɪprɪkɑːt",
+    "ukphone": "ˈeɪprɪkɒt",
+    "createTime": "2026-10-13T10:06:26.706+0000"
+  },
+  {
+    "itemId": "3f53a0b68f4d380d221aa552a423ef33",
+    "word": "lime",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.酸橙（树）；酸橙饮料；酸橙绿色，淡黄绿色；石灰，生石灰；欧椴树，菩提树；<旧>粘鸟胶；（交谈时较注重礼仪和规矩的）非正式社交聚会\nv.撒石灰于；坐着（或站着）闲聊；粉刷，用石灰涂白；<旧>用粘鸟胶捕鸟\n【名】 （Lime）（法）利姆（人名）",
+    "usphone": "laɪm",
+    "ukphone": "laɪm",
+    "createTime": "2026-10-13T10:06:15.703+0000"
+  },
+  {
+    "itemId": "ed5e8eb7fbcd1bf2d658231d6721f93c",
+    "word": "grapefruit",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.西柚，葡萄柚；葡萄柚树",
+    "usphone": "ˈɡreɪpfruːt",
+    "ukphone": "ˈɡreɪpfruːt",
+    "createTime": "2026-10-13T10:06:09.073+0000"
+  },
+  {
+    "itemId": "436d214d42203636ceba6298fa03aced",
+    "word": "fig",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.无花果；无花果树；无价值的东西，少许（常与否定词连用）；<非正式>对……丝毫不在乎，完全不把……放在心上（not give/care a fig）；<俚，非正式>服装\nvt.<俚，古>使……盛装打扮；给（马）施用刺激性药物\nabbr.（书写形式）图，表（figure 的缩写）；（书写形式）比喻的，譬如说（figurative 或 figuratively 的缩写）",
+    "usphone": "fɪɡ",
+    "ukphone": "fɪɡ",
+    "createTime": "2026-10-13T10:06:01.133+0000"
+  },
+  {
+    "itemId": "0f68281d34a4049716ec07c663af1260",
+    "word": "kumquat",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.金橘，金柑，金桔；金橘树，金柑树，金钱桔树",
+    "usphone": "ˈkʌmkwɑːt",
+    "ukphone": "ˈkʌmkwɒt",
+    "createTime": "2026-10-13T10:05:49.714+0000"
+  },
+  {
+    "itemId": "799cebdda43e8e4abdac34fcf7f0c97f",
+    "word": "tangerine",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.橘子，柑橘；柑橘树，橘树；橘黄色，橘红色",
+    "usphone": "ˈtændʒəriːn",
+    "ukphone": "ˌtændʒəˈriːn",
+    "createTime": "2026-10-13T10:05:40.929+0000"
+  },
+  {
+    "itemId": "31e2838cab2f08557882c0bde44fe9ab",
+    "word": "citrus",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.柑橘属果树；柑橘类植物；柑橘类水果（总称）\nadj.柑橘属植物的，柑橘类的",
+    "usphone": "ˈsɪtrəs",
+    "ukphone": "ˈsɪtrəs",
+    "createTime": "2026-10-13T10:05:24.616+0000"
+  },
+  {
+    "itemId": "cd1b4e25d3484d1fd516b5bdbb7a3c2d",
+    "word": "jujube",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.枣子（枣树的果实）；枣树；枣味糖",
+    "usphone": "dʒudʒub",
+    "ukphone": "ˈdʒu:dʒu:b",
+    "createTime": "2026-10-13T10:05:14.289+0000"
+  },
+  {
+    "itemId": "d5264b922af89db9d72e8f44ec454d7c",
+    "word": "durian",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.榴莲；榴莲树（原产于马来西亚）（=durian tree）",
+    "usphone": "ˈdʊriən",
+    "ukphone": "ˈdʊəriən",
+    "createTime": "2026-10-13T10:04:58.160+0000"
+  },
+  {
+    "itemId": "3d5a33095bd7d137f8c330446a18886d",
+    "word": "longan",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.龙眼（果实）；龙眼树（Dimocarpus longan）；（Longan）人名；<英>朗根",
+    "usphone": "ˈlɒŋɡən",
+    "ukphone": "ˈlɒŋɡ(ə)n",
+    "createTime": "2026-10-13T10:04:50.683+0000"
+  },
+  {
+    "itemId": "81cba3abf99abe11ae3cf5a2762ad4a3",
+    "word": "lychee",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.荔枝；荔枝树（等于 litchi）",
+    "usphone": "ˈliːtʃi; ˈlaɪtʃi",
+    "ukphone": "ˈlaɪtʃi",
+    "createTime": "2026-10-13T10:04:43.728+0000"
+  },
+  {
+    "itemId": "3c70fd74a4373c6316599f603a1afe8e",
+    "word": "mangosteen",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.山竹，山竹果，莽吉柿；山竹树，山竹子，倒捻子",
+    "usphone": "ˈmæŋɡəstiːn",
+    "ukphone": "ˈmæŋɡəstiːn",
+    "createTime": "2026-10-13T10:04:33.755+0000"
+  },
+  {
+    "itemId": "48b33b7f676e09f5ec4a9d76ddb931ef",
+    "word": "melon",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.瓜，香瓜，甜瓜；瓜类植物；（动）额隆体；圆鼓鼓像瓜似的东西\n【名】 （Melon）（意、西、葡）梅隆（人名）",
+    "usphone": "ˈmelən",
+    "ukphone": "ˈmelən",
+    "createTime": "2026-10-13T10:04:17.339+0000"
+  },
+  {
+    "itemId": "ce7ab1d11556317ce884dc97d5d7656a",
+    "word": "avocado",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.鳄梨，牛油果；鳄梨色；鳄梨树\nadj.淡绿色的",
+    "usphone": "ˌævəˈkɑːdoʊ",
+    "ukphone": "ˌævəˈkɑːdəʊ",
+    "createTime": "2026-10-13T10:04:08.511+0000"
+  },
+  {
+    "itemId": "8e33a1c3900391f4cb8c523e1fe1ebbb",
+    "word": "cantaloupe",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.一种甜瓜，通称哈密瓜、香瓜，（园艺）亦称罗马甜瓜；（植物）亦指结出此果实的甜瓜植株或藤蔓",
+    "usphone": "ˈkæntəloʊp",
+    "ukphone": "ˈkæntəluːp",
+    "createTime": "2026-10-13T10:03:58.744+0000"
+  },
+  {
+    "itemId": "b46a8e91fbb41535cdc7d26d614fb2f9",
+    "word": "honeydew",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.蜜露，蜜汁，甘汁（蚜虫等昆虫分泌的含糖甜液）；蜜瓜，甜瓜，白兰瓜（honeydew melon 的简称）；淡绿色（网页配色名）",
+    "usphone": "ˈhʌnɪˌdjʊ",
+    "ukphone": "ˈhʌnidjuː",
+    "createTime": "2026-10-13T10:03:44.321+0000"
+  },
+  {
+    "itemId": "0d90e5e5429c0c7bde11e4e41d855e65",
+    "word": "loquat",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.枇杷（果）；枇杷（树）",
+    "usphone": "ˈloʊkwɑːt",
+    "ukphone": "ˈləʊkwɒt",
+    "createTime": "2026-10-13T10:03:17.782+0000"
+  },
+  {
+    "itemId": "8c384083090a987095488722c7967823",
+    "word": "mulberry",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.桑树；桑葚，桑椹；深紫红色；（Mulberry）<美，英，加>马尔伯里（人名）",
+    "usphone": "ˈmʌlberi",
+    "ukphone": "ˈmʌlbəri",
+    "createTime": "2026-10-13T10:03:05.947+0000"
+  },
+  {
+    "itemId": "c81fc8f51bacca22ecdf291cdbcd3391",
+    "word": "hawthorn",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.山楂；山楂树；（Hawthorn）霍索恩（姓氏）",
+    "usphone": "ˈhɔːθɔːrn",
+    "ukphone": "ˈhɔːθɔːn",
+    "createTime": "2026-10-13T10:02:54.315+0000"
+  },
+  {
+    "itemId": "8e2c571ed0e5e3865686061eea2685dc",
+    "word": "jackfruit",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.菠萝蜜，木菠萝（一种热带乔木所结的大型可食果实）；菠萝蜜树，木菠萝树（Artocarpus heterophyllus）",
+    "usphone": "ˈdʒækfruːt",
+    "ukphone": "ˈdʒækfruːt",
+    "createTime": "2026-10-13T10:02:42.295+0000"
+  },
+  {
+    "itemId": "cc8da385024c68c17c70d26e379b9f91",
+    "word": "kiwi fruit",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.猕猴桃，奇异果：猕猴桃属藤本植物结出的可食用浆果，外皮为毛茸茸的棕色，果肉多为深绿色（也有金黄色品种），口感酸甜。",
+    "usphone": "ˈkiːwi fruːt",
+    "ukphone": null,
+    "createTime": "2026-10-13T10:02:29.967+0000"
+  },
+  {
+    "itemId": "d203294854620c6431511243cf5021e5",
+    "word": "passion fruit",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.百香果，西番莲果；西番莲（植物）",
+    "usphone": "ˈpæʃn fruːt",
+    "ukphone": "ˈpæʃ(ə)n fruːt",
+    "createTime": "2026-10-13T10:02:15.386+0000"
+  },
+  {
+    "itemId": "60c4d3ee2c1edbf3d27b0c6432adfec7",
+    "word": "pomelo",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.柚子，文旦；柚树（学名 Citrus maxima）",
+    "usphone": "ˈpɑːməloʊ",
+    "ukphone": "ˈpɒmɪləʊ",
+    "createTime": "2026-10-13T10:02:00.836+0000"
+  },
+  {
+    "itemId": "0c05be6682f1b3914e14bde9ea0ce49f",
+    "word": "rambutan",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.红毛丹果；红毛丹树（学名 Nephelium lappaceum，原产东南亚）",
+    "usphone": "ræmˈbuːtn",
+    "ukphone": "ræmˈbuːtn",
+    "createTime": "2026-10-13T10:01:50.444+0000"
+  },
+  {
+    "itemId": "34b2a4d34d0af1516aca73508c2962d9",
+    "word": "waxberry",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.杨梅，雪果",
+    "usphone": "ˈwæksˌberi",
+    "ukphone": "ˈwæksbəri",
+    "createTime": "2026-10-13T10:01:37.602+0000"
+  },
+  {
+    "itemId": "123cd605039839a57e90a13aac7096ac",
+    "word": "husk",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.（谷物、种子、果实或坚果的）皮，壳，外壳；空壳，无价值之物；（兽医）牛、羊等家畜的蠕虫性支气管炎\nvt.剥去（谷物、坚果等）的外壳，削皮；以粗哑的嗓音说\nvi.嗓音变得嘶哑",
+    "usphone": "hʌsk",
+    "ukphone": "hʌsk",
+    "createTime": "2026-10-13T10:01:24.207+0000"
+  },
+  {
+    "itemId": "aab908dc75fa2958053f985928411b89",
+    "word": "shrub",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.灌木；（尤指掺朗姆酒或白兰地的）果汁甜酒；<美>果汁露酒\nv.因肯尼亚英语的影响而发错音",
+    "usphone": "ʃrʌb",
+    "ukphone": "ʃrʌb",
+    "createTime": "2026-10-13T10:01:16.747+0000"
+  },
+  {
+    "itemId": "29c70e02862158cc87fa6a357b9b1964",
+    "word": "sip",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "v.小口喝，抿\nn.一小口（饮料），一啜之量\n【名】  (Sip) （美、荷）西普（人名）",
+    "usphone": "sɪp",
+    "ukphone": "sɪp",
+    "createTime": "2026-10-13T10:01:08.662+0000"
+  },
+  {
+    "itemId": "0feb5ec1d7c17436f2417c3450413f76",
+    "word": "mealy",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.粉状的，含粉的；（食物等）干而粉的、干巴巴的；mealy-mouthed 意为“说话拐弯抹角的、支吾其词的”",
+    "usphone": "ˈmiːli",
+    "ukphone": "ˈmiːli",
+    "createTime": "2026-10-13T10:01:02.220+0000"
+  },
+  {
+    "itemId": "a4b02df77f34bcc37e5fd129b031efd9",
+    "word": "mushy",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.（食物等）糊状的，软烂的；（常含贬义）感伤的，多愁善感的",
+    "usphone": "ˈmʌʃi",
+    "ukphone": "ˈmʌʃi",
+    "createTime": "2026-10-13T10:00:55.422+0000"
+  },
+  {
+    "itemId": "a4b83fb9be4d8310c8334a7f11f9d5e3",
+    "word": "succulent",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.多汁的，多水分的，多汁性的（多汁味美，尤指食物）；（植物学）（植物的茎、叶等）肉质的，肥厚多汁的\nn.肉质植物，多汁植物，多肉植物（适应干旱环境，茎、叶或根肥厚储水）",
+    "usphone": "ˈsʌkjələnt",
+    "ukphone": "ˈsʌkjələnt",
+    "createTime": "2026-10-13T10:00:45.665+0000"
+  },
+  {
+    "itemId": "2a25f5c845e0af57f76825b233a43966",
+    "word": "astringent",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.涩的；收敛性的；止血的；严厉的，尖刻的\nn.（医药）收敛剂；止血药；收敛性化妆水",
+    "usphone": "əˈstrɪndʒənt",
+    "ukphone": "əˈstrɪndʒənt",
+    "createTime": "2026-10-13T10:00:33.071+0000"
+  },
+  {
+    "itemId": "a7011ab7086387bb36a147bce7cd97ed",
+    "word": "pucker",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "vt.使起皱；使缩拢\nvi.皱起；缩拢\nn.皱纹，皱褶；（嘴唇的）噘起；（Pucker）人名；（德）普克\nv.pucker up：噘起嘴唇（准备亲吻）",
+    "usphone": "ˈpʌkər",
+    "ukphone": "ˈpʌkə(r)",
+    "createTime": "2026-10-13T10:00:20.444+0000"
+  },
+  {
+    "itemId": "6398305a40776d946f78c4c2de65b406",
+    "word": "pore",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.（皮肤上的）毛孔，（植物的）气孔\nv.仔细阅读，认真钻研；<古>沉思，深思熟虑\n【名】 （Pore）（美、印）波雷（人名）",
+    "usphone": "pɔːr",
+    "ukphone": "pɔː(r)",
+    "createTime": "2026-10-13T10:00:08.189+0000"
+  },
+  {
+    "itemId": "496634c1b9726aa9d7eee6d9efce7f32",
+    "word": "fruit stand",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "水果摊：一个主要是露天的商业场所，销售当季水果和许多来自本地种植者的水果制品。",
+    "usphone": "fruːt stænd",
+    "ukphone": null,
+    "createTime": "2026-10-13T09:59:53.483+0000"
+  },
+  {
+    "itemId": "81a08e487d1160a9b48aefd6826fce02",
+    "word": "dietary fiber",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.膳食纤维：植物性食物中不能被人体消化酶消化和吸收的纤维素、半纤维素、果胶等成分，旧称粗纤维。",
+    "usphone": null,
+    "ukphone": null,
+    "createTime": "2026-10-13T09:59:32.482+0000"
+  },
+  {
+    "itemId": "56642d14ed7fc1407fde81649dfa5270",
+    "word": "antioxidant",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.抗氧化剂，抗氧剂（能抑制氧化反应或清除自由基，防止或减缓氧化损伤的物质，常见于食品、膳食补充剂、化妆品及化学制品）；（材料/化工）防老化剂（延缓橡胶、塑料、油品等材料氧化老化的添加剂）\nadj.抗氧化的，抗氧化剂的",
+    "usphone": "ˌæntiˈɑːksɪdənt",
+    "ukphone": "ˌæntiˈɒksɪdənt",
+    "createTime": "2026-10-13T09:59:12.695+0000"
+  },
+  {
+    "itemId": "c728ff052c0ecda77a51fd501988c36e",
+    "word": "shelf life",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.保质期，保存期，货架期：物质可以储存并保持适用性的时间段，多用于食品、药品等商品；（比喻）存续期，指某事物持续存在、保持有效或流行的时间段。",
+    "usphone": "ʃelf laɪf",
+    "ukphone": "ˈʃelf laɪf",
+    "createTime": "2026-10-13T09:58:56.090+0000"
+  },
+  {
+    "itemId": "14f151518ec8597a752ae9ed4263c3e6",
+    "word": "nectar",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.花蜜；果汁；（希腊罗马诸神饮用的）神酒，琼浆；甘美的饮料\n【名】 （Nectar）（罗）内克塔尔（人名）",
+    "usphone": "ˈnektər",
+    "ukphone": "ˈnektə(r)",
+    "createTime": "2026-10-13T09:58:40.270+0000"
+  },
+  {
+    "itemId": "d4a38f3eae5d1358673a0958e02d3d66",
+    "word": "jam",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.果酱；堵塞，拥挤；麻烦，困境；<非正式>爵士乐（摇滚乐）即兴演奏会；卡住，轧住\nv.塞满，挤满；卡住，发生故障；压进，塞入；干扰（无线电或电子信号）；（电话系统因很多人同时打电话而）瘫痪；挤伤，压伤；<非正式> 即兴表演；（向击球手）投（内角球）；猛推（身体部位、杠杆等）\n【名】 （Jam） （伊朗、巴基）贾姆 （人名）",
+    "usphone": "dʒæm",
+    "ukphone": "dʒæm",
+    "createTime": "2026-10-13T09:58:22.550+0000"
+  },
+  {
+    "itemId": "c2703862327ed142287a4d28c3ba8a1e",
+    "word": "marmalade",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.柑橘酱，橘子酱：用柑橘类水果（尤指橙、柠檬或柚子）的果肉和果皮加糖熬制成的果酱\nvt.把柑橘酱涂在……上\nadj.橘子酱色的，橙黄色的",
+    "usphone": "ˈmɑːrməleɪd",
+    "ukphone": "ˈmɑːməleɪd",
+    "createTime": "2026-10-13T09:58:05.854+0000"
+  },
+  {
+    "itemId": "61a310500607b18463f789ad1c52ccff",
+    "word": "raisin",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.葡萄干\n【名】 （Raisin）（法）雷森（人名）",
+    "usphone": "ˈreɪz(ə)n",
+    "ukphone": "ˈreɪzn",
+    "createTime": "2026-10-13T09:57:52.397+0000"
+  },
+  {
+    "itemId": "5235d96b0b5b899e51119958e01218f5",
+    "word": "currant",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.无籽葡萄干（用于糕饼）；红醋栗等茶藨子属浆果（有红、黑、白等品种）；茶藨子属灌木；（Currant）（英、美）柯伦特（人名）",
+    "usphone": "ˈkɜːrənt",
+    "ukphone": "ˈkʌrənt",
+    "createTime": "2026-10-13T09:57:41.274+0000"
+  },
+  {
+    "itemId": "2994670f4490e486118c4f0e6f2c45c7",
+    "word": "aloe",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.芦荟（芦荟属肉质植物）；芦荟汁液或芦荟制品（如芦荟凝胶）；（用于 American aloe 等复合名称）龙舌兰属植物",
+    "usphone": "ˈæloʊ",
+    "ukphone": "ˈæləʊ",
+    "createTime": "2026-10-13T09:57:22.305+0000"
+  },
+  {
+    "itemId": "711d20830cb7e8479d020e24b03c6ae0",
+    "word": "vengeful",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.复仇的，报复的，复仇心重的",
+    "usphone": "ˈvendʒf(ə)l",
+    "ukphone": "ˈvendʒf(ə)l",
+    "createTime": "2026-10-09T01:59:22.884+0000"
+  },
+  {
+    "itemId": "d9cafb4cf10629d8bc067582e0f99072",
+    "word": "ingratiate",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "vt.讨好；逢迎；巴结（常作 ingratiate oneself with sb，多含贬义）",
+    "usphone": "ɪnˈɡreɪʃieɪt",
+    "ukphone": "ɪnˈɡreɪʃieɪt",
+    "createTime": "2026-10-09T01:58:37.375+0000"
+  },
+  {
+    "itemId": "22d1d04c80faa47cc7f0309ff4c2a876",
+    "word": "defiance",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.违抗，蔑视",
+    "usphone": "dɪˈfaɪəns",
+    "ukphone": "dɪˈfaɪəns",
+    "createTime": "2026-10-09T01:58:15.329+0000"
+  },
+  {
+    "itemId": "66d1fa1d264a01356515233c90210f5f",
+    "word": "vanquish",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "vt.征服，彻底击败；克服，抑制（感情等）",
+    "usphone": "ˈvæŋkwɪʃ",
+    "ukphone": "ˈvæŋkwɪʃ",
+    "createTime": "2026-10-09T01:57:52.866+0000"
+  },
+  {
+    "itemId": "d8e019ebcdca0932aa23597cf036a214",
+    "word": "raptor",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.猛禽，肉食鸟；<非正式>迅猛龙（指驰龙科兽脚类恐龙，尤指伶盗龙）",
+    "usphone": "ˈræptər",
+    "ukphone": "ˈræptə(r)",
+    "createTime": "2026-10-09T01:56:51.777+0000"
+  },
+  {
+    "itemId": "607df1690aec66c9773760873a07a368",
+    "word": "wok",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.炒锅，炒菜锅（圆底大锅，用于中式烹饪，源自粤语“镬”）",
+    "usphone": "wɑːk",
+    "ukphone": "wɒk",
+    "createTime": "2026-10-09T01:56:32.826+0000"
+  },
+  {
+    "itemId": "fa76bc0ca6750cb1f44387805430c3f6",
+    "word": "saucepan",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.炖锅，深平底锅",
+    "usphone": "ˈsɔːspæn",
+    "ukphone": "ˈsɔːspən",
+    "createTime": "2026-10-09T01:56:13.440+0000"
+  },
+  {
+    "itemId": "5bad97ed83031513f8642204db6824b2",
+    "word": "casserole",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.砂锅，焙盘，大型有盖耐热烤盘（可上桌）；砂锅菜，炖菜，焙盘菜\nv.用焙盘焙，用砂锅炖",
+    "usphone": "ˈkæsəroʊl",
+    "ukphone": "ˈkæsərəʊl",
+    "createTime": "2026-10-09T01:55:55.844+0000"
+  },
+  {
+    "itemId": "0d332bb750a1b9c6b5a6a7277b487ea7",
+    "word": "batter",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "v.接连猛打；殴打，毒打；肆虐，严重破坏；抨击，责难；给……裹面糊；（墙等的）向后倾斜\nn.面糊（煎料），面团；击球员；（墙等的）向后倾斜；（活字或铅版的）字面磨损处\n【名】 （Batter）（英、美、加）巴特尔（人名）",
+    "usphone": "ˈbætər",
+    "ukphone": "ˈbætə(r)",
+    "createTime": "2026-10-09T01:55:34.965+0000"
+  },
+  {
+    "itemId": "a110de10f41759c4d5bd77c97368ab61",
+    "word": "skimmer",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.撇去浮物的人或物；水上飞机；剪嘴鸥；平顶宽边草帽；（非正式）紧身衣服；漏杓",
+    "usphone": "ˈskɪmər",
+    "ukphone": "ˈskɪmə(r)",
+    "createTime": "2026-10-09T01:55:23.375+0000"
+  },
+  {
+    "itemId": "6e01c8ca4bdbfb5af06a648dac5b6d05",
+    "word": "skim",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "v.（从液体表面）撇去（浮物）；掠过，擦过（表面）；<英>用（扁石）打水漂；略读，浏览；略微讨论（或处理）（skim over）；<非正式>（尤指一段时间内）挪用（小数额钱）；盗用（信用卡电子信息）\nn.液面上的表层物；浏览；脱脂品（尤指脱脂奶）\nadj.脱脂的；撇去浮沫的\n【名】 （Skim）（美）史奇姆（人名）",
+    "usphone": "skɪm",
+    "ukphone": "skɪm",
+    "createTime": "2026-10-09T01:55:14.636+0000"
+  },
+  {
+    "itemId": "9eb64c9a07059e78d561e63de95528df",
+    "word": "scum",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.浮渣，泡沫，浮垢；<非正式>人渣，败类，社会渣滓（集合名词）；<喻>糟粕\nvi.产生泡沫或浮渣；被浮渣覆盖，表面结垢\nvt.除去浮渣，清除浮垢",
+    "usphone": "skʌm",
+    "ukphone": "skʌm",
+    "createTime": "2026-10-09T01:55:02.324+0000"
+  },
+  {
+    "itemId": "61d48c74d7ee8f2baafb303c68b99427",
+    "word": "simmer",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "v.炖，煨；充满（难以控制的感情，尤指愤怒）；即将爆发，酝酿；息怒，平静（simmer down）\nn.小沸，即将沸腾状态\n【名】 （Simmer）（美、印、波、德）西梅（人名）",
+    "usphone": "ˈsɪmər",
+    "ukphone": "ˈsɪmə(r)",
+    "createTime": "2026-10-09T01:54:54.117+0000"
+  },
+  {
+    "itemId": "5a5c341d99284496fdb2af2f1dd6b75c",
+    "word": "seethe",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "vi.（液体）沸腾，冒泡，翻腾；（人）怒火中烧，内心激愤，激动（常与 with 连用）；（场所或人群）充满喧嚣的活动，涌动（常与 with 连用）\nvt.（旧或罕用）使浸透；使煮沸\nn.（书面）沸腾；骚动，激愤，感情等的迸发",
+    "usphone": "siːð",
+    "ukphone": "siːð",
+    "createTime": "2026-10-09T01:54:44.895+0000"
+  },
+  {
+    "itemId": "f6e40f763b9cd8f0d8bee2e6482c05cc",
+    "word": "tongs",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.[机]夹具；钳子（tong 的复数）\nv.用钳夹取（tong 的三单形式）",
+    "usphone": "tɑːŋz",
+    "ukphone": "tɒŋz",
+    "createTime": "2026-10-09T01:54:33.052+0000"
+  },
+  {
+    "itemId": "6a86396614e244fc68bec3e72c4c1bf7",
+    "word": "colander",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.滤器，滤锅，漏勺",
+    "usphone": "ˈkɑːləndər",
+    "ukphone": "ˈkʌləndə(r)",
+    "createTime": "2026-10-09T01:54:20.814+0000"
+  },
+  {
+    "itemId": "610779a159ea21366b47db982f66c148",
+    "word": "strainer",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.过滤器，滤网，漏勺：有孔眼的器具，用于分离液体与固体，工业/机械中亦称粗滤器；（机械/五金，较少用）松紧扣：张紧绳索、铁丝、皮带等的装置；（较少用）用力拉的人，拉紧者",
+    "usphone": "ˈstreɪnər",
+    "ukphone": "ˈstreɪnə(r)",
+    "createTime": "2026-10-09T01:54:05.117+0000"
+  },
+  {
+    "itemId": "2091025d6c197b05daaeb1ed1ef3fa1c",
+    "word": "crock",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.瓦罐，陶罐，坛子；（美国英语，非正式）胡说八道，胡扯（常作 a crock）；（英国英语，非正式）老朽的人或破旧的东西（如旧车，常用于 old crock）；碎瓦片，陶器碎片；（姓氏）克罗克，克洛克\nvt.（非正式）使衰弱，使身体垮掉（常作 crock up）\nvi.（非正式）变得衰弱，身体垮掉（常作 crock up）",
+    "usphone": "krɑːk",
+    "ukphone": "krɒk",
+    "createTime": "2026-10-09T01:53:50.152+0000"
+  },
+  {
+    "itemId": "490ffbeda13dd437b3ad86989ac0eddb",
+    "word": "cling film",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.（英）保鲜膜，塑料保鲜膜：一种薄而透明的塑料薄膜，用于包装食物或覆盖盛有食物的容器，以保持新鲜（美国英语常称 plastic wrap）。",
+    "usphone": "ˈklɪŋ fɪlm",
+    "ukphone": "ˈklɪŋ fɪlm",
+    "createTime": "2026-10-09T01:53:29.863+0000"
+  },
+  {
+    "itemId": "9af09000af9328fcc440e3285c5af3cb",
+    "word": "plastic wrap",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.（美国英语，不可数）保鲜膜，塑料膜：一种薄而透明、常具粘附性的塑料薄膜，用于包裹食物或覆盖盛有食物的容器以保持新鲜。",
+    "usphone": "ˈplæstɪk ræp",
+    "ukphone": "ˈplæstɪk ræp",
+    "createTime": "2026-10-09T01:53:17.718+0000"
+  },
+  {
+    "itemId": "e773475037eee52abffe1655f65b5fa0",
+    "word": "froth",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.（液体表面或液体中的）泡沫，泡；口沫，口吐的白沫；<喻>空洞无实质的东西，空谈；（金融）轻度泡沫，虚热\nvi.（液体）起泡沫，冒泡；（人、动物）吐白沫，口吐白沫\nvt.使生泡沫，使起泡",
+    "usphone": "frɔːθ",
+    "ukphone": "frɒθ",
+    "createTime": "2026-10-09T01:52:55.156+0000"
+  },
+  {
+    "itemId": "25f0eafe40f9116cbd792bc5f32bbbc8",
+    "word": "pot holder",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.防烫小布垫，隔热布垫",
+    "usphone": null,
+    "ukphone": null,
+    "createTime": "2026-10-09T01:52:29.405+0000"
+  },
+  {
+    "itemId": "944794b1054dd96e13bf82daa75166d2",
+    "word": "trivet",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.三脚火炉架；三脚架；（Trivet）人名；（英）特里维特",
+    "usphone": "ˈtrɪvɪt",
+    "ukphone": "ˈtrɪvɪt",
+    "createTime": "2026-10-09T01:52:18.476+0000"
+  },
+  {
+    "itemId": "3f194589155eec9f7e577d97b2c0a41c",
+    "word": "countertop",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.（主美）台面，尤指厨房的操作台面",
+    "usphone": "ˈkaʊntərtɑːp",
+    "ukphone": "ˈkaʊntətɒp",
+    "createTime": "2026-10-09T01:51:45.559+0000"
+  },
+  {
+    "itemId": "fdb3b00a2664db7c43f19c88268fcf9c",
+    "word": "sink",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "v.下沉，沉没；使失败，受挫；下降，下陷；倒下，坐下；衰退，恶化；渗透，渐渐陷入；减少，降低；（声音）变低，变小；堕落，沉沦；挖掘；插入，打入；投进，滚进；投资；<英，非正式>喝（酒）\nadj.<英>贫困的，贫民窟的\nn.水槽，水池；洼地，渗坑；<英，喻>位于社会贫困地区的学校或房产；<喻>藏垢的场所；<技>汇，壑\n【名】 （Sink）（美、英、罗）辛克（人名）",
+    "usphone": "sɪŋk",
+    "ukphone": "sɪŋk",
+    "createTime": "2026-10-09T01:51:24.049+0000"
+  },
+  {
+    "itemId": "44dea4947ddc501427252f616569fef5",
+    "word": "range hood",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.抽油烟机、吸油烟机（主要用于美式英语，英式英语中常称 cooker hood 或 extractor hood）",
+    "usphone": "reɪndʒ hʊd",
+    "ukphone": null,
+    "createTime": "2026-10-09T01:51:16.351+0000"
+  },
+  {
+    "itemId": "cb5efc692996c905fc565cf1e19ba4a5",
+    "word": "grater",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.擦菜器，食物磨碎器，刨丝器",
+    "usphone": "ˈɡreɪtər",
+    "ukphone": "ˈɡreɪtə(r)",
+    "createTime": "2026-10-09T01:51:03.285+0000"
+  },
+  {
+    "itemId": "b6456ae6c3bfa8092219cf009d0e2429",
+    "word": "chilli",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.辣椒；辣椒粉；（墨西哥）辣味肉末豆子",
+    "usphone": "ˈtʃɪli",
+    "ukphone": "ˈtʃɪli",
+    "createTime": "2026-10-09T01:50:41.144+0000"
+  },
+  {
+    "itemId": "0e04ae3aa539dc987068559cda5f2a1c",
+    "word": "soy sauce",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.酱油：一种棕色咸味液体调味品，由大豆和焙烤谷物（如小麦）在盐水中发酵制成，广泛用于亚洲烹饪；通常作不可数名词。",
+    "usphone": "ˌsɔɪ ˈsɔːs",
+    "ukphone": "ˌsɔɪ ˈsɔːs",
+    "createTime": "2026-10-09T01:50:31.789+0000"
+  },
+  {
+    "itemId": "9684dbacee92aceb274c1ad31d77dbec",
+    "word": "sesame",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.芝麻，胡麻；通行证",
+    "usphone": "ˈsesəmi",
+    "ukphone": "ˈsesəmi",
+    "createTime": "2026-10-09T01:49:38.076+0000"
+  },
+  {
+    "itemId": "4ddcb2e94fbda5fccc709c59415212e3",
+    "word": "cooking wine",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "料酒：一种用于烹饪的酒类，通常用于增添菜肴的香味和口感。",
+    "usphone": "ˈkʊkɪŋ waɪn",
+    "ukphone": null,
+    "createTime": "2026-10-09T01:49:19.543+0000"
+  },
+  {
+    "itemId": "a1f42398956315edde2e53a5e0f0122b",
+    "word": "starch",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.淀粉，含淀粉的食物；（浆衣服的）浆粉，淀粉浆；（喻）（风格、性格上的）古板，刻板，拘谨\nv.给……上浆；<美，非正式>（拳击手）击倒对手\n【名】 （Starch）（英）斯塔奇，（德、捷）施塔希（人名）",
+    "usphone": "stɑːrtʃ",
+    "ukphone": "stɑːtʃ",
+    "createTime": "2026-10-09T01:49:03.862+0000"
+  },
+  {
+    "itemId": "54e4d637285602f8ff80fda70848d5bc",
+    "word": "broccoli",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.花茎甘蓝，西兰花菜\n【名】  (Broccoli)（意、美）布罗科利（人名）",
+    "usphone": "ˈbrɑːkəli",
+    "ukphone": "ˈbrɒkəli",
+    "createTime": "2026-10-09T01:48:48.101+0000"
+  },
+  {
+    "itemId": "af6438235f7846c9cc5b5413c66e5de3",
+    "word": "broth",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.肉汤，清汤，高汤；（微生物学）液体培养基",
+    "usphone": "brɔːθ",
+    "ukphone": "brɒθ",
+    "createTime": "2026-10-09T01:48:30.704+0000"
+  },
+  {
+    "itemId": "f521ca152bbb072ffad82fc927e3c8ec",
+    "word": "fume",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "v.发怒，生气；冒气（或烟、汽）；熏（尤指木材）\nn.刺鼻（或有害）的气，烟\n【名】 （Fume）（美）不免（人名）",
+    "usphone": "fjuːm",
+    "ukphone": "fjuːm",
+    "createTime": "2026-10-09T01:48:15.409+0000"
+  },
+  {
+    "itemId": "0d0f82824f3c492006dd14e52f9e9804",
+    "word": "odor",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.气味（美国英语，英国英语作 odour，尤指难闻的气味）；名声，声望（常用于 in good/bad odor 等搭配）；（Odor）人名，尤指匈牙利姓氏欧多尔",
+    "usphone": "ˈoʊdər",
+    "ukphone": "ˈəʊdə(r)",
+    "createTime": "2026-10-09T01:47:58.996+0000"
+  },
+  {
+    "itemId": "cc9614401bcb917ef2facd96be823144",
+    "word": "julienne",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.切成细丝或细长条的蔬菜等食物（常作配菜或装饰）；加入蔬菜细丝的清汤（即什锦菜丝汤）；（Julienne）（法）朱利恩（人名）\nv.把（蔬菜等食物）切成细丝或细长条\nadj.（蔬菜）切成细长条或细丝的",
+    "usphone": "ˌdʒuːliˈen",
+    "ukphone": "ˌdʒuːlɪˈen",
+    "createTime": "2026-10-09T01:47:28.671+0000"
+  },
+  {
+    "itemId": "c7f023d607a08469f17353772fc29ee2",
+    "word": "mince",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "v.（用机器）切碎，绞碎；装腔作势地小步快走；矫揉做作地说\nn.<英>绞碎的肉，肉末（尤指牛肉）（=ground beef）",
+    "usphone": "mɪns",
+    "ukphone": "mɪns",
+    "createTime": "2026-10-09T01:46:58.243+0000"
+  },
+  {
+    "itemId": "78f34568e6213905ad4f05734fb716e0",
+    "word": "dainty",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.秀丽的，小巧精美的，娇美漂亮的；讲究的，挑剔的；美味的，可口的\nn.美味，精美食品",
+    "usphone": "ˈdeɪnti",
+    "ukphone": "ˈdeɪnti",
+    "createTime": "2026-10-09T01:46:45.915+0000"
+  },
+  {
+    "itemId": "ce014052d7d74bdb3f2231ee90c4e877",
+    "word": "porcelain",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.瓷；瓷器\nadj.瓷制的",
+    "usphone": "ˈpɔːrsəlɪn",
+    "ukphone": "ˈpɔːsəlɪn",
+    "createTime": "2026-10-09T01:45:56.810+0000"
+  },
+  {
+    "itemId": "d05348aec4d65c45905ebd2bc3933992",
+    "word": "antique",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.古老的，古董的；老式的，过时的；（木器表面罩漆工艺）仿古的，古式的；年久的，破旧的\nn.古物，古董；古式（尤指古希腊、古罗马的雕刻、建筑等）；西文粗体字体\nv.以仿古式样制作；觅购古玩",
+    "usphone": "ænˈtiːk",
+    "ukphone": "ænˈtiːk",
+    "createTime": "2026-10-09T01:45:26.795+0000"
+  },
+  {
+    "itemId": "0100db4f566db0a2ca61fb3d36f46113",
+    "word": "blanch",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "vt.漂白，使变白；焯（把蔬菜等放在沸水中略微一煮）\nvi.漂白；发白，变白（尤指因恐惧或震惊而脸色突然变苍白）；（常与 at 连用）畏缩，回避\nn.铅矿石；（Blanch）人名（英、西译布兰奇，葡译布兰什，瑞典译布兰克）\nadj.漂白的；银白色的",
+    "usphone": "blæntʃ",
+    "ukphone": "blɑːntʃ",
+    "createTime": "2026-10-09T01:44:37.234+0000"
+  },
+  {
+    "itemId": "f53813d0a1af3932248c4694e06c7233",
+    "word": "scald",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "vt.烫伤；烫洗；把（牛奶等）加热至接近沸点；晒焦\nvi.烫伤；烫洗；煮沸\nn.烫伤；烫洗",
+    "usphone": "skɔːld",
+    "ukphone": "skɔːld",
+    "createTime": "2026-10-09T01:44:23.441+0000"
+  },
+  {
+    "itemId": "7d8223e755126f6d7473c9a5bd9676bc",
+    "word": "broil",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "v.烤，焙，炙烤（肉或鱼等）；（使）变得灼热\nn.炙烤，烧烤；灼热，酷热；〈旧〉争吵，争辩；骚动",
+    "usphone": "brɔɪl",
+    "ukphone": "brɔɪl",
+    "createTime": "2026-10-09T01:44:07.483+0000"
+  },
+  {
+    "itemId": "4609371b91b56219d4c924a635da0465",
+    "word": "marinate",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "v.（烹饪）把肉类、鱼类等食物浸泡在腌汁中腌渍，使其入味",
+    "usphone": "ˈmærɪneɪt",
+    "ukphone": "ˈmærɪneɪt",
+    "createTime": "2026-10-09T01:43:57.405+0000"
+  },
+  {
+    "itemId": "a46a630377e254f39083d83e8e6cc0e1",
+    "word": "chill",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.寒冷，寒意；着凉，受寒；害怕，担心；冷漠，敌意；冷模，冷模部件\nv.（使）冷却，冰镇；使很冷；惊吓，使恐惧；<非正式>放松；（使）沮丧，（使）扫兴\nadj.冷飕飕的；令人紧张的，令人害怕的",
+    "usphone": "tʃɪl",
+    "ukphone": "tʃɪl",
+    "createTime": "2026-10-09T01:43:40.152+0000"
+  },
+  {
+    "itemId": "17944835d7139f3b92685be041761268",
+    "word": "sear",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "vt.烤焦，烧焦，烧灼；使……枯萎，使……干枯\nvi.烧焦，被灼烧；干枯，枯萎，凋谢\nadj.<书面>枯萎的，干枯的；烤焦的，烧焦的\nn.灼痕，烧焦痕迹，烙印；（枪械）扣机，击发阻铁；（Sear）西尔（英语姓氏）",
+    "usphone": "sɪr",
+    "ukphone": "sɪə(r)",
+    "createTime": "2026-10-09T01:43:31.359+0000"
+  },
+  {
+    "itemId": "37647bdedac50b76ddcd0872b6ffc845",
+    "word": "mash",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.糊状物，泥状物；饲料；麦芽浆，醪液；（Mash，英）人名：马什\nvt.捣碎，把…捣成糊状；调情",
+    "usphone": "mæʃ",
+    "ukphone": "mæʃ",
+    "createTime": "2026-10-09T01:43:20.048+0000"
+  },
+  {
+    "itemId": "03aa6a359ca925a83021b63a8e8d5a76",
+    "word": "crush",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "v.压坏，挤压变形；捣碎，碾成粉末；把……挤入，将……塞进（狭小的空间内）；（使）变皱，起皱；制服，镇压；使心烦意乱，使消沉\nn.拥挤的人群；（对某人短暂的）热恋，迷恋；迷恋对象；果汁饮料；（牛，羊的）分群栏",
+    "usphone": "krʌʃ",
+    "ukphone": "krʌʃ",
+    "createTime": "2026-10-09T01:43:11.187+0000"
+  },
+  {
+    "itemId": "804f702b199105c58917a8f38156085b",
+    "word": "umami",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.（食物的）鲜味，一种与甜、酸、苦、咸并列的基本味觉\nadj.鲜味的",
+    "usphone": "uːˈmɑːmi",
+    "ukphone": "uːˈmɑːmi",
+    "createTime": "2026-10-09T01:42:43.657+0000"
+  },
+  {
+    "itemId": "886cfbadbd463e31682e8e70c328c9bc",
+    "word": "greasy",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.沾油脂的，油污的；含脂肪的，油腻的；油性的；滑的；圆滑的，虚情假意的",
+    "usphone": "ˈɡriːsi",
+    "ukphone": "ˈɡriːsi",
+    "createTime": "2026-10-09T01:42:22.475+0000"
+  },
+  {
+    "itemId": "e11c75a18012cb9ba6f9ca4f8109599b",
+    "word": "crunchy",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.硬脆的，松脆的；<美，非正式> 政治上自由主义且注重环保的",
+    "usphone": "ˈkrʌntʃi",
+    "ukphone": "ˈkrʌntʃi",
+    "createTime": "2026-10-09T01:41:53.902+0000"
+  },
+  {
+    "itemId": "a0868161ed7e7341df73e7b87824f196",
+    "word": "funky",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.时髦的，新潮独特的；（爵士乐、布鲁斯或流行乐）节奏强劲的；恶臭的，难闻的；（外观、形式等）奇特的，古怪的；胆怯的，畏缩的",
+    "usphone": "ˈfʌŋki",
+    "ukphone": "ˈfʌŋki",
+    "createTime": "2026-10-09T01:41:08.043+0000"
+  },
+  {
+    "itemId": "7159af2384165224a8b9c6f29d016d51",
+    "word": "pancake",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.薄煎（烤，烙）饼；<美>（当早点吃的）厚煎饼（通常和枫糖浆一起食用）；（尤为演员化装用的）粉饼；平坠降落（同 pancake landing）\nv.（飞机）平坠降落；（飞行员）驾机平坠降落；<非正式>使平展，把……压平",
+    "usphone": "ˈpænkeɪk",
+    "ukphone": "ˈpænkeɪk",
+    "createTime": "2026-10-09T01:40:37.143+0000"
+  },
+  {
+    "itemId": "90b98f70d1574efbe88e7932f0597581",
+    "word": "gravy",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.肉汁，肉卤（由烤肉渗出的汁液制成的调味汁，浇在菜肴上）；<非正式>意外之财，轻易得来的钱，油水（有时指不法利润）",
+    "usphone": "ˈɡreɪvi",
+    "ukphone": "ˈɡreɪvi",
+    "createTime": "2026-10-09T01:40:19.580+0000"
+  },
+  {
+    "itemId": "9a6b73d3a678f73e8ad10cf8c6c7df37",
+    "word": "gourmet",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.美食家；美食家\nadj.（食物）美味的；提供美食的",
+    "usphone": "ɡʊrˈmeɪ",
+    "ukphone": "ˈɡʊəmeɪ",
+    "createTime": "2026-10-09T01:39:54.917+0000"
+  },
+  {
+    "itemId": "1b573e231a75c614459c8bf0db904115",
+    "word": "botch",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "vt.<非正式>糟蹋，弄坏，搞砸（常作 botch up）；拙笨地修补；拙劣地拼凑\nvi.<非正式>拙笨地修补；弄坏某事物\nn.<非正式>难看的补缀，笨拙的修补；笨拙的工作（make a botch of sth 意为把某事物弄得一团糟）",
+    "usphone": "bɑːtʃ",
+    "ukphone": "bɒtʃ",
+    "createTime": "2026-10-09T01:39:16.384+0000"
+  },
+  {
+    "itemId": "8684cd8c6bd3111afe67b16ae41fd549",
+    "word": "stain",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "v.（被）玷污，留下污渍；给……染色（或着色）；玷污，败坏（名声等）\nn.污点，污渍；染色剂，着色剂；（名声上的）污点；（纹章）（纹章和徽章的）辅助色，次要颜色（尤指棕褐色和血红色）",
+    "usphone": "steɪn",
+    "ukphone": "steɪn",
+    "createTime": "2026-10-09T01:39:05.491+0000"
+  },
+  {
+    "itemId": "c9993928eed33bbfb92a3c36aca8f3d7",
+    "word": "bland",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.平淡的，枯燥乏味的；（食品，饮料）未加调料的，清淡的；沉稳的，无动于衷的；（评论或话语）温和的，无关痛痒的\n【名】 （Bland）（英）布兰德（人名）",
+    "usphone": "blænd",
+    "ukphone": "blænd",
+    "createTime": "2026-10-09T01:38:54.817+0000"
+  },
+  {
+    "itemId": "2516e54552d18b880586b4bcebb9e3bf",
+    "word": "cauterize",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "vt.烧灼，腐蚀；使麻木，使冷酷",
+    "usphone": "ˈkɔːtəraɪz",
+    "ukphone": "ˈkɔːtəraɪz",
+    "createTime": "2026-10-09T01:38:42.979+0000"
+  },
+  {
+    "itemId": "58aabcd12ab3ed8a1dc11fa9c5f215ae",
+    "word": "fastidious",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.一丝不苟的，严谨细致的；挑剔的，苛求的，难取悦的；（微生物等）苛养的，需要复杂营养的",
+    "usphone": "fəˈstɪdiəs",
+    "ukphone": "fæˈstɪdiəs",
+    "createTime": "2026-10-09T01:38:24.325+0000"
+  },
+  {
+    "itemId": "392c9fbe249cf4fe0531102e6aa529ac",
+    "word": "soy",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.大豆，豆制品（soya 的别名）；酱油\n【名】 （Soy）（英、土）索伊，（匈）绍伊，（老）隋（人名）",
+    "usphone": "sɔɪ",
+    "ukphone": "sɔɪ",
+    "createTime": "2026-10-09T01:38:06.811+0000"
+  },
+  {
+    "itemId": "d986a8b65015561bb66365ebb079825e",
+    "word": "hallmark",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.特点，特征；（金银制品上标明纯度及制作时间、地点的）印记\nv.给……打金银纯度印记；使具有……特征\n【名】 （Hallmark）（英）霍尔马克（人名）",
+    "usphone": "ˈhɔːlmɑːrk",
+    "ukphone": "ˈhɔːlmɑːk",
+    "createTime": "2026-10-09T01:37:55.589+0000"
+  },
+  {
+    "itemId": "fcd075bc43008e5b75e103306ae9487a",
+    "word": "gourd",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.葫芦，葫芦科植物；（用作盛水容器的）瓢；脑瓜\n【名】 （Gourd）（法）古尔，（英）古尔德（人名）",
+    "usphone": "ɡʊrd",
+    "ukphone": "ɡʊəd",
+    "createTime": "2026-10-09T01:37:42.635+0000"
+  },
+  {
+    "itemId": "b21942d7a991af62e54787d4e284d00d",
+    "word": "platter",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.大浅盘；唱片；唱机转盘；（Platter）人名；（英、法、德）普拉特",
+    "usphone": "ˈplætər",
+    "ukphone": "ˈplætə(r)",
+    "createTime": "2026-10-09T01:37:24.583+0000"
+  },
+  {
+    "itemId": "8154ff67e2fd8e656d728c5f9bc02379",
+    "word": "lentil",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.兵豆，小扁豆（可食用种子，常作复数）；兵豆，小扁豆（一年生草本植物）",
+    "usphone": "ˈlentl",
+    "ukphone": "ˈlentl",
+    "createTime": "2026-10-09T01:37:15.378+0000"
+  },
+  {
+    "itemId": "2a482548d4fd0442810c0507244e8691",
+    "word": "pulpy",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.柔软湿润而呈果肉状、泥状或纸浆状的；（指小说、电影等通俗作品，常含贬义）耸人听闻的，低俗刺激的",
+    "usphone": "ˈpʌlpi",
+    "ukphone": "ˈpʌlpi",
+    "createTime": "2026-10-09T01:36:59.700+0000"
+  },
+  {
+    "itemId": "4b225490d0b4a6b5bfcb728cfec28adf",
+    "word": "groovy",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.<旧，非正式>时髦的，吸引人的；令人快乐的，出色的",
+    "usphone": "ˈɡruːvi",
+    "ukphone": "ˈɡruːvi",
+    "createTime": "2026-10-09T01:36:43.100+0000"
+  },
+  {
+    "itemId": "a1a7009ed111589e302bb0cc81b99504",
+    "word": "oxidation",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.（化学）氧化，氧化作用，氧化反应",
+    "usphone": "ˌɑːksɪˈdeɪʃn",
+    "ukphone": "ˌɒksɪˈdeɪʃn",
+    "createTime": "2026-10-08T12:56:57.547+0000"
+  },
+  {
+    "itemId": "bc029838692066aa5f1dd7c16993aff4",
+    "word": "ferment",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "v.（使）发酵；挑起，激起（麻烦，动乱）\nn.动荡，骚乱；<古>酵素，酶；发酵\n【名】  （Ferment）（法）费尔芒（人名）",
+    "usphone": "fərˈment",
+    "ukphone": "fəˈment",
+    "createTime": "2026-10-08T12:56:37.160+0000"
+  },
+  {
+    "itemId": "1ebb536fdf3ea3bc389103038840346f",
+    "word": "soup stock",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "汤底：用于烹制各种汤类菜肴的基础汤汁，通常由肉类、骨头、蔬菜等原料熬制而成。",
+    "usphone": null,
+    "ukphone": null,
+    "createTime": "2026-10-08T12:55:03.495+0000"
+  },
+  {
+    "itemId": "903ab2c73d8ed6e9514d5bb70d5ab557",
+    "word": "floe",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.浮冰，大浮冰；（Floe）人名（英：弗洛）",
+    "usphone": "floʊ",
+    "ukphone": "fləʊ",
+    "createTime": "2026-10-08T12:54:01.520+0000"
+  },
+  {
+    "itemId": "196b3e80637d5754ea9de84d695ae205",
+    "word": "fungus",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.真菌，真菌类植物；霉菌；（尤指鱼的）真菌感染；迅速出现的令人讨厌的东西",
+    "usphone": "ˈfʌŋɡəs",
+    "ukphone": "ˈfʌŋɡəs",
+    "createTime": "2026-10-08T12:53:43.688+0000"
+  },
+  {
+    "itemId": "1cf7b1a2c053ce8593c62d26c288ae6f",
+    "word": "delectable",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.（尤指食物或饮料）美味的，可口的；令人愉快的，使人愉悦的；（指人，常带幽默或文雅色彩）迷人的，性感的",
+    "usphone": "dɪˈlektəb(ə)l",
+    "ukphone": "dɪˈlektəbl",
+    "createTime": "2026-10-08T12:53:20.390+0000"
+  },
+  {
+    "itemId": "b53fa1c9c249e6ea225755327b7652d5",
+    "word": "rancid",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.酸败的，腐臭的，哈喇的；令人作呕的，讨厌的",
+    "usphone": "ˈrænsɪd",
+    "ukphone": "ˈrænsɪd",
+    "createTime": "2026-10-08T10:14:58.089+0000"
+  },
+  {
+    "itemId": "d08cc2477fd5d4b625077253ad16ae58",
+    "word": "rinse",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "v.（用清水）冲洗；（用其他液体）洗；把（肥皂、污垢等）洗掉（rinse sth. off/out）；漱（口）；染发\nn.冲洗；头发定型剂，染发剂；（清洗用的）液体",
+    "usphone": "rɪns",
+    "ukphone": "rɪns",
+    "createTime": "2026-10-08T10:04:05.456+0000"
+  },
+  {
+    "itemId": "45684b2c60e4194d8bd9bce02583e9e4",
+    "word": "yeast",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.酵母菌；酵母（含酵母菌的发酵剂，用于发面和酿酒）；酵母片；（比喻）引起骚动或变化的因素；（旧用或文学）泡沫，浮沫\nv.（罕）发酵；起泡沫；加入酵母使发酵",
+    "usphone": "jiːst",
+    "ukphone": "jiːst",
+    "createTime": "2026-10-04T04:24:38.959+0000"
+  },
+  {
+    "itemId": "6e4a142bcc541e58dfdde6c932a0fb01",
+    "word": "spatula",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.（烹饪用）锅铲，小铲，刮铲；用于搅拌、涂抹或刮取软质材料的抹刀；（医学）压舌板",
+    "usphone": "ˈspætʃələ",
+    "ukphone": "ˈspætʃələ",
+    "createTime": "2026-09-30T05:38:22.103+0000"
+  },
+  {
+    "itemId": "a8a00d28985b088b42441d0d7c8b473e",
+    "word": "spell",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.一段时间；（疾病突然的）一次发作；咒语，符咒，着魔；魅力，魔力；轮班；<澳>休息期；（板球）（一个投手的）一轮投球时间；木片\nv.拼写，拼缀出（单词）；拼作，拼成；招致，意味着（通常指坏事）；具有……的显著特征；替换，顶替；<澳>稍事休息\n【名】 （Spell）斯佩尔（人名）",
+    "usphone": "spel",
+    "ukphone": "spel",
+    "createTime": "2026-09-29T23:43:00.626+0000"
+  },
+  {
+    "itemId": "8579b87204c1715c0db1b4d53851d3b9",
+    "word": "installment",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.分期付款；每期应付款项；（连载或系列作品的）一期，一集；部分；安装；就职",
+    "usphone": "ɪnˈstɔːlmənt",
+    "ukphone": "ɪnˈstɔːlmənt",
+    "createTime": "2026-09-28T08:05:29.177+0000"
+  },
+  {
+    "itemId": "4471810e5f9f0cc6565d4e3b6695f8b3",
+    "word": "mishap",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.不幸事故，小事故，灾祸；晦气，厄运",
+    "usphone": "ˈmɪshæp",
+    "ukphone": "ˈmɪshæp",
+    "createTime": "2026-09-28T01:02:27.846+0000"
+  },
+  {
+    "itemId": "630ee43aad7e5831f1e9da886f8127ed",
+    "word": "verdant",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.青翠的，翠绿的；没有经验的，不老练的\nn.（Verdant）韦尔当（法语姓氏）",
+    "usphone": "ˈvɜːrd(ə)nt",
+    "ukphone": "ˈvɜːd(ə)nt",
+    "createTime": "2026-09-28T01:02:04.205+0000"
+  },
+  {
+    "itemId": "7729d9df1c96a117698d65a133c95646",
+    "word": "gag",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.塞口物；（非正式）笑话，噱头；（美式非正式）恶作剧；言论限制，封口令，钳制言论；讨论终结；（牙科）张口器；（Gag）（美）加格（人名）\nv.塞住……的口；钳制……的言论；作呕；窒息；使窒息，使作呕；（非正式）插科打诨，讲笑话\nabbr.糖胺聚糖（glycosaminoglycan）",
+    "usphone": "ɡæɡ",
+    "ukphone": "ɡæɡ",
+    "createTime": "2026-09-28T01:01:49.146+0000"
+  },
+  {
+    "itemId": "8eaf480ea57136c5dfbd94f63216b614",
+    "word": "luxuriant",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.（草木等）繁茂的，葱茏的；（须发等）浓密的；丰富的，华丽的，奢华的；（土地）肥沃的",
+    "usphone": "lʌɡˈʒʊriənt",
+    "ukphone": "lʌɡˈʒʊəriənt",
+    "createTime": "2026-09-28T01:01:35.492+0000"
+  },
+  {
+    "itemId": "3dd2660b0e5fb8cee254ce56118f6c3d",
+    "word": "ornate",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.装饰华丽的，华丽的；（指文体、语言）词藻华丽的，绚丽的",
+    "usphone": "ɔːrˈneɪt",
+    "ukphone": "ɔːˈneɪt",
+    "createTime": "2026-09-28T01:01:09.704+0000"
+  },
+  {
+    "itemId": "4328a18075d28f85b34ffb847ed41345",
+    "word": "prose",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.散文，白话文；（尤指待翻译的）一段散文；平淡乏味的文章（或话语，表达法）\nv.冗长乏味地说；<旧> 把……写成散文，把……改写成散文；写散文\nadj.散文的，散文式的；平凡的，乏味的",
+    "usphone": "proʊz",
+    "ukphone": "prəʊz",
+    "createTime": "2026-09-28T01:00:57.249+0000"
+  },
+  {
+    "itemId": "1ab5fa443425965d6fd3a9ff474c6a2a",
+    "word": "bicker",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "v.（为小事）争吵，斗嘴，拌嘴（常与 about 或 over 连用）；（诗、文）（溪水等）潺潺而流；（诗、文）（火、光）闪耀，闪动\nn.（为小事发生的）吵嘴，口角；Bicker（美、英、德）比克尔（人名）",
+    "usphone": "ˈbɪkər",
+    "ukphone": "ˈbɪkə(r)",
+    "createTime": "2026-09-28T00:58:20.236+0000"
+  },
+  {
+    "itemId": "d39629fe5685810b4df74c431556632d",
+    "word": "petty",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.不重要的，琐碎的，小的；小气的，小心眼的；次要的，职位低的；（罪行）轻微的\n【名】 （Petty）（英、法）佩蒂（人名）",
+    "usphone": "ˈpeti",
+    "ukphone": "ˈpeti",
+    "createTime": "2026-09-28T00:57:45.559+0000"
+  },
+  {
+    "itemId": "dc6e981856efb7cf902e73f3b3743467",
+    "word": "pander",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "vi.迎合；勾引；怂恿；拉皮条\nn.怂恿者；拉皮条者；老鸨\nvt.为……拉皮条\nn.（Pander）人名；（德、俄）潘德尔",
+    "usphone": "ˈpændər",
+    "ukphone": "ˈpændə(r)",
+    "createTime": "2026-09-27T23:30:27.753+0000"
+  },
+  {
+    "itemId": "cc07a87579104e7e765be3a6881a258b",
+    "word": "gratify",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "vt.使高兴，使满意；满足（愿望、需要等）",
+    "usphone": "ˈɡrætɪfaɪ",
+    "ukphone": "ˈɡrætɪfaɪ",
+    "createTime": "2026-09-24T01:34:41.125+0000"
+  },
+  {
+    "itemId": "56e6cd9c5f59b71dd1dd9a3235f6966a",
+    "word": "whim",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.一时的兴致，突发的奇想",
+    "usphone": "wɪm",
+    "ukphone": "wɪm",
+    "createTime": "2026-09-24T01:34:23.398+0000"
+  },
+  {
+    "itemId": "89bb7b0f1217e0f185a2d64e8f60d2b7",
+    "word": "funnel",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.漏斗；漏斗状物；（船、蒸汽机车上的）烟囱\nv.通过漏斗，穿过狭窄通道；输送，传送（金钱、货物或信息）；（一端逐渐扩大或收缩）形成漏斗状",
+    "usphone": "ˈfʌn(ə)l",
+    "ukphone": "ˈfʌn(ə)l",
+    "createTime": "2026-09-24T01:34:11.962+0000"
+  },
+  {
+    "itemId": "cae285d969be26c8f57b03914c00abf6",
+    "word": "sponge",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.（擦洗用的天然或人造的）海绵块；（用海绵或布）擦拭，擦洗；海绵蛋糕，松软布丁；依赖他人生活的寄生虫，揩油者；海绵（一种海洋软体动物）；（女用）避孕海绵；海绵填料；金属绵\nv.用海绵擦洗；用湿布（或海绵）擦掉，揩去；白吃，揩油；用海绵抹（漆）",
+    "usphone": "spʌndʒ",
+    "ukphone": "spʌndʒ",
+    "createTime": "2026-09-24T01:33:54.371+0000"
+  },
+  {
+    "itemId": "a0db4230acd8e83ccd58cce8714d7446",
+    "word": "pimple",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.疙瘩，（医）丘疹，面疱（痘痘）",
+    "usphone": "ˈpɪmpl",
+    "ukphone": "ˈpɪmpl",
+    "createTime": "2026-09-24T01:33:45.155+0000"
+  },
+  {
+    "itemId": "8f2060ab2f78ebf480001bdcee8990f5",
+    "word": "stamina",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.耐力，持久力，毅力；雄蕊（stamen 的复数）\n【名】 （Stamina）（俄、加、美）史大弥娜（人名）",
+    "usphone": "ˈstæmɪnə",
+    "ukphone": "ˈstæmɪnə",
+    "createTime": "2026-09-24T01:33:28.049+0000"
+  },
+  {
+    "itemId": "2563048076ddc1a11d16f5be2d6da66d",
+    "word": "umpire",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.（体育比赛中的）裁判；仲裁人，公断人\nv.在……中担任裁判",
+    "usphone": "ˈʌmpaɪər",
+    "ukphone": "ˈʌmpaɪə(r)",
+    "createTime": "2026-09-24T01:33:09.197+0000"
+  },
+  {
+    "itemId": "9eb0b4199128bd634796fcac66e96a3f",
+    "word": "annul",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "vt.取消，废除，宣告无效",
+    "usphone": "əˈnʌl",
+    "ukphone": "əˈnʌl",
+    "createTime": "2026-09-23T03:15:11.339+0000"
+  },
+  {
+    "itemId": "25027b179c724c58e51e2b6ffed57f89",
+    "word": "hoard",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.贮存，秘藏；（窖藏硬币或贵重器物的）古代宝窟；情报（库）\nv.贮藏，囤积\n【名】 （Hoard）（美）霍尔德（人名）",
+    "usphone": "hɔːrd",
+    "ukphone": "hɔːd",
+    "createTime": "2026-09-23T02:15:03.318+0000"
+  },
+  {
+    "itemId": "7f3c701e63ac94042dc36fe26015938f",
+    "word": "gale",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.大风，狂风；海上风暴；一阵笑声（或哭声等）\n【名】 （Gale）（西、葡、塞）加莱，（英）盖尔（人名）",
+    "usphone": "ɡeɪl",
+    "ukphone": "ɡeɪl",
+    "createTime": "2026-09-23T02:13:32.407+0000"
+  },
+  {
+    "itemId": "f8856e28981c39738af47de65ed60202",
+    "word": "pulsar",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.（天文学）脉冲星",
+    "usphone": "ˈpʌlsɑːr",
+    "ukphone": "ˈpʌlsɑː(r)",
+    "createTime": "2026-09-23T00:20:45.453+0000"
+  },
+  {
+    "itemId": "98e2d009891c68cdc15ecaec4362a4e6",
+    "word": "isotherm",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.（气象）等温线；（物理、化学）恒定温度下表示两个变量之间关系的等温线",
+    "usphone": "ˈaɪsəθɜːrm",
+    "ukphone": "ˈaɪsəθɜːm",
+    "createTime": "2026-09-22T12:35:46.157+0000"
+  },
+  {
+    "itemId": "4c4b0dc973fc13078c4bc2922e11671b",
+    "word": "isobar",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.[气象][力] 等压线；同重核；同重元素",
+    "usphone": "ˈaɪsəbɑːr",
+    "ukphone": "ˈaɪsəbɑː(r)",
+    "createTime": "2026-09-22T12:35:08.815+0000"
+  },
+  {
+    "itemId": "228ea60f47b4f3eaaa341ff033cc91bf",
+    "word": "precipitation",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.降水（如雨，雪，冰雹）；沉淀，淀析；仓促，鲁莽，轻率；坠落",
+    "usphone": "prɪˌsɪpɪˈteɪʃ(ə)n",
+    "ukphone": "prɪˌsɪpɪˈteɪʃ(ə)n",
+    "createTime": "2026-09-22T12:34:31.540+0000"
+  },
+  {
+    "itemId": "7ddca0b41ed0d5a38374537a6dac2ee9",
+    "word": "Fahrenheit",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.华氏温度计的；华氏的\nn.华氏温度计；华氏温标",
+    "usphone": "ˈfærənhaɪt",
+    "ukphone": "ˈfærənhaɪt",
+    "createTime": "2026-09-22T12:32:53.449+0000"
+  },
+  {
+    "itemId": "4bdd9d4c7248d10052e87341f1a2de03",
+    "word": "celsius",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.摄氏的，摄氏温标的\nn.摄氏度；摄氏温度（摄氏温标）；摄尔西乌斯（瑞典天文学家）",
+    "usphone": "ˈselsiəs",
+    "ukphone": "ˈselsiəs",
+    "createTime": "2026-09-22T12:32:27.273+0000"
+  },
+  {
+    "itemId": "3c237303173a3bf3d6be0ab187e8d8d5",
+    "word": "anemometer",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.风速计，风速表，风力计",
+    "usphone": "ˌænɪˈmɑːmɪtər",
+    "ukphone": "ˌænɪˈmɒmɪtə(r)",
+    "createTime": "2026-09-22T12:31:07.401+0000"
+  },
+  {
+    "itemId": "4240fc4be50d698e52cece8417a638b1",
+    "word": "hygrometer",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.湿度计，湿度表",
+    "usphone": "haɪˈɡrɑːmətər",
+    "ukphone": "haɪˈɡrɒmɪtə(r)",
+    "createTime": "2026-09-22T12:30:26.584+0000"
+  },
+  {
+    "itemId": "df5830c6914b67c8a2352fc50a3edf4e",
+    "word": "thermometer",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.温度计，寒暑表，体温计",
+    "usphone": "θərˈmɑːmɪtər",
+    "ukphone": "θəˈmɒmɪtə(r)",
+    "createTime": "2026-09-22T12:29:32.589+0000"
+  },
+  {
+    "itemId": "a2b1e742dc7c42eb9aa104d26070249f",
+    "word": "barometer",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.气压计，晴雨表；变化的标志，指标",
+    "usphone": "bəˈrɑːmɪtər",
+    "ukphone": "bəˈrɒmɪtə(r)",
+    "createTime": "2026-09-22T12:29:09.855+0000"
+  },
+  {
+    "itemId": "435cb389cc4aac87814ff9999817242c",
+    "word": "balmy",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.（天气、气候等）温和的，宜人的，温暖舒适的；（文学或较正式）芳香的，有香气的；（非正式，尤用于英国）疯疯癫癫的，头脑不正常的（亦作 barmy）；（文学或旧式）有安抚作用的（旧译“止痛的”）",
+    "usphone": "ˈbɑːmi",
+    "ukphone": "ˈbɑːmi",
+    "createTime": "2026-09-22T12:17:46.011+0000"
+  },
+  {
+    "itemId": "1176628351399b5869f36b7def30bdf6",
+    "word": "muggy",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.闷热而潮湿的",
+    "usphone": "ˈmʌɡi",
+    "ukphone": "ˈmʌɡi",
+    "createTime": "2026-09-22T12:15:13.005+0000"
+  },
+  {
+    "itemId": "edca70d72420ad77377a4441db6fd74c",
+    "word": "overcast",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.阴天的，阴暗的；愁闷的；包缝的\nv.（以云或阴影）遮蔽； 使沮丧；锁（边），包缝（边）\nn.蔽天乌云",
+    "usphone": "ˌoʊvərˈkæst",
+    "ukphone": "ˌəʊvəˈkɑːst",
+    "createTime": "2026-09-22T12:14:51.985+0000"
+  },
+  {
+    "itemId": "fbc6c6024a47ce35de601087f3b9734a",
+    "word": "cumulonimbus",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.（气象）积雨云",
+    "usphone": "ˌkjuːməloʊˈnɪmbəs",
+    "ukphone": "ˌkjuːmələʊˈnɪmbəs",
+    "createTime": "2026-09-22T12:12:19.332+0000"
+  },
+  {
+    "itemId": "7aa99e75060714fd07d5210edbf140fb",
+    "word": "cirrus",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.（气象学）卷云，由冰晶组成的高空纤细白色丝缕状云；（动物学）触毛，某些无脊椎动物的细长柔韧附肢或纤毛聚合结构；（植物学）卷须，植物细长、常卷曲的攀援或缠绕结构。",
+    "usphone": "ˈsɪrəs",
+    "ukphone": "ˈsɪrəs",
+    "createTime": "2026-09-22T12:11:45.825+0000"
+  },
+  {
+    "itemId": "10169780f1caed66140e0f0a066b6bae",
+    "word": "sleet",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.雨夹雪，冻雨；（美式/气象用语）冰粒\nv.（以 it 作主语）下雨夹雪；（美式）下冰粒",
+    "usphone": "sliːt",
+    "ukphone": "sliːt",
+    "createTime": "2026-09-22T12:11:26.199+0000"
+  },
+  {
+    "itemId": "e82bc0a1c2f117fbd276d256877858cd",
+    "word": "haze",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.霾，烟雾；懵懂，迷糊\nv.变朦胧；<美>戏弄（大学新生，作为入学或入会仪式的一部分）；变糊涂；使劳累，使劳役折磨\n【名】 （Haze）（法）阿泽（人名）",
+    "usphone": "heɪz",
+    "ukphone": "heɪz",
+    "createTime": "2026-09-22T12:11:11.322+0000"
+  },
+  {
+    "itemId": "ae4a8efd95c90d9013e59cc37d0e5ac9",
+    "word": "stratus",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.（气象）层云：低空形成的一类灰色层状云，呈连续均匀分布；贴近地面形成时称雾或雾气。",
+    "usphone": "ˈstreɪtəs",
+    "ukphone": "ˈstrɑːtəs",
+    "createTime": "2026-09-22T12:10:36.115+0000"
+  },
+  {
+    "itemId": "8be120bb1c55dd77d778faf561f5c0ca",
+    "word": "cumulus",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.（气象）积云；堆积，堆积物；（生物学）卵丘（cumulus oophorus）；（首字母常大写）Cumulus Association（国际艺术设计院校联盟）",
+    "usphone": "ˈkjuːmjələs",
+    "ukphone": "ˈkjuːmjələs",
+    "createTime": "2026-09-22T12:10:25.834+0000"
+  },
+  {
+    "itemId": "cc94c41d99ffc933d4e6d233f43eda90",
+    "word": "drizzle",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "v.下毛毛雨，下蒙蒙细雨； （毛毛雨似的）洒落；（毛毛雨似的）洒落\nn.毛毛细雨，蒙蒙细雨；（烹）（浇在食品上的）液态调料细流",
+    "usphone": "ˈdrɪz(ə)l",
+    "ukphone": "ˈdrɪz(ə)l",
+    "createTime": "2026-09-22T12:02:39.431+0000"
+  },
+  {
+    "itemId": "fa5b124493fff9eeb89355bd96f1906c",
+    "word": "monsoon",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.季风，季候风；（印度等地的）雨季",
+    "usphone": "ˌmɑːnˈsuːn",
+    "ukphone": "ˌmɒnˈsuːn",
+    "createTime": "2026-09-22T12:01:19.832+0000"
+  },
+  {
+    "itemId": "39026bfdc1b427afcf1d329704f79b1e",
+    "word": "erode",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "v.侵蚀，腐蚀；削弱，降低",
+    "usphone": "ɪˈroʊd",
+    "ukphone": "ɪˈrəʊd",
+    "createTime": "2026-09-22T07:56:21.473+0000"
+  },
+  {
+    "itemId": "0a24ebbd4e2130f714eda695be8df9c3",
+    "word": "indulge",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "v.沉湎，沉溺；纵容，迁就；满足（情感、兴趣、欲望等）；参加，参与（尤指违法活动）",
+    "usphone": "ɪnˈdʌldʒ",
+    "ukphone": "ɪnˈdʌldʒ",
+    "createTime": "2026-09-22T07:56:07.190+0000"
+  },
+  {
+    "itemId": "947f7529f12b889a3aa9779525e20043",
+    "word": "textile",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.纺织物，织物；纺织业（textiles）；<非正式>着衣者，非自然主义者\nadj.纺织的；<非正式>非自然主义者的，限于着衣者的（裸体主义者用语）",
+    "usphone": "ˈtekstaɪl",
+    "ukphone": "ˈtekstaɪl",
+    "createTime": "2026-09-22T07:55:53.111+0000"
+  },
+  {
+    "itemId": "44ba8f1f89f3f621ad36b0f46bbe3620",
+    "word": "genre",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.体裁，类型；风俗画\nadj.属于某类型的，按某种风格创作的\n【名】 （Genre）（法）让尔（人名）",
+    "usphone": "ˈʒɑːnrə",
+    "ukphone": "ˈʒɒnrə",
+    "createTime": "2026-09-22T06:20:11.910+0000"
+  },
+  {
+    "itemId": "7c669d0119d7945e29bfea3bdac3d408",
+    "word": "fame",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.名誉，名气\nv.使闻名，使有名望",
+    "usphone": "feɪm",
+    "ukphone": "feɪm",
+    "createTime": "2026-09-22T06:15:40.305+0000"
+  },
+  {
+    "itemId": "88d8df36548099bc724a76c94ea8b07c",
+    "word": "bask",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "vi.晒太阳取暖；（常与 in 连用）享受，陶醉于（赞许、荣耀等），感到愉快或舒适\nvt.<罕>使……晒太阳，使暖和而舒适",
+    "usphone": "bæsk",
+    "ukphone": "bɑːsk",
+    "createTime": "2026-09-22T06:15:01.659+0000"
+  },
+  {
+    "itemId": "19bf017de74a753dadae9d93f7caffc9",
+    "word": "limelight",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.公众注意的中心；（舞台照明用的）石灰光，石灰光灯\nv.使成注目中心",
+    "usphone": "ˈlaɪmlaɪt",
+    "ukphone": "ˈlaɪmlaɪt",
+    "createTime": "2026-09-22T06:14:43.298+0000"
+  },
+  {
+    "itemId": "2859d1a1878de032cc6cf481ca5b9539",
+    "word": "thrust",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "v.猛推，猛塞；刺，扎；（人）推进，挤过；上伸，伸出；强使接受\nn.要点，要旨；猛推，刺；（飞机、火箭等的）驱动力，推力；强攻，挺进；（拱、椽的）侧向压力；（地质）冲断层，逆断层；苛评",
+    "usphone": "θrʌst",
+    "ukphone": "θrʌst",
+    "createTime": "2026-09-21T23:37:29.950+0000"
+  },
+  {
+    "itemId": "e9f6d681ec8ba4d5a16cece4c2be762a",
+    "word": "affectionate",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.表达爱意的，深情的",
+    "usphone": "əˈfekʃənət",
+    "ukphone": "əˈfekʃənət",
+    "createTime": "2026-09-21T09:16:51.908+0000"
+  },
+  {
+    "itemId": "6d3c85a756aca525636a23a61838159f",
+    "word": "insatiable",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.无法满足的，贪得无厌的",
+    "usphone": "ɪnˈseɪʃəb(ə)l",
+    "ukphone": "ɪnˈseɪʃəb(ə)l",
+    "createTime": "2026-09-21T09:16:30.385+0000"
+  },
+  {
+    "itemId": "a241ef27ddc9d80d75716fb28d812a75",
+    "word": "asphalt",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.沥青，柏油；沥青混凝土，沥青路面\nvt.以沥青铺（路面）\nadj.用柏油铺成的，沥青的",
+    "usphone": "ˈæsfɔːlt",
+    "ukphone": "ˈæsfælt",
+    "createTime": "2026-09-21T09:06:45.272+0000"
+  },
+  {
+    "itemId": "14ba0178a60e63f8f158ab59f0521c1a",
+    "word": "casket",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.棺材；骨灰盒；小箱\nvt.把……装进小箱；入殓",
+    "usphone": "ˈkæskɪt",
+    "ukphone": "ˈkɑːskɪt",
+    "createTime": "2026-09-21T08:30:18.328+0000"
+  },
+  {
+    "itemId": "09f4b36b0c3b4e60bc4ca2d843640c22",
+    "word": "hearse",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.灵车，柩车；棺材",
+    "usphone": "hɜːrs",
+    "ukphone": "hɜːs",
+    "createTime": "2026-09-21T08:28:50.179+0000"
+  },
+  {
+    "itemId": "eb0122a267cfe7c8d3fe18556d4b7e48",
+    "word": "lavender",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.薰衣草；干薰衣草花（用以熏香衣物等）；淡紫色；薰衣草香油精（=lavender oil）；用于类似植物名称；<非正式>女人气\nadj.淡紫色的\nv.用薰衣草熏香\n【名】 （Lavender）（英）拉文德（人名）",
+    "usphone": "ˈlævəndər",
+    "ukphone": "ˈlævəndə(r)",
+    "createTime": "2026-09-21T08:28:35.255+0000"
+  },
+  {
+    "itemId": "d8fd5a4c3219b447c6b7ced19c802e11",
+    "word": "aluminosilicate",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.[无化] 铝硅酸盐；铝矽酸盐",
+    "usphone": "əˌluːmənoʊˈsɪləkɪt; əˌluːmənoʊˈsɪləˌkeɪt",
+    "ukphone": "əˌluːmɪnə(ʊ)ˈsɪlɪkeɪt",
+    "createTime": "2026-09-21T08:23:59.384+0000"
+  },
+  {
+    "itemId": "fd8567913f02a264c0ab446e6e874988",
+    "word": "potassium",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.（化学）钾（碱金属元素，化学符号 K，原子序数 19）；（生理）钾离子（K+），维持细胞功能和体液平衡所必需的电解质",
+    "usphone": "pəˈtæsiəm",
+    "ukphone": "pəˈtæsiəm",
+    "createTime": "2026-09-21T08:22:58.179+0000"
+  },
+  {
+    "itemId": "88efaef59726bf762444600f6845a64c",
+    "word": "sodium",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.钠（一种化学元素，符号为 Na）\nadj.（发出橙色强光的）钠光的",
+    "usphone": "ˈsoʊdiəm",
+    "ukphone": "ˈsəʊdiəm",
+    "createTime": "2026-09-21T08:22:29.984+0000"
+  },
+  {
+    "itemId": "668dd40e4ff03c22cf5ffb8c72037ff9",
+    "word": "calcium",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.（化学元素）钙",
+    "usphone": "ˈkælsiəm",
+    "ukphone": "ˈkælsiəm",
+    "createTime": "2026-09-21T08:22:14.743+0000"
+  },
+  {
+    "itemId": "fe0dbc5f85f9410a5f4aa9833803d4bf",
+    "word": "ceramic",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.陶瓷制品，陶瓷器；制陶艺术\nadj.陶瓷的",
+    "usphone": "səˈræmɪk",
+    "ukphone": "səˈræmɪk",
+    "createTime": "2026-09-21T08:21:48.666+0000"
+  },
+  {
+    "itemId": "8e81f083ece1821e03b31656ee873a41",
+    "word": "shingle",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.（建筑，常作复数）木瓦，屋面板，墙面板；（不可数）海边或河边的粗砾，卵石，鹅卵石；砾石滩；（美国英语）小招牌（尤指医生或律师挂的营业招牌；常作 hang out one's shingle，指挂牌开业）\nvt.用木瓦（或盖板）覆盖（屋顶或墙面）",
+    "usphone": "ˈʃɪŋɡl",
+    "ukphone": "ˈʃɪŋɡl",
+    "createTime": "2026-09-21T08:12:59.800+0000"
+  },
+  {
+    "itemId": "383b2db231b5ab8a62e11843db247aa5",
+    "word": "transcend",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "v.超出，超越；胜过（某人），超过（某项成就）",
+    "usphone": "trænˈsend",
+    "ukphone": "trænˈsend",
+    "createTime": "2026-09-21T08:05:59.455+0000"
+  },
+  {
+    "itemId": "4835c1d60325efe7a62abf1fd2d2cea7",
+    "word": "diode",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.[电子] 二极管；（旧式）真空二极管",
+    "usphone": "ˈdaɪoʊd",
+    "ukphone": "ˈdaɪəʊd",
+    "createTime": "2026-09-20T04:36:45.214+0000"
+  },
+  {
+    "itemId": "e27a12cc5891525c77b1813d27857eee",
+    "word": "espionage",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.间谍行为，谍报活动",
+    "usphone": "ˈespiənɑːʒ",
+    "ukphone": "ˈespiənɑːʒ",
+    "createTime": "2026-09-18T08:36:15.424+0000"
+  },
+  {
+    "itemId": "d9fd3c1300dc81ffe826159ad5a7a806",
+    "word": "counterfeit",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.伪造的，假冒的；<古>假装的，虚假的\nv.伪造，仿造；佯作，假装；酷似\nn.伪造物，赝品",
+    "usphone": "ˈkaʊntərfɪt",
+    "ukphone": "ˈkaʊntəfɪt",
+    "createTime": "2026-09-18T08:35:59.321+0000"
+  },
+  {
+    "itemId": "4df78fb7ef4b42155ca66d2c79b4cad1",
+    "word": "forger",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.铁匠，锻工；伪造者，伪造犯；（人名） Forger：（英）福杰",
+    "usphone": "ˈfɔːrdʒər",
+    "ukphone": "ˈfɔːdʒə(r)",
+    "createTime": "2026-09-18T08:35:40.012+0000"
+  },
+  {
+    "itemId": "6169c120703210c15def685c3edf9cf0",
+    "word": "impersonate",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "vt.冒充，假扮（尤指为欺骗）；模仿，扮演（尤指为逗乐或表演）；拟人，人格化",
+    "usphone": "ɪmˈpɜːrsəneɪt",
+    "ukphone": "ɪmˈpɜːsəneɪt",
+    "createTime": "2026-09-18T08:35:28.430+0000"
+  },
+  {
+    "itemId": "6505ebe0b155440a8454c5b74387e44b",
+    "word": "unfold",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "v.打开，展开；呈现，逐渐明朗；发生，发展",
+    "usphone": "ʌnˈfoʊld",
+    "ukphone": "ʌnˈfəʊld",
+    "createTime": "2026-09-18T08:35:14.519+0000"
+  },
+  {
+    "itemId": "bab0d46f280f9638a6f618792d5feb27",
+    "word": "hinge",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.铰链，合叶；枢纽，关键；铰合部\nv.给（某物）装铰链",
+    "usphone": "hɪndʒ",
+    "ukphone": "hɪndʒ",
+    "createTime": "2026-09-18T08:35:05.318+0000"
+  },
+  {
+    "itemId": "9ec9db7f7f09b0d3b926374d330a84ac",
+    "word": "unravel",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "v.（使）解开，（使）松开；弄清，阐明；崩溃，失败",
+    "usphone": "ʌnˈræv(ə)l",
+    "ukphone": "ʌnˈræv(ə)l",
+    "createTime": "2026-09-18T08:34:12.749+0000"
+  },
+  {
+    "itemId": "184f3468700057dca806783d8c224fbe",
+    "word": "limbo",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.处于中间的或不定的状态（常作 in limbo，指悬而未决、被遗忘或前途未卜的境地）；林波舞，凌波舞（舞者后仰从横杆下穿过的加勒比舞蹈）；灵薄狱，地狱的边境（罗马天主教中未受洗的无罪灵魂所在之处）；监狱，监禁之处；放置丢弃物的场所；（Limbo）人名；（纳米）林博",
+    "usphone": "ˈlɪmboʊ",
+    "ukphone": "ˈlɪmbəʊ",
+    "createTime": "2026-09-18T08:34:02.897+0000"
+  },
+  {
+    "itemId": "358836edb9d335c6cdbeba7245783368",
+    "word": "totem",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.图腾，崇拜物，图腾形象；（引申）标志，象征物；（totem pole）图腾柱；<喻>等级，地位层级",
+    "usphone": "ˈtoʊtəm",
+    "ukphone": "ˈtəʊtəm",
+    "createTime": "2026-09-18T08:33:47.800+0000"
+  },
+  {
+    "itemId": "d73e707eae383bfa8f333916a6624571",
+    "word": "customs",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.海关；关税",
+    "usphone": "ˈkʌstəmz",
+    "ukphone": "ˈkʌstəmz",
+    "createTime": "2026-09-18T08:33:39.266+0000"
+  },
+  {
+    "itemId": "c770698e0ef2291d09f8b642dad0c658",
+    "word": "motif",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.主题，主旨，意念（文学、艺术作品中反复出现的母题）；图形，图案，花纹（用作装饰或艺术图案组成部分的反复出现的式样）；音乐动机，音型（构成乐曲主题的短小旋律或节奏片段）；基序，模体（生物化学、分子生物学中指生物大分子中反复出现的保守序列或结构模式）",
+    "usphone": "moʊˈtiːf",
+    "ukphone": "məʊˈtiːf",
+    "createTime": "2026-09-18T08:33:07.130+0000"
+  },
+  {
+    "itemId": "13c4636228d3dd0f93c798bc21f50710",
+    "word": "touchstone",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.试金石；检验标准（常与 of/for 连用）",
+    "usphone": "ˈtʌtʃstoʊn",
+    "ukphone": "ˈtʌtʃstəʊn",
+    "createTime": "2026-09-18T08:32:58.073+0000"
+  },
+  {
+    "itemId": "707014ad8f4a54c584e0d9d9ea6006db",
+    "word": "sedate",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.安静的，沉着的，庄重的；不慌不忙的，缓慢而从容的\nvt.给……服镇静剂，用药物使镇静",
+    "usphone": "sɪˈdeɪt",
+    "ukphone": "sɪˈdeɪt",
+    "createTime": "2026-09-18T08:19:32.975+0000"
+  },
+  {
+    "itemId": "73672f671a9ffca7dea7bd4a234d8883",
+    "word": "sham",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.假的东西，假象；骗子，假冒者；虚假的言行；（装饰）枕套（pillow sham 的简称）\nv.假装，佯作\nadj.虚假的，假装的\n【名】 （Sham）（英、印、毛里塔）沙姆（人名）",
+    "usphone": "ʃæm",
+    "ukphone": "ʃæm",
+    "createTime": "2026-09-18T02:02:07.483+0000"
+  },
+  {
+    "itemId": "1e0db7d3ecf872471404fa0f69a76d52",
+    "word": "ecological",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.生态的，生态学的；主张生态保护的",
+    "usphone": "ˌiːkəˈlɑːdʒɪk(ə)l",
+    "ukphone": "ˌiːkəˈlɒdʒɪk(ə)l",
+    "createTime": "2026-09-18T02:01:47.536+0000"
+  },
+  {
+    "itemId": "bea7a749735975c55a334d40a2e4b140",
+    "word": "erect",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "v.搭建，建造；使竖立，竖起；创立，建立；安装，装配；（使）勃起\nadj.竖直的，直立的；竖起的；勃起的，坚挺的",
+    "usphone": "ɪˈrekt",
+    "ukphone": "ɪˈrekt",
+    "createTime": "2026-09-18T02:01:34.625+0000"
+  },
+  {
+    "itemId": "692a522f9c080c66a9f462ed25bc4ab5",
+    "word": "dossier",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.档案，卷宗，案卷",
+    "usphone": "ˈdɔːsieɪ",
+    "ukphone": "ˈdɒsieɪ",
+    "createTime": "2026-09-18T02:01:21.455+0000"
+  },
+  {
+    "itemId": "2c63fd2ec8b3fe976155743419b2a128",
+    "word": "coarse",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.粗糙的，粗织的；粗的，大颗粒的；粗鲁的，粗俗的；（人的容貌）难看的，不雅的；（食物，饮料）粗劣的；<英>与钓淡水鱼有关的",
+    "usphone": "kɔːrs",
+    "ukphone": "kɔːs",
+    "createTime": "2026-09-18T02:01:11.615+0000"
+  },
+  {
+    "itemId": "d23f78f3d4826f3cc841c687da04075f",
+    "word": "last-ditch",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.孤注一掷的，坚持到最后的，最后防线的",
+    "usphone": "ˌlæst ˈdɪtʃ",
+    "ukphone": "ˌlɑːst ˈdɪtʃ",
+    "createTime": "2026-09-18T02:00:47.189+0000"
+  },
+  {
+    "itemId": "0dfc127c303f1c11764537d839fa8266",
+    "word": "trilogy",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.三部曲，三部剧",
+    "usphone": "ˈtrɪlədʒi",
+    "ukphone": "ˈtrɪlədʒi",
+    "createTime": "2026-09-18T02:00:27.946+0000"
+  },
+  {
+    "itemId": "c38f6d29c38a4a4e5b2507b349d1fc9f",
+    "word": "staple",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.（某国的）主要产品，支柱产品；主食；主要部份，重要内容；<史>（特定商品的）贸易中心；订书钉；U 形钉；（棉花、羊毛的）纤维（就其长度和细度而言）\nadj.主要生产的，大量生产的；主要的，常用的\nv.用订书钉订住；把……分级",
+    "usphone": "ˈsteɪp(ə)l",
+    "ukphone": "ˈsteɪp(ə)l",
+    "createTime": "2026-09-18T02:00:07.690+0000"
+  },
+  {
+    "itemId": "27cc163dfb840d4149e948124d856577",
+    "word": "manoeuvre",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.熟练（谨慎）的动作；军事演习；策略，花招；欺诈性操作\nv.（使谨慎或熟练地）移动；操纵，控制",
+    "usphone": "məˈnuːvər",
+    "ukphone": "məˈnuːvə(r)",
+    "createTime": "2026-09-18T01:59:40.987+0000"
+  },
+  {
+    "itemId": "b31005762e8c3905e98f65aa2f91d94d",
+    "word": "nitrogen",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.氮；氮气",
+    "usphone": "ˈnaɪtrədʒən",
+    "ukphone": "ˈnaɪtrədʒən",
+    "createTime": "2026-09-18T01:27:51.919+0000"
+  },
+  {
+    "itemId": "4d65eac374b8cf65be56cfaff2208f7e",
+    "word": "linger",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "v.继续存留，缓慢消失；流连，逗留；持续看（或思考）；苟延残喘；消磨，缓慢度过\n【名】 （Linger）（法）兰热，（德、捷、瑞典）林格（人名）",
+    "usphone": "ˈlɪŋɡər",
+    "ukphone": "ˈlɪŋɡə(r)",
+    "createTime": "2026-09-18T01:19:21.395+0000"
+  },
+  {
+    "itemId": "950299796806ba1e31bc581408a6f4f3",
+    "word": "suffocate",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "v.（使）窒息而死，（使）闷死；（使）呼吸困难，（使）憋闷；（受）束缚，（受）扼制",
+    "usphone": "ˈsʌfəkeɪt",
+    "ukphone": "ˈsʌfəkeɪt",
+    "createTime": "2026-09-18T01:14:28.420+0000"
+  },
+  {
+    "itemId": "6e62aa8a955d861adb16604ec07258b5",
+    "word": "okra",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.秋葵（咖啡黄葵），一种锦葵科一年生草本植物，结长绿色嫩荚，可作蔬菜食用；秋葵荚，即这种植物的可食用绿色长形嫩荚，可煮、炒、炸或用于汤和炖菜",
+    "usphone": "ˈoʊkrə",
+    "ukphone": "ˈəʊkrə; ˈɒkrə",
+    "createTime": "2026-09-18T01:14:08.891+0000"
+  },
+  {
+    "itemId": "a4d25d3dde68dd6e7a7370a904a723ad",
+    "word": "propaganda",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.宣传，鼓吹；（罗马天主教的）传信部（Propaganda）",
+    "usphone": "ˌprɑːpəˈɡændə",
+    "ukphone": "ˌprɒpəˈɡændə",
+    "createTime": "2026-09-18T01:13:56.169+0000"
+  },
+  {
+    "itemId": "41588dc4d9fb0fe1ab1396a6e5783dff",
+    "word": "deuterium",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.（核）氘；重氢：氢的稳定同位素，原子核含一个质子和一个中子。",
+    "usphone": "djuːˈtɪriəmˌduːˈtɪriəm",
+    "ukphone": "djuːˈtɪəriəm",
+    "createTime": "2026-09-18T00:09:23.596+0000"
+  },
+  {
+    "itemId": "66f9d3a84002aea20b5dd442fdedf738",
+    "word": "oxide",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.氧化物",
+    "usphone": "ˈɑːksaɪd",
+    "ukphone": "ˈɒksaɪd",
+    "createTime": "2026-09-18T00:04:21.725+0000"
+  },
+  {
+    "itemId": "a37eae51ef6da00ce8d4eb98cb333cd7",
+    "word": "uranium",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.（化学元素）铀",
+    "usphone": "juˈreɪniəm",
+    "ukphone": "juˈreɪniəm",
+    "createTime": "2026-09-18T00:04:05.963+0000"
+  },
+  {
+    "itemId": "88b4391b90c6b2244ac241f50739cf46",
+    "word": "infrared",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.红外线的；（设备，技术）使用红外的，涉及红外的\nn.红外区，红外线，红外辐射",
+    "usphone": "ˌɪnfrəˈred",
+    "ukphone": "ˌɪnfrəˈred",
+    "createTime": "2026-09-17T23:42:45.874+0000"
+  },
+  {
+    "itemId": "3ff8b1b09bde6c5fce6e470a437ef021",
+    "word": "granite",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.花岗岩，花岗石；（比喻用法）坚毅，刚强；（比喻用法）冷酷无情，铁石心肠",
+    "usphone": "ˈɡrænɪt",
+    "ukphone": "ˈɡrænɪt",
+    "createTime": "2026-09-16T03:09:36.295+0000"
+  },
+  {
+    "itemId": "0b76cef9859ad4356739b88c8a6fa03d",
+    "word": "quarry",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.采石场，矿场；猎物，被迫捕的目标；来源，源泉；（Quarry）夸里（人名，英国姓氏）\nvi.费力地找，翻找\nvt.开采（石料或矿物），挖出；努力挖掘",
+    "usphone": "ˈkwɑːri",
+    "ukphone": "ˈkwɒri",
+    "createTime": "2026-09-16T03:09:23.714+0000"
+  },
+  {
+    "itemId": "67abfd6f9d549f37912f54a2593ee5e2",
+    "word": "monument",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.纪念碑，纪念馆，纪念物；遗址，名胜古迹；典范；塑像，墓碑；有永久价值的作品\nv.为……树碑",
+    "usphone": "ˈmɑːnjumənt",
+    "ukphone": "ˈmɒnjumənt",
+    "createTime": "2026-09-16T03:09:08.890+0000"
+  },
+  {
+    "itemId": "120c1390b2e8f81d577f1200d2d7514c",
+    "word": "delicate",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.柔和的，清淡的；虚弱的，纤弱的；脆弱的，易碎的；小巧玲珑的，纤细的；微妙的，棘手的；精致的，精巧的；灵巧的，熟练的；（仪器）灵敏的\nn.精美的衣物",
+    "usphone": "ˈdelɪkət",
+    "ukphone": "ˈdelɪkət",
+    "createTime": "2026-09-10T01:18:11.824+0000"
+  },
+  {
+    "itemId": "3959ef5a602a90c58e1180db3c9538b1",
+    "word": "brass",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.黄铜；铜管乐器；黄铜器，黄铜饰品；<非正式>高级官员，高级军官；<英，非正式>钱\n【名】 （Brass）（英、法、德）布拉斯（人名）",
+    "usphone": "bræs",
+    "ukphone": "brɑːs",
+    "createTime": "2026-09-09T12:56:57.339+0000"
+  },
+  {
+    "itemId": "104f6fda8fb34366e1b75f08453c8f9c",
+    "word": "alloy",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.合金；（与贵金属混合的）劣等金属\nv.把（金属）铸成合金；<文>损坏，使（价值）降低\n【名】 （Alloy）（美、法、英、巴、加）阿洛伊（人名）",
+    "usphone": "ˈælɔɪ",
+    "ukphone": "ˈælɔɪ",
+    "createTime": "2026-09-09T12:56:38.758+0000"
+  },
+  {
+    "itemId": "926e68158524019b4162ba6945d95443",
+    "word": "zinc",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.锌；（非洲某些地方用于搭建屋顶、棚子等的）波纹铁板，瓦楞铁板\nv.（为防锈而）镀锌于（铁）",
+    "usphone": "zɪŋk",
+    "ukphone": "zɪŋk",
+    "createTime": "2026-09-09T12:56:27.964+0000"
+  },
+  {
+    "itemId": "2ab3da23606ffbeeed682bfc938f53f5",
+    "word": "apron",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.围裙；舞台前缘，台唇；停机坪\nv.着围裙于\n【名】 （Apron）（俄）阿普龙（人名）",
+    "usphone": "ˈeɪprən",
+    "ukphone": "ˈeɪprən",
+    "createTime": "2026-09-09T08:09:29.490+0000"
+  },
+  {
+    "itemId": "6f900482b44a73ebb72ca08ac30ab876",
+    "word": "levee",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.堤坝，防洪堤；河边码头，登岸处；（地质、地貌）天然堤；<古，北美>（会见宾客的）正式欢迎会；<史>（英国国君或其代表主持的）男宾下午聚会；<古>（旧时君主或显贵的）早晨接见；（Levee）（利比）莱维（人名）\nvt.为……筑堤",
+    "usphone": "ˈlevi",
+    "ukphone": "ˈlevi",
+    "createTime": "2026-09-09T08:09:16.486+0000"
+  },
+  {
+    "itemId": "f629225217c3de57e4aea7ae4ddc0db7",
+    "word": "pew",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.教堂长椅；<英，非正式>座位；会众\nv.<旧>排座位\nint.<美，非正式>呸！（用于表示气味非常难闻）\n【名】 （Pew）（英）皮尤（人名）",
+    "usphone": "pjuː",
+    "ukphone": "pjuː",
+    "createTime": "2026-09-09T08:09:08.063+0000"
+  },
+  {
+    "itemId": "164147e8a7c09bece3839152d7b47c7c",
+    "word": "sprig",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.带叶小枝，小枝，嫩枝；枝状饰物（亦指织物、瓷器上的枝状花纹）；无头小钉，无头钉；（文学、旧用）年轻人，青年；后裔（尤指贵族门第的年轻子弟）\nvt.用带叶小枝装饰，或给……加枝状图案；用无头小钉钉牢；使蔓生",
+    "usphone": "sprɪɡ",
+    "ukphone": "sprɪɡ",
+    "createTime": "2026-09-09T08:08:53.602+0000"
+  },
+  {
+    "itemId": "15f0cc30b833fc38b6b5b13faabf7034",
+    "word": "wade",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "v.涉水，趟水，艰难地行进；强行介入，干预，插手；艰难地处理，费力地阅读\nn.跋涉，涉水，艰难行走",
+    "usphone": "weɪd",
+    "ukphone": "weɪd",
+    "createTime": "2026-09-09T08:08:42.743+0000"
+  },
+  {
+    "itemId": "c58358f9e4e157e959dbf99ef52d9765",
+    "word": "dill",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.莳萝（一种芳香草本植物，叶可作调味香草）；莳萝籽（干燥后用作香料）；迪尔（人名，英、法、德）；（澳大利亚，非正式）傻瓜，笨蛋",
+    "usphone": "dɪl",
+    "ukphone": "dɪl",
+    "createTime": "2026-09-09T08:08:33.664+0000"
+  },
+  {
+    "itemId": "c260e153a2c6ff1a7c3d90b98c969065",
+    "word": "craft",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.工艺，手艺；船，艇，飞行器；诡计，骗术；行业，职业；手工艺品\nv.精心制作\n【名】 （Craft）（英、德、罗）克拉夫特（人名）",
+    "usphone": "kræft",
+    "ukphone": "krɑːft",
+    "createTime": "2026-09-09T08:08:19.524+0000"
+  },
+  {
+    "itemId": "88d518639b1fcc9790639135a4af98af",
+    "word": "peppercorn",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.胡椒粒，干胡椒，干胡椒子（干燥胡椒果实，可整粒或磨碎作调味香料）；象征性租金，名义租金（多用于 peppercorn rent、peppercorn lease 等搭配）；（Peppercorn）人名，佩珀康（英语姓氏）",
+    "usphone": "ˈpepərkɔːrn",
+    "ukphone": "ˈpepəkɔːn",
+    "createTime": "2026-09-09T08:08:08.988+0000"
+  },
+  {
+    "itemId": "a22351dfa4f67fbb5526f08a324e7d0c",
+    "word": "frond",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.（蕨类、棕榈等的）叶，复叶；（藻类、地衣等的）叶状体",
+    "usphone": "frɑːnd",
+    "ukphone": "frɒnd",
+    "createTime": "2026-09-09T08:07:42.040+0000"
+  },
+  {
+    "itemId": "1d554797d0c2261dbc677049cce7568e",
+    "word": "fern",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.（植）蕨，蕨类植物",
+    "usphone": "fɜːrn",
+    "ukphone": "fɜːn",
+    "createTime": "2026-09-09T08:07:32.780+0000"
+  },
+  {
+    "itemId": "faadb865f749459e1cfe068215007844",
+    "word": "chutney",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.酸辣酱",
+    "usphone": "ˈtʃʌtni",
+    "ukphone": "ˈtʃʌtni",
+    "createTime": "2026-09-09T08:07:01.219+0000"
+  },
+  {
+    "itemId": "c0a41149970910c34a26767a9e033277",
+    "word": "floral",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.花的，花卉的；（多用于织物、服装、设计）有花卉图案的，碎花的；（植物学、生态学）植物的，植物群的，植物区系的；花似的，像花的",
+    "usphone": "ˈflɔːrəl",
+    "ukphone": "ˈflɔːrəl",
+    "createTime": "2026-09-09T08:06:49.087+0000"
+  },
+  {
+    "itemId": "d59c8449417e63183081d1853a43e4d7",
+    "word": "recede",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "v.逐渐远离，渐渐退去；（质量）下降，（问题或疾病等）逐渐减弱；（前额的头发）脱落；（面部特征）向后倾斜；（常指牙龈因为感染）萎缩",
+    "usphone": "rɪˈsiːd",
+    "ukphone": "rɪˈsiːd",
+    "createTime": "2026-09-09T08:06:40.253+0000"
+  },
+  {
+    "itemId": "4590aab6d26f7629aed223df08a60d6a",
+    "word": "scrub",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "v.（尤指用硬刷子）擦洗，擦净；（医生在做手术前）仔细擦洗手和手臂（scrub up）；<非正式>取消（计划等）；用水净化（汽油，蒸汽）；（骑手用手臂与腿紧迫地摩擦马的颈部和两侧）催马（快行）；（赛车）（司机）让轮胎滑行（或划擦路面）以减速\nn.矮树丛，灌木丛；灌木丛地带；刷洗，擦洗；磨砂膏；<美>医院工作服（scrubs）；<非正式>无足轻重的人，可鄙的人；<美>二流球队（或队员）；<美>（在公共场所举行的）儿童非正式团体比赛\nadj.（植物）矮小的；<美>（动物）劣等的，发育不良的",
+    "usphone": "skrʌb",
+    "ukphone": "skrʌb",
+    "createTime": "2026-09-09T08:06:27.568+0000"
+  },
+  {
+    "itemId": "b74e7a7fd0c00d6c0c7146e2b993ae4e",
+    "word": "remembrance",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.纪念，怀念；记忆，回忆；纪念品，纪念物；记忆力",
+    "usphone": "rɪˈmembrəns",
+    "ukphone": "rɪˈmembrəns",
+    "createTime": "2026-09-08T09:45:12.098+0000"
+  },
+  {
+    "itemId": "3c6af94a696e663b32540cb4ee63ab39",
+    "word": "vigil",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.守夜，值夜，不眠（多指夜间守护、祈祷或静坐抗议，常与 keep 搭配）；监视，警戒，观察；（宗教）节日前夕的守夜礼；（Vigil）人名（西班牙语姓氏，译作比希尔）",
+    "usphone": "ˈvɪdʒɪl",
+    "ukphone": "ˈvɪdʒɪl",
+    "createTime": "2026-09-08T09:44:42.039+0000"
+  },
+  {
+    "itemId": "fd3ceb8cfa85719623aef6fd1b5846e4",
+    "word": "mound",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.土堆，石堆；（棒球场中的）投球区土墩；一大堆，大量；（有时指为防御或埋葬而人为构筑的）土堤，土墩；小山丘；小山岗\nvt.把……拢成堆；<古>用土堤围，用土堤加固",
+    "usphone": "maʊnd",
+    "ukphone": "maʊnd",
+    "createTime": "2026-09-08T09:44:22.866+0000"
+  },
+  {
+    "itemId": "935f75e3b7a6219ada0823bd6fece90e",
+    "word": "abbey",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.修道院，大修道院，隐修院，大寺院；修道院教堂（大教堂）；（Abbey）（美、英）阿贝（人名）",
+    "usphone": "ˈæbi",
+    "ukphone": "ˈæbi",
+    "createTime": "2026-09-08T09:44:11.889+0000"
+  },
+  {
+    "itemId": "62fa53a81b753e72f96aab3ed89b4fe8",
+    "word": "monastery",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.修道院，寺院（僧侣居住、修行的建筑或建筑群）",
+    "usphone": "ˈmɑːnəsteri",
+    "ukphone": "ˈmɒnəst(ə)ri",
+    "createTime": "2026-09-08T09:43:40.059+0000"
+  },
+  {
+    "itemId": "a45ec7b16fcfa9cb7d50d9ccedfb923b",
+    "word": "convent",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.女修道院；女修道会（共同生活的修女团体）",
+    "usphone": "ˈkɑːnventˌˈkɑːnvənt",
+    "ukphone": "ˈkɒnvənt",
+    "createTime": "2026-09-08T09:43:20.659+0000"
+  },
+  {
+    "itemId": "b8eb43a2040421aee8b052c5bd46f00d",
+    "word": "monk",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.僧侣，修道士\n【名】 （Monk）（柬）蒙，（德、法、英）蒙克（人名）",
+    "usphone": "mʌŋk",
+    "ukphone": "mʌŋk",
+    "createTime": "2026-09-08T09:43:06.873+0000"
+  },
+  {
+    "itemId": "a64668d46bf4255d5aeaa1dd22006410",
+    "word": "nun",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.修女，尼姑；希伯来字母表中的第十四个字母（拉丁转写为 n）；（航海）锥形浮标，常作 nun buoy",
+    "usphone": "nʌn",
+    "ukphone": "nʌn",
+    "createTime": "2026-09-08T09:42:59.798+0000"
+  },
+  {
+    "itemId": "916c454f12b270698c00d7235fbead38",
+    "word": "abbot",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.男修道院院长；大寺院男住持",
+    "usphone": "ˈæbət",
+    "ukphone": "ˈæbət",
+    "createTime": "2026-09-08T09:42:53.263+0000"
+  },
+  {
+    "itemId": "30b156d0226fd06aedc106f4245f34d9",
+    "word": "abbess",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.女修道院院长，女庵主持",
+    "usphone": "ˈæbəs",
+    "ukphone": "ˈæbes",
+    "createTime": "2026-09-08T09:42:45.214+0000"
+  },
+  {
+    "itemId": "6d7e770057be057713dc77e0bcf576bb",
+    "word": "embankment",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.堤防；路堤；堤岸",
+    "usphone": "ɪmˈbæŋkmənt",
+    "ukphone": "ɪmˈbæŋkmənt",
+    "createTime": "2026-09-08T08:04:11.484+0000"
+  },
+  {
+    "itemId": "1db72a7c4e94972c791e459a84a42360",
+    "word": "gulf",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.海湾；鸿沟，分歧；波斯湾；（地面的）裂口，深渊",
+    "usphone": "ɡʌlf",
+    "ukphone": "ɡʌlf",
+    "createTime": "2026-09-08T07:47:05.123+0000"
+  },
+  {
+    "itemId": "3058de9301bbeaf83200230911c02d5b",
+    "word": "mill",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.磨坊，磨粉厂；工厂，制造厂；<非正式> 一百万；磨粉机，磨麪机；<美>密尔，厘；机器，铣床；<非正式>引擎；<非正式>一百万\nv.（用磨粉机）碾碎，磨成粉；（一大群人）闲逛，转悠；碾（轧，铣）（金属）；轧出（硬币的）边纹；使（羊毛或其他动物纤维）缩绒（或缩呢）\n【名】 （Mill）米尔（人名）",
+    "usphone": "mɪl",
+    "ukphone": "mɪl",
+    "createTime": "2026-09-08T03:27:52.005+0000"
+  },
+  {
+    "itemId": "63adc3a9ea838aecdb106edc950df21e",
+    "word": "rosary",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.玫瑰经念珠，诵经用的念珠；玫瑰经；玫瑰园，玫瑰花坛（旧义）",
+    "usphone": "ˈroʊzəri",
+    "ukphone": "ˈrəʊzəri",
+    "createTime": "2026-09-08T03:27:41.682+0000"
+  },
+  {
+    "itemId": "297d3725396e8634b7e2e38a443b0a71",
+    "word": "altar",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.祭坛，圣坛，圣餐台；（教堂里牧师站立的）讲坛\n【名】 （Altar）（法、塞、罗）阿尔塔（人名）",
+    "usphone": "ˈɔːltər",
+    "ukphone": "ˈɔːltə(r)",
+    "createTime": "2026-09-08T03:27:25.933+0000"
+  },
+  {
+    "itemId": "fef07fd7445b07b4324af75c9e800686",
+    "word": "uproar",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.吵闹，喧嚣；骚乱，骚动",
+    "usphone": "ˈʌprɔːr",
+    "ukphone": "ˈʌprɔː(r)",
+    "createTime": "2026-09-08T03:27:14.222+0000"
+  },
+  {
+    "itemId": "e731cd069e8ed6d6cb5966d2f8fae15f",
+    "word": "whelp",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.小狗；幼兽\nvi.下崽\nvt.下崽",
+    "usphone": "welp",
+    "ukphone": "welp",
+    "createTime": "2026-09-08T03:27:02.717+0000"
+  },
+  {
+    "itemId": "952e80a907993439a37251e7e0cd5962",
+    "word": "vagrant",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.流浪者，乞丐；离群鸟\nadj.流浪（者）的，流浪生活的；无定向的，游移不定的；<文>无常的",
+    "usphone": "ˈveɪɡrənt",
+    "ukphone": "ˈveɪɡrənt",
+    "createTime": "2026-09-08T03:26:44.958+0000"
+  },
+  {
+    "itemId": "171f6dfa40ef37f5be508589b79f9221",
+    "word": "bruise",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.青瘀，伤痕；（水果或蔬菜的）碰伤\nv.打击，挫伤；压碎，碾碎；使青肿，使出现伤痕；碰伤（水果）",
+    "usphone": "bruːz",
+    "ukphone": "bruːz",
+    "createTime": "2026-09-08T03:26:27.229+0000"
+  },
+  {
+    "itemId": "07754a4266fb6e49844488e1399fd05e",
+    "word": "orchard",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.果园；果树林\n【名】 （Orchard）（英、西）奥查德（人名）",
+    "usphone": "ˈɔːrtʃərd",
+    "ukphone": "ˈɔːtʃəd",
+    "createTime": "2026-09-08T03:26:12.893+0000"
+  },
+  {
+    "itemId": "5f91b1acddf6c808d3c2f55549950fd0",
+    "word": "cider",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.苹果酒（英式英语通常指由苹果汁发酵制成的含酒精饮料）；苹果汁（北美英语常指未经发酵的鲜榨苹果汁）",
+    "usphone": "ˈsaɪdər",
+    "ukphone": "ˈsaɪdə(r)",
+    "createTime": "2026-09-08T03:26:00.285+0000"
+  },
+  {
+    "itemId": "180d4e0abf731f75253d1d22cc141b8c",
+    "word": "sparkling",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.闪烁的，闪亮的；妙趣横生的，才智焕发的；（饮料）起泡沫的；出色的，杰出的\nv.闪烁，闪耀；生气勃勃；（眼睛）发亮（sparkle 的现在分词）\n【名】 （Sparkling）（英）斯帕克林（人名）",
+    "usphone": "ˈspɑːrklɪŋ",
+    "ukphone": "ˈspɑːklɪŋ",
+    "createTime": "2026-09-08T03:25:46.633+0000"
+  },
+  {
+    "itemId": "4df6449fc6ba056fddd0914b6a6def97",
+    "word": "stoop",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "v.俯身，弯腰；（站立或行走时）弓背，驼背；卑鄙，堕落；（猛禽）下扑，猛扑\nn.驼背，弯腰曲背；<美>门廊，门阶；（猛禽的）下扑，猛扑\n【名】 （Stoop）（法、荷、葡）斯托普（人名）",
+    "usphone": "stuːp",
+    "ukphone": "stuːp",
+    "createTime": "2026-09-08T03:25:27.434+0000"
+  },
+  {
+    "itemId": "57668a07756633187f45e77def23acc9",
+    "word": "mantel",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.壁炉架，壁炉台（壁炉上方的搁板或饰架）；Mantel（英、德、罗、瑞典等姓氏，常译曼特尔；法语译芒泰尔）",
+    "usphone": "ˈmæntl",
+    "ukphone": "ˈmænt(ə)l",
+    "createTime": "2026-09-08T03:25:12.635+0000"
+  },
+  {
+    "itemId": "b0e399bbe69bee3cca1fe0932e580ddc",
+    "word": "rupture",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.（体内组织等的）破裂；（管道等的）断裂；疝气；（关系的）决裂\nv.（使体内组织等）破裂；使（器官）破裂，形成疝（be ruptured/rupture oneself）；（使容器或管道等）断裂；使（关系）破裂",
+    "usphone": "ˈrʌptʃər",
+    "ukphone": "ˈrʌptʃə(r)",
+    "createTime": "2026-09-08T03:25:00.403+0000"
+  },
+  {
+    "itemId": "4a6e782e5f71210a41bc1d80af0fa3eb",
+    "word": "nasty",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.恶毒的，凶相的；令人不快的，令人厌恶的；（伤口、疾病等）严重的，恶性的；污秽的，下流的；（外表）丑陋的，（气味等）难闻的；造成很大伤害的；令人担忧的，难对付的；有威胁性的，吓人的\nn.<非正式>令人不快的人（或事），危害别人的人（或事）；<非正式>恐怖录像（或影片）\n【名】 （Nasty）（美、俄、印）耐史迪（人名）",
+    "usphone": "ˈnæsti",
+    "ukphone": "ˈnɑːsti",
+    "createTime": "2026-09-08T03:24:36.213+0000"
+  },
+  {
+    "itemId": "a1d296d9b8087cf2d992405377b590cb",
+    "word": "ego",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.自负，自尊，自我意识；（心理学）自我\n【名】 （Ego）（法）埃戈，（日）依怙（人名）",
+    "usphone": "ˈiːɡoʊ",
+    "ukphone": "ˈiːɡəʊ",
+    "createTime": "2026-09-08T03:24:24.263+0000"
+  },
+  {
+    "itemId": "90f2541fd391517c6a63e64e303d3f49",
+    "word": "esteem",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.尊重，敬重\nv.尊重，敬重；认为，把……看作",
+    "usphone": "ɪˈstiːm",
+    "ukphone": "ɪˈstiːm",
+    "createTime": "2026-09-08T03:24:16.291+0000"
+  },
+  {
+    "itemId": "e40d5cf48e31a4328a740b5ac127beff",
+    "word": "fiddle",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "v.（尤指厌烦或紧张地）不停摆弄；<非正式>篡改，伪造；拉小提琴；略微变动；调整\nn.<非正式>小提琴；<非正式>欺诈，骗局；<非正式>修理，调整；<非正式>难事；（防止餐具在恶劣天气条件下滚落或滑落的）餐桌缘框",
+    "usphone": "ˈfɪdl",
+    "ukphone": "ˈfɪdl",
+    "createTime": "2026-09-08T03:24:00.264+0000"
+  },
+  {
+    "itemId": "90bde7f52d839612fe9b701e289c0aad",
+    "word": "garment",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.（一件）衣服\n【名】 （Garment）（英）加门特（人名）",
+    "usphone": "ˈɡɑːrmənt",
+    "ukphone": "ˈɡɑːmənt",
+    "createTime": "2026-09-08T01:41:57.480+0000"
+  },
+  {
+    "itemId": "19eea70e3ceda7f4c9acbdfd3b2c28b7",
+    "word": "revelry",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.狂欢，欢宴",
+    "usphone": "ˈrevlri",
+    "ukphone": "ˈrevlri",
+    "createTime": "2026-09-08T01:21:10.139+0000"
+  },
+  {
+    "itemId": "ff4e08bb7d7f17f6e0e1f78ad981013d",
+    "word": "blemish",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.瑕疵，污点；缺点\nvt.玷污，损害，弄脏",
+    "usphone": "ˈblemɪʃ",
+    "ukphone": "ˈblemɪʃ",
+    "createTime": "2026-09-08T01:20:55.878+0000"
+  },
+  {
+    "itemId": "1ed9d4bba0e80dec46037b09794d8426",
+    "word": "shrine",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.神殿，圣祠，神龛，圣地，神社；纪念地（与逝者或重大事件相关、供人瞻仰的地方，常与 to 连用）\nvt.将……置于神龛内；把……奉为神圣（古旧/文学用法）",
+    "usphone": "ʃraɪn",
+    "ukphone": "ʃraɪn",
+    "createTime": "2026-09-08T01:20:44.871+0000"
+  },
+  {
+    "itemId": "bedf73e621d2adcc557bbb4a8bb7e5c7",
+    "word": "pilgrim",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.朝圣者，香客；（Pilgrim）前辈清教徒移民；到某重要地点（或人物居所）参观的人；<文>流浪者，旅客\nv.<古>漫游，流浪；去朝圣\n【名】 （Pilgrim）（英、德）皮尔格林（人名）",
+    "usphone": "ˈpɪlɡrɪm",
+    "ukphone": "ˈpɪlɡrɪm",
+    "createTime": "2026-09-08T01:20:30.903+0000"
+  },
+  {
+    "itemId": "c37ff9acd436a7104f2292f5d35e0fc3",
+    "word": "preacher",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.传道士，牧师 ；鼓吹者\n【名】 （Preacher）（英）普里彻（人名）",
+    "usphone": "ˈpriːtʃər",
+    "ukphone": "ˈpriːtʃə(r)",
+    "createTime": "2026-09-08T01:20:16.719+0000"
+  },
+  {
+    "itemId": "58139934e08d4da80b1b0e00bab03424",
+    "word": "profane",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.亵渎的，渎神的；世俗的，非宗教的；（言语）粗俗的，下流的；（旧）异教的\nvt.亵渎；玷污",
+    "usphone": "prəˈfeɪn",
+    "ukphone": "prəˈfeɪn",
+    "createTime": "2026-09-08T01:20:00.420+0000"
+  },
+  {
+    "itemId": "c3cb8c1c0ff1b407eeaf6c6e62e9d881",
+    "word": "solemn",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.表情严肃的，庄严的；（承诺、协定等）庄严的，郑重的；（仪式）庄严的，隆重的",
+    "usphone": "ˈsɑːləm",
+    "ukphone": "ˈsɒləm",
+    "createTime": "2026-09-08T01:19:38.603+0000"
+  },
+  {
+    "itemId": "7a4a82401af2377974fecc8d307df945",
+    "word": "contempt",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.轻视，蔑视；忽视，不顾；藐视法庭",
+    "usphone": "kənˈtempt",
+    "ukphone": "kənˈtempt",
+    "createTime": "2026-09-08T01:19:26.125+0000"
+  },
+  {
+    "itemId": "ef6ae0ec151d6fd70703128c6a5e59c4",
+    "word": "proclaim",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "v.（正式）宣告，（公开）声明；强调，声称；（标志或通知）宣传，告知；清楚表明，显示",
+    "usphone": "prəˈkleɪm",
+    "ukphone": "prəˈkleɪm",
+    "createTime": "2026-09-08T01:19:02.904+0000"
+  },
+  {
+    "itemId": "39b890747a361c8f979b93a749a0c6bf",
+    "word": "rite",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.（宗教等的）仪式；礼节，惯例\n【名】 （Rite）（西）里特（人名）",
+    "usphone": "raɪt",
+    "ukphone": "raɪt",
+    "createTime": "2026-09-08T01:05:25.668+0000"
+  },
+  {
+    "itemId": "b1a6ecfb82b73ecccf6ba99b0fb25fa6",
+    "word": "pouch",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.小袋子，荷包；邮袋，文件袋；（袋鼠、考拉等的）育儿袋；（啮齿动物的）颊袋；眼袋；（背包等的）侧袋\nv.把……放入袋中；<非正式>拥有；（板球）接（球）；使（衣服的一部分）悬垂如袋；（使）成袋状\n【名】 （Pouch）（捷）保赫，（英）波奇（人名）",
+    "usphone": "paʊtʃ",
+    "ukphone": "paʊtʃ",
+    "createTime": "2026-09-08T01:05:05.865+0000"
+  },
+  {
+    "itemId": "e11ececdffabe205581f607123249f76",
+    "word": "utensil",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.（尤指厨房或家用的）器具，用具",
+    "usphone": "juːˈtens(ə)l",
+    "ukphone": "juːˈtens(ə)l",
+    "createTime": "2026-09-08T01:04:55.440+0000"
+  },
+  {
+    "itemId": "f39032a719d8d66111c1a6e937736a12",
+    "word": "cavalry",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.骑兵，骑兵部队；装甲兵，装甲部队",
+    "usphone": "ˈkæv(ə)lri",
+    "ukphone": "ˈkæv(ə)lri",
+    "createTime": "2026-09-08T01:04:44.681+0000"
+  },
+  {
+    "itemId": "80ede3e9270ed6ffc66f3b1d202a81e0",
+    "word": "germinate",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "vi.（种子、孢子等）发芽、萌发并开始生长；（想法、计划、感情等）萌生，开始形成\nvt.使（种子、孢子等）发芽、萌发并开始生长",
+    "usphone": "ˈdʒɜːrmɪneɪt",
+    "ukphone": "ˈdʒɜːmɪneɪt",
+    "createTime": "2026-09-08T01:04:32.766+0000"
+  },
+  {
+    "itemId": "60eb79fc06e4c3151cbcf7a90cf4d3e6",
+    "word": "graft",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.（园艺）嫁接；接穗；（医学）移植；移植物；（英，非正式）辛苦的工作；（法律）贪污、受贿\nv.（园艺）嫁接；（医学）移植；（英，非正式）辛苦地工作；（法律）贪污、受贿；植根；引入；（尤指不恰当地）将（某物）永久地插入别的物体",
+    "usphone": "ɡræft",
+    "ukphone": "ɡrɑːft",
+    "createTime": "2026-09-08T01:04:17.838+0000"
+  },
+  {
+    "itemId": "0391cc9b12c3954075d5cf4017301113",
+    "word": "dough",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.生面团；<旧>钱",
+    "usphone": "doʊ",
+    "ukphone": "dəʊ",
+    "createTime": "2026-09-08T01:03:59.351+0000"
+  },
+  {
+    "itemId": "0147ff0f77ffe592a0279be550aac043",
+    "word": "knead",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "vt.揉合，揉捏；按摩；捏制",
+    "usphone": "niːd",
+    "ukphone": "niːd",
+    "createTime": "2026-09-08T01:03:49.949+0000"
+  },
+  {
+    "itemId": "4b25a335fc15bb088b014a0851a407ce",
+    "word": "pliable",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.（物体、材料）柔韧的，柔软的，易弯曲、可塑而不易断裂的；（人、性格、意志等）容易受影响或被引导的，顺从的",
+    "usphone": "ˈplaɪəb(ə)l",
+    "ukphone": "ˈplaɪəb(ə)l",
+    "createTime": "2026-09-08T01:03:37.513+0000"
+  },
+  {
+    "itemId": "81e0630fe42e76785b5118373bd7ffb0",
+    "word": "veneration",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.<正式>尊敬，崇敬；（宗教上的）敬奉，崇拜",
+    "usphone": "ˌvenəˈreɪʃn",
+    "ukphone": "ˌvenəˈreɪʃn",
+    "createTime": "2026-09-08T01:03:26.073+0000"
+  },
+  {
+    "itemId": "8fe30d183ce82c60a75ae2a699b9e1ef",
+    "word": "ritual",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.（宗教等的）仪式，典礼；习惯，例行公事；（尤指某一宗教或教派特定的）程序，仪式\nadj.仪式上的，庆典上的；（行动）常规的，例行的",
+    "usphone": "ˈrɪtʃuəl",
+    "ukphone": "ˈrɪtʃuəl",
+    "createTime": "2026-09-08T01:03:12.104+0000"
+  },
+  {
+    "itemId": "752aa837df296a40a3469e067762ae8f",
+    "word": "gravel",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.碎石，砂砾；（用于铺路及用作三合土的）砂砾；砂砾层；（医）尿砂\nv.用砂砾铺（地）；<美，非正式>使气恼，搅扰；<古>使困惑\n【名】 （Gravel）（英、法、西）格拉韦尔（人名）",
+    "usphone": "ˈɡræv(ə)l",
+    "ukphone": "ˈɡræv(ə)l",
+    "createTime": "2026-09-08T01:03:02.458+0000"
+  },
+  {
+    "itemId": "6667b88544192bb77ad50e8461355659",
+    "word": "rind",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.果皮，外皮，壳（柠檬、柑橘、西瓜等的厚皮）；（干酪、熏肉等的）外皮；（Rind）人名（英、德、巴基译作林德，法译作兰）\nvt.剥壳，削皮",
+    "usphone": "raɪnd",
+    "ukphone": "raɪnd",
+    "createTime": "2026-09-08T01:02:53.125+0000"
+  },
+  {
+    "itemId": "9bdb450b7fedbceedbb015ba776eb32d",
+    "word": "pickle",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.泡菜，腌菜；菜酱，泡菜汁；<美>腌黄瓜；<非正式>困境；<英，非正式，旧>捣蛋鬼，讨厌鬼；（用来清洗金属物体的）淡酸水\nv.盐腌制，醋渍；酸洗（金属）\n【名】 （Pickle）（英）皮克尔（人名）",
+    "usphone": "ˈpɪkl",
+    "ukphone": "ˈpɪkl",
+    "createTime": "2026-09-08T01:02:41.444+0000"
+  },
+  {
+    "itemId": "cd9f43c0f812e7815353785d77701c4b",
+    "word": "garnish",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "v.装饰（尤指食物），给（食物）加配菜，点缀（食物）；（法律）为合法扣押属于债务人或被告的钱财而传讯（第三方），或依法扣押（债务人的工资、财产）\nn.（为增加色香味而添加的）配菜，装饰菜；装饰品；（Garnish）（美、英）加尼什（人名）",
+    "usphone": "ˈɡɑːrnɪʃ",
+    "ukphone": "ˈɡɑːnɪʃ",
+    "createTime": "2026-09-08T01:02:31.295+0000"
+  },
+  {
+    "itemId": "249db61999c0c93bb2b8be9d588b5f30",
+    "word": "vinegar",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.醋；尖酸，刻薄",
+    "usphone": "ˈvɪnɪɡər",
+    "ukphone": "ˈvɪnɪɡə(r)",
+    "createTime": "2026-09-08T01:02:17.494+0000"
+  },
+  {
+    "itemId": "9394f1e3e9f12567be1e6e443088d90b",
+    "word": "cilantro",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.香菜，芫荽叶",
+    "usphone": "sɪˈlɑːntroʊ",
+    "ukphone": "sɪˈlæntrəʊ",
+    "createTime": "2026-09-08T01:01:54.228+0000"
+  },
+  {
+    "itemId": "194702be243593d3d39f41b6f7f46f69",
+    "word": "embellish",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "vt.装饰，修饰，美化；润色，渲染，添油加醋\nvi.装饰起来；加以润色",
+    "usphone": "ɪmˈbelɪʃ",
+    "ukphone": "ɪmˈbelɪʃ",
+    "createTime": "2026-09-08T01:01:42.447+0000"
+  },
+  {
+    "itemId": "dcb3044f565e2eb693769054878f441a",
+    "word": "yarn",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.（棉、毛等的）纱，纱线，纺线；（尤指难以置信的）故事，奇谈；<澳，新西兰>闲聊，闲谈\nv.<非正式>讲（长而不可信的）故事，信口开河；<澳，新西兰>闲聊，谈话",
+    "usphone": "jɑːrn",
+    "ukphone": "jɑːn",
+    "createTime": "2026-09-08T01:01:25.154+0000"
+  },
+  {
+    "itemId": "ffff2a9693f70b7586cc100f57714c66",
+    "word": "biennial",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.两年一次的；（植物学）二年生的\nn.（植）二年生植物；两年一次的活动（尤指双年展）",
+    "usphone": "baɪˈeniəl",
+    "ukphone": "baɪˈeniəl",
+    "createTime": "2026-09-08T01:01:14.435+0000"
+  },
+  {
+    "itemId": "9adba10cc8bd8be0ef5e5f0aedb68536",
+    "word": "veil",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.面纱，面罩；（修女的）头巾；遮盖物，掩饰，借口；避而不谈（难堪或不愉快的）某事；（古犹太教）圣布；（植）菌幕；（穆斯林国家妇女）带面纱的习俗\nv.以面纱掩盖；遮盖，掩饰\n【名】 （Veil）（法）韦伊，（德）法伊尔（人名）",
+    "usphone": "veɪl",
+    "ukphone": "veɪl",
+    "createTime": "2026-09-08T01:00:57.440+0000"
+  },
+  {
+    "itemId": "9a2b2c3b87a2687e073d549fae21e653",
+    "word": "condiment",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.调味品，佐料，调料",
+    "usphone": "ˈkɑːndɪmənt",
+    "ukphone": "ˈkɒndɪmənt",
+    "createTime": "2026-09-08T01:00:36.711+0000"
+  },
+  {
+    "itemId": "2f964689eabc6c480eb216d27f0bec49",
+    "word": "savory",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.咸味的，辛辣的，鲜味的；可口的，味美的；品格优秀的（savoury 的美式拼写）\nn.开胃菜，咸味小菜；香薄荷；（Savory）<英>萨沃里（人名）",
+    "usphone": "ˈseɪvəri",
+    "ukphone": "ˈseɪvəri",
+    "createTime": "2026-09-08T01:00:13.895+0000"
+  },
+  {
+    "itemId": "577c536da4c46b4114d11895eea97a72",
+    "word": "brine",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.卤水；盐水；海水\nvt.用浓盐水处理（或浸泡）\nn.（Brine）人名；（阿拉伯）布里内；（英）布赖恩",
+    "usphone": "braɪn",
+    "ukphone": "braɪn",
+    "createTime": "2026-09-08T01:00:01.479+0000"
+  },
+  {
+    "itemId": "e38f4020baaf014f8d3ff6ba16dcb6bb",
+    "word": "pulp",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.浆状物；纸浆；（水果或蔬菜的）果肉，瓤；牙髓；矿浆；通俗（或耸人听闻）的劣质作品\nvt.将……捣成浆；将（书或报纸）制成纸浆；把（某人的脸或身体）打得血肉模糊",
+    "usphone": "pʌlp",
+    "ukphone": "pʌlp",
+    "createTime": "2026-09-08T00:59:30.086+0000"
+  },
+  {
+    "itemId": "43d4c2b8a728d3d78ed7bc9263ac18b3",
+    "word": "silt",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.淤泥，泥沙；粉砂尘，泥沙层；（技）粉砂\nv.（使）淤塞",
+    "usphone": "sɪlt",
+    "ukphone": "sɪlt",
+    "createTime": "2026-09-08T00:59:05.377+0000"
+  },
+  {
+    "itemId": "61cee5dab48a64ea12ae3c0f56b138f7",
+    "word": "soak",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "v.浸泡；使湿透，浸湿；（液体）渗入，渗透；（在浴缸里）长时间泡浴；<非正式>向……敲竹杠（征重税）；吸收，吸入；沉浸在（学习中）\nn.浸泡，浸透；（长时间的）泡浴，洗澡；<非正式>酒鬼；<澳新>积水洼地，水洼；<英，非正式>大雨",
+    "usphone": "soʊk",
+    "ukphone": "səʊk",
+    "createTime": "2026-09-08T00:58:55.970+0000"
+  },
+  {
+    "itemId": "adced81211ad68013c59da2e1e286cbe",
+    "word": "sprawl",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "v.伸开四肢坐（或躺）；蔓延\nn.（城市）杂乱无序拓展的地区；四肢摊开的姿势；随意扩展，蔓延物",
+    "usphone": "sprɔːl",
+    "ukphone": "sprɔːl",
+    "createTime": "2026-09-08T00:58:42.928+0000"
+  },
+  {
+    "itemId": "7407a0614a275bb8bcd2433aa017cd47",
+    "word": "swollen",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.肿胀的，肿起来的；（河流）涨水的，上涨的\nv.膨胀，肿胀；（使）鼓起，（使）隆起；（使）增加，扩大（swell 的过去式和过去分词）",
+    "usphone": "ˈswoʊlən",
+    "ukphone": "ˈswəʊlən",
+    "createTime": "2026-09-08T00:58:27.332+0000"
+  },
+  {
+    "itemId": "692d3a0633e4e28f542d925cfde3e561",
+    "word": "outskirts",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.市郊，郊区",
+    "usphone": "ˈaʊtskɜːrts",
+    "ukphone": "ˈaʊtskɜːts",
+    "createTime": "2026-09-08T00:58:09.589+0000"
+  },
+  {
+    "itemId": "1e50d4dee5d5f49b41e2f0cf90698db1",
+    "word": "culinary",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.<正式>烹饪的，食物的",
+    "usphone": "ˈkʌlɪneri",
+    "ukphone": "ˈkʌlɪnəri",
+    "createTime": "2026-09-07T07:18:12.695+0000"
+  },
+  {
+    "itemId": "2c8660acba1db56baaac1ebdf7bdfc33",
+    "word": "senile",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.高龄的，老年性的，高龄所致的；老衰的，衰老的，年老糊涂的（可能含贬义）",
+    "usphone": "ˈsiːnaɪl",
+    "ukphone": "ˈsiːnaɪl",
+    "createTime": "2026-09-07T06:59:00.948+0000"
+  },
+  {
+    "itemId": "eaa17bd72c3042a06bf87ead42272aa4",
+    "word": "puberty",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.青春期，发育期；开花期",
+    "usphone": "ˈpjuːbərti",
+    "ukphone": "ˈpjuːbəti",
+    "createTime": "2026-09-02T23:40:23.516+0000"
+  },
+  {
+    "itemId": "40697ff8a50ce0ebd9861d1a001ebb24",
+    "word": "pubic",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.耻骨的；阴毛的；阴部的",
+    "usphone": "ˈpjuːbɪk",
+    "ukphone": "ˈpjuːbɪk",
+    "createTime": "2026-09-02T23:40:08.861+0000"
+  },
+  {
+    "itemId": "ae0ff0b24d02b1c228b624b407f42553",
+    "word": "scion",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.[农学] 接穗；子孙",
+    "usphone": "ˈsaɪən",
+    "ukphone": "ˈsaɪən",
+    "createTime": "2026-09-02T10:13:24.678+0000"
+  },
+  {
+    "itemId": "d261ba31a638de904885998eb22c66ee",
+    "word": "croissant",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.羊角面包，新月形面包\n【名】 （Croissant）（法、德）克鲁瓦桑（人名）",
+    "usphone": "kwɑːˈsɑːnt; krəˈsɑːnt",
+    "ukphone": "ˈkwɑːsɒŋ",
+    "createTime": "2026-09-02T05:44:06.882+0000"
+  },
+  {
+    "itemId": "4d7940fd283cb1f0c74552ff90935924",
+    "word": "prank",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.恶作剧，开玩笑；戏谑\nvt.装饰；打扮\nvi.炫耀自己；胡闹",
+    "usphone": "præŋk",
+    "ukphone": "præŋk",
+    "createTime": "2026-08-24T05:59:10.074+0000"
+  },
+  {
+    "itemId": "af64b9f41b0ead8c43e7245bbe9f8324",
+    "word": "syrup",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.糖浆；糖水（有时加果汁）；药用糖浆，糖浆剂；（风格，态度）过分甜蜜，过分多愁善感；<英，非正式>假发",
+    "usphone": "ˈsɪrəp",
+    "ukphone": "ˈsɪrəp",
+    "createTime": "2026-08-23T23:26:07.854+0000"
+  },
+  {
+    "itemId": "d4df32691f12610c11b68adabfe4e406",
+    "word": "viscous",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.粘性的；黏的",
+    "usphone": "ˈvɪskəs",
+    "ukphone": "ˈvɪskəs",
+    "createTime": "2026-08-20T23:23:38.474+0000"
+  },
+  {
+    "itemId": "a6cd581f658ed03b914252e7ec7fae85",
+    "word": "ethic",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.行为准则，道德规范，伦理标准；信仰\nadj.（与）道德规范（有关）的，（与）伦理（有关）的（=ethical）",
+    "usphone": "ˈeθɪk",
+    "ukphone": "ˈeθɪk",
+    "createTime": "2026-08-20T06:01:30.731+0000"
+  },
+  {
+    "itemId": "4d032f7708b3126907d870413517a33a",
+    "word": "lubricant",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.润滑油；（比喻有利于事情顺利进行的）润滑剂\nadj.（用作）润滑的，减少摩擦的",
+    "usphone": "ˈluːbrɪkənt",
+    "ukphone": "ˈluːbrɪkənt",
+    "createTime": "2026-08-19T04:43:03.314+0000"
+  },
+  {
+    "itemId": "adb50c285641132b2ee08d603c683172",
+    "word": "kin",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.（统称）家属，亲戚\nadj.（人）有亲戚关系的\n【名】 （Kin）（缅）庆，（朝）紧，（匈、柬、塞）金，（中）金（人名）",
+    "usphone": "kɪn",
+    "ukphone": "kɪn",
+    "createTime": "2026-08-17T10:05:49.205+0000"
+  },
+  {
+    "itemId": "88206475eddffc6de7836a908cccdf04",
+    "word": "robin",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.欧亚鸲，欧洲知更鸟；旅鸫，美洲知更鸟（毛灰色，胸部红色，比欧亚鸲大）",
+    "usphone": "ˈrɑːbɪn",
+    "ukphone": "ˈrɒbɪn",
+    "createTime": "2026-08-17T09:49:50.568+0000"
+  },
+  {
+    "itemId": "e6adc7c300366fad624fd4c6678835c2",
+    "word": "sleek",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.光滑的，光亮的；线条流畅的，造型优美的；时髦阔气的；油嘴滑舌的\nv.使平整光亮；掩盖；打扮整洁",
+    "usphone": "sliːk",
+    "ukphone": "sliːk",
+    "createTime": "2026-08-17T09:48:01.544+0000"
+  },
+  {
+    "itemId": "7cfa84006febdf509a5f22a8943953ad",
+    "word": "gala",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.盛会，庆典；<英> 体育运动会，体育竞赛（尤指游泳）\nadj.节日的，欢庆的，欢乐的\n【名】 （Gala）（俄、德、西）加拉（人名）",
+    "usphone": "ˈɡeɪlə; ˈɡælə",
+    "ukphone": "ˈɡɑːlə",
+    "createTime": "2026-08-17T09:39:35.531+0000"
+  },
+  {
+    "itemId": "1ee4f34309e6d21ff540a7889561bb9a",
+    "word": "slender",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.苗条的，纤细的；（尤指竿、枝或茎）细长的，狭窄的；微薄的，不足的",
+    "usphone": "ˈslendər",
+    "ukphone": "ˈslendə(r)",
+    "createTime": "2026-08-17T09:38:44.663+0000"
+  },
+  {
+    "itemId": "5afffe7a433eef5f8f39931fe167d419",
+    "word": "svelte",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.苗条的；线条清晰的；和蔼的",
+    "usphone": "svelt",
+    "ukphone": "svelt",
+    "createTime": "2026-08-17T09:37:49.960+0000"
+  },
+  {
+    "itemId": "70ec73376b9b1fee2ddc6493c80f30bf",
+    "word": "thrash",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "vt.打；使逆行\nvi.打谷；白忙；猛烈摆动\nn.打谷；逆风浪行进；踢水动作\nn.（Thrash）人名；（英）思拉什",
+    "usphone": "θræʃ",
+    "ukphone": "θræʃ",
+    "createTime": "2026-08-17T09:32:43.309+0000"
+  },
+  {
+    "itemId": "054e92cb39f0fd2d2eed686b29bd6819",
+    "word": "flail",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "v.乱动；（用棍棒）猛击；（使）大幅波动；踉跄；用连枷打（谷）\nn.连枷（旧时打谷物用的工具）",
+    "usphone": "fleɪl",
+    "ukphone": "fleɪl",
+    "createTime": "2026-08-17T09:32:30.185+0000"
+  },
+  {
+    "itemId": "0601642b75e480819685805c9c5e7c28",
+    "word": "solstice",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.至，至日；至点",
+    "usphone": "ˈsɑːlstɪs",
+    "ukphone": "ˈsɒlstɪs",
+    "createTime": "2026-08-06T08:39:32.870+0000"
+  },
+  {
+    "itemId": "ad8c9de5f4505ee2e09587c3faf8359d",
+    "word": "secant",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.割的；切的；交叉的\nn.割线；正割",
+    "usphone": "ˈsiːkənt",
+    "ukphone": "ˈsiːkənt",
+    "createTime": "2026-07-10T08:25:16.824+0000"
+  },
+  {
+    "itemId": "4fc2722a459319587608ef4127f9d498",
+    "word": "seismic",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "adj.地震的；因地震而引起的",
+    "usphone": "ˈsaɪzmɪk",
+    "ukphone": "ˈsaɪzmɪk",
+    "createTime": "2026-07-09T09:06:23.454+0000"
+  },
+  {
+    "itemId": "0031bb67a686e8c4dc2eb9152edb1ad0",
+    "word": "turbine",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.涡轮机，汽轮机",
+    "usphone": "ˈtɜːrbaɪn",
+    "ukphone": "ˈtɜːbaɪn",
+    "createTime": "2026-07-09T08:59:09.821+0000"
+  },
+  {
+    "itemId": "8030b9d5ea66a98e8c82dd73b4f1e516",
+    "word": "toothpaste",
+    "lanFrom": "en",
+    "lanTo": "zh-CHS",
+    "trans": "n.牙膏",
+    "usphone": "ˈtuːθpeɪst",
+    "ukphone": "ˈtuːθpeɪst",
+    "createTime": "2026-06-07T23:41:43.367+0000"
+  },
+  {
     "itemId": "25a7c086c424145d088b8122c1aea065",
     "word": "curriculum",
     "lanFrom": "en",
@@ -2270,16 +6590,6 @@
     "createTime": "2025-12-31T03:49:31.555+0000"
   },
   {
-    "itemId": "b537585761457e6f26907b2f432fdc3c",
-    "word": "bout",
-    "lanFrom": "en",
-    "lanTo": "zh-CHS",
-    "trans": "n.回合；较量；发作；一阵\nn.(Bout)人名；(法)布特",
-    "usphone": "baʊt",
-    "ukphone": "baʊt",
-    "createTime": "2025-12-31T03:49:14.938+0000"
-  },
-  {
     "itemId": "cc4c11ce44f48e69a796c5f4ea614b6f",
     "word": "commodity",
     "lanFrom": "en",
@@ -3548,16 +7858,6 @@
     "usphone": "ˈnærətɪv",
     "ukphone": "ˈnærətɪv",
     "createTime": "2025-09-12T05:29:43.688+0000"
-  },
-  {
-    "itemId": "ae07c6d98db8dea713ae989e5f5a7d00",
-    "word": "cinch",
-    "lanFrom": "en",
-    "lanTo": "zh-CHS",
-    "trans": "n.（非正式）极其容易做的事情；必定的事；马鞍肚带；五个王牌排最大的纸牌游戏\nv.用带子系（衣服）；用肚带系紧（马鞍）；给（马）系上肚带；（非正式）确保",
-    "usphone": "sɪntʃ",
-    "ukphone": "sɪntʃ",
-    "createTime": "2025-09-11T11:48:45.397+0000"
   },
   {
     "itemId": "a5dfc3aa3e4783f4e8049243a076bf7b",
